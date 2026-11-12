@@ -1,0 +1,12 @@
+[live-session] waiting to pace live navigations to gururajkoni.dev (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://gururajkoni.dev/
+  build: http://localhost:8791/index-proposed.html
+
+■ header: 1 delta(s)
+  REGION       live: no element matches "header" — pass --region header=<liveSel>|<buildSel>
+
+■ footer: 1 delta(s)
+  REGION       live: no element matches "footer" — pass --region footer=<liveSel>|<buildSel>
+
+✗ 2 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

@@ -1,0 +1,632 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-12T06:37:56.879Z",
+    "waitMode": "slow",
+    "waitMs": 5000,
+    "httpStatus": 200
+  },
+  "slug": "index",
+  "url": "https://gururajkoni.dev/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-12T06:37:56.879Z",
+  "finalUrl": "https://gururajkoni.dev/",
+  "title": "Gururaj Koni - Full Stack Developer & AEM Specialist | Portfolio",
+  "description": "Full Stack Developer specializing in Adobe Experience Manager (AEM), React, Java, and modern web technologies. Explore my portfolio of enterprise-level projects including SAB.com, Meemic.com, and Chase credit card platforms.",
+  "og": {
+    "title": "Gururaj Koni - Full Stack Developer & AEM Specialist",
+    "description": "Full Stack Developer specializing in Adobe Experience Manager (AEM), React, Java, and modern web technologies. View my portfolio of enterprise projects.",
+    "image": "https://gururajkoni.dev/og-image.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "My Medium Blogs"
+    },
+    {
+      "tag": "h3",
+      "text": "One Prompt Instead of Ten Clicks: AEM MCP for Developers"
+    },
+    {
+      "tag": "h3",
+      "text": "I Migrated a React SPA to AEM Edge Delivery Services in Minutes. Here’s What That Actually Meant."
+    },
+    {
+      "tag": "h3",
+      "text": "Figma to AEM components with MCP"
+    },
+    {
+      "tag": "h2",
+      "text": "Shopping Website in Java Using JSP and Servlet"
+    },
+    {
+      "tag": "h2",
+      "text": "ACG AAA Connect"
+    },
+    {
+      "tag": "h2",
+      "text": "Chase DoorDash Credit Card"
+    },
+    {
+      "tag": "h4",
+      "text": "Contact Me"
+    }
+  ],
+  "body": [
+    "Hi, I'm Gururaj Koni",
+    "I am a full-stack Web Developer",
+    "About",
+    "Service",
+    "Work",
+    "Contact",
+    "Blogs",
+    "About",
+    "Service",
+    "Work",
+    "Contact",
+    "Blogs",
+    "As a full stack developer, I handle both frontend and backend development, ensuring a seamless integration and functionality of your web application. From designing intuitive user interfaces to building secure server-side solutions, I deliver comprehensive web solutions.",
+    "Full Stack Web Development",
+    "With extensive experience in Adobe Experience Manager (AEM), I develop and customize CMS solutions that empower you to manage your website content effortlessly. I ensure that your AEM implementation is user-friendly, scalable, and tailored to meet your specific business needs.",
+    "AEM Development",
+    "As a graphic designer, I specialize in crafting visually captivating designs that enhance your web application's overall user experience. From logos to user interfaces, my creative solutions ensure a visually cohesive and memorable online presence for your brand.",
+    "Graphic Design",
+    "Tue Oct 13 2026",
+    "There is a particular kind of AEM work that is not difficult, but is expensive in attention.Continue reading on Medium »...",
+    "Sat Jun 27 2026",
+    "When people hear “migrate a React SPA to EDS using AI,” they picture a code translator. Point it at a repo, it spits out...",
+    "Fri Feb 06 2026",
+    "If you’ve ever built AEM components from a Figma design, you already know the boring part: HTL, dialog XML, Sling Models...",
+    "My Social Networks"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Check out my workCheck out my work",
+      "href": null
+    },
+    {
+      "label": "About",
+      "href": "/#about"
+    },
+    {
+      "label": "Service",
+      "href": "/#service"
+    },
+    {
+      "label": "Work",
+      "href": "/#work"
+    },
+    {
+      "label": "Contact",
+      "href": "/#contact"
+    },
+    {
+      "label": "Blogs",
+      "href": "/#blogs"
+    },
+    {
+      "label": "Contact me",
+      "href": "#contact"
+    },
+    {
+      "label": "all",
+      "href": null
+    },
+    {
+      "label": "languages",
+      "href": null
+    },
+    {
+      "label": "frameworks",
+      "href": null
+    },
+    {
+      "label": "tools",
+      "href": null
+    },
+    {
+      "label": "One Prompt Instead of Ten Clicks: AEM MCP for DevelopersTue Oct 13 2026There is a particular kind of AEM work that is not difficult, but is expensive in attention.Continue reading on Medium »...Read article",
+      "href": "https://gururajkoni.medium.com/one-prompt-instead-of-ten-clicks-aem-mcp-for-developers-cc38a7b87734?source=rss-3e8990156abc------2"
+    },
+    {
+      "label": "I Migrated a React SPA to AEM Edge Delivery Services in Minutes. Here’s What That Actually Meant.Sat Jun 27 2026When people hear “migrate a React SPA to EDS using AI,” they picture a code translator. Point it at a repo, it spits out...Read article",
+      "href": "https://gururajkoni.medium.com/i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant-d0af80edaa95?source=rss-3e8990156abc------2"
+    },
+    {
+      "label": "Figma to AEM components with MCPFri Feb 06 2026If you’ve ever built AEM components from a Figma design, you already know the boring part: HTL, dialog XML, Sling Models...Read article",
+      "href": "https://gururajkoni.medium.com/figma-to-aem-components-with-mcp-78c780868459?source=rss-3e8990156abc------2"
+    },
+    {
+      "label": "See more articles",
+      "href": null
+    },
+    {
+      "label": "Previous",
+      "href": null
+    },
+    {
+      "label": "Shopping Website in Java Using JSP and ServletView Project",
+      "href": "https://github.com/gururajkoni04/Shopping_Website_in_Java_Using_JSP_and_Servlet"
+    },
+    {
+      "label": "ACG AAA ConnectView Project",
+      "href": "https://www.acg.aaa.com/connect"
+    },
+    {
+      "label": "Chase DoorDash Credit CardView Project",
+      "href": "https://creditcards.chase.com/a1/doordash/AEPFAR2DP625"
+    },
+    {
+      "label": "Next",
+      "href": null
+    },
+    {
+      "label": "Get in touchGet in touch",
+      "href": null
+    },
+    {
+      "label": "❤️ Crafted with care © Gururaj Koni",
+      "href": "https://github.com/gururajkoni04"
+    },
+    {
+      "label": "☕ Buy me a coffee",
+      "href": "https://buymeacoffee.com/gururajkoni"
+    }
+  ],
+  "links": [
+    "https://gururajkoni.dev/#about",
+    "https://gururajkoni.dev/#service",
+    "https://gururajkoni.dev/#work",
+    "https://gururajkoni.dev/#contact",
+    "https://gururajkoni.dev/#blogs",
+    "https://gururajkoni.medium.com/one-prompt-instead-of-ten-clicks-aem-mcp-for-developers-cc38a7b87734?source=rss-3e8990156abc------2",
+    "https://gururajkoni.medium.com/i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant-d0af80edaa95?source=rss-3e8990156abc------2",
+    "https://gururajkoni.medium.com/figma-to-aem-components-with-mcp-78c780868459?source=rss-3e8990156abc------2",
+    "https://github.com/gururajkoni04/Shopping_Website_in_Java_Using_JSP_and_Servlet",
+    "https://www.acg.aaa.com/connect",
+    "https://creditcards.chase.com/a1/doordash/AEPFAR2DP625",
+    "https://creditcards.chase.com/a1/Business/Premier0925",
+    "https://www.sab.com/en/personal/",
+    "https://www.meemic.com/",
+    "https://www.linkedin.com/in/gururajkoni/",
+    "https://www.facebook.com/konigraphics69",
+    "https://www.instagram.com/koni_graphics/",
+    "https://twitter.com/gururajkon69?lang=en",
+    "https://github.com/gururajkoni04",
+    "https://buymeacoffee.com/gururajkoni"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://gururajkoni.dev/assets/logo-e3524b36.png",
+        "alt": "My logo",
+        "w": 1616,
+        "h": 2498
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/dark-3fe9091c.png",
+        "alt": "dark theme",
+        "w": 402,
+        "h": 144
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/dark-3fe9091c.png",
+        "alt": "dark theme",
+        "w": 402,
+        "h": 144
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/gk-face-d8668b3a.png",
+        "alt": "Gururaj Koni",
+        "w": 1964,
+        "h": 2454
+      },
+      {
+        "src": "https://cdn.iconscout.com/icon/free/png-512/free-adob-experience-cloud-4238620-3516493.png?f=webp&w=256",
+        "alt": "AEM (Adobe Experience Manager)",
+        "w": 512,
+        "h": 512
+      },
+      {
+        "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+        "alt": "Java",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg",
+        "alt": "HTML 5",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg",
+        "alt": "CSS 3",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg",
+        "alt": "JavaScript",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+        "alt": "React JS",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg",
+        "alt": "Bootstrap",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg",
+        "alt": "Git",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://www.vectorlogo.zone/logos/figma/figma-icon.svg",
+        "alt": "Figma",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg",
+        "alt": "Photoshop",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg",
+        "alt": "Illustrator",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/responsive-35cb8557.gif",
+        "alt": "Full Stack Web Development",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/webDev-3329e0c2.gif",
+        "alt": "AEM Development",
+        "w": 500,
+        "h": 320
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/galshir-vector-trophy-3925c899.gif",
+        "alt": "Graphic Design",
+        "w": 800,
+        "h": 600
+      },
+      {
+        "src": "https://cdn-images-1.medium.com/max/1400/1*8T7kKNdSPWYioIXbXMDc9A.jpeg",
+        "alt": "One Prompt Instead of Ten Clicks: AEM MCP for Developers",
+        "w": 1400,
+        "h": 788
+      },
+      {
+        "src": "https://cdn-images-1.medium.com/max/1983/1*k6Hw7kTDQCAxoyA4pOzfkA.png",
+        "alt": "I Migrated a React SPA to AEM Edge Delivery Services in Minutes. Here’s What That Actually Meant.",
+        "w": 1983,
+        "h": 793
+      },
+      {
+        "src": "https://cdn-images-1.medium.com/max/768/1*qKBstQveTY6_8wGoq3rzCw.gif",
+        "alt": "Figma to AEM components with MCP",
+        "w": 768,
+        "h": 432
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/KoniStore-9b6b8acc.png",
+        "alt": "Shopping Website in Java Using JSP and Servlet",
+        "w": 2592,
+        "h": 1800
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/ACG-15ccf5bb.png",
+        "alt": "ACG AAA Connect",
+        "w": 1440,
+        "h": 1000
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/JPMC-85989c89.png",
+        "alt": "Chase DoorDash Credit Card",
+        "w": 1440,
+        "h": 1000
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/Chase-c3b41f06.png",
+        "alt": "Chase Business Premier",
+        "w": 1440,
+        "h": 1000
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/SAB-0660ccc8.png",
+        "alt": "SAB.com",
+        "w": 2592,
+        "h": 1800
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/Meemic-b6c4876f.png",
+        "alt": "Meemic.com",
+        "w": 2592,
+        "h": 1800
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/KoniStore-9b6b8acc.png",
+        "alt": "Shopping Website in Java Using JSP and Servlet",
+        "w": 2592,
+        "h": 1800
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/ACG-15ccf5bb.png",
+        "alt": "ACG AAA Connect",
+        "w": 1440,
+        "h": 1000
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/JPMC-85989c89.png",
+        "alt": "Chase DoorDash Credit Card",
+        "w": 1440,
+        "h": 1000
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/Chase-c3b41f06.png",
+        "alt": "Chase Business Premier",
+        "w": 1440,
+        "h": 1000
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/SAB-0660ccc8.png",
+        "alt": "SAB.com",
+        "w": 2592,
+        "h": 1800
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/Meemic-b6c4876f.png",
+        "alt": "Meemic.com",
+        "w": 2592,
+        "h": 1800
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/KoniStore-9b6b8acc.png",
+        "alt": "Shopping Website in Java Using JSP and Servlet",
+        "w": 2592,
+        "h": 1800
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/ACG-15ccf5bb.png",
+        "alt": "ACG AAA Connect",
+        "w": 1440,
+        "h": 1000
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/JPMC-85989c89.png",
+        "alt": "Chase DoorDash Credit Card",
+        "w": 1440,
+        "h": 1000
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/Chase-c3b41f06.png",
+        "alt": "Chase Business Premier",
+        "w": 1440,
+        "h": 1000
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/contact-e9a8509a-e9a8509a.svg",
+        "alt": "contact",
+        "w": 360,
+        "h": 360
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/linkedin-c485396a.png",
+        "alt": "LinkedIn",
+        "w": 330,
+        "h": 331
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/linkedin%20(1)-e61db1d1.png",
+        "alt": "LinkedIn",
+        "w": 512,
+        "h": 512
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/facebook-52917ccc.png",
+        "alt": "Facebook",
+        "w": 348,
+        "h": 348
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/facebook%20(1)-2b95e18b.png",
+        "alt": "Facebook",
+        "w": 512,
+        "h": 512
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/instagram-090853cb.png",
+        "alt": "Instagram",
+        "w": 331,
+        "h": 335
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/instagram%20(1)-88a6c759.png",
+        "alt": "Instagram",
+        "w": 512,
+        "h": 512
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/twitter-5805b2d2.png",
+        "alt": "Twitter",
+        "w": 330,
+        "h": 332
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/twitter%20(1)-d5d22e96.png",
+        "alt": "Twitter",
+        "w": 512,
+        "h": 512
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/github-c9477c30.png",
+        "alt": "Github",
+        "w": 332,
+        "h": 331
+      },
+      {
+        "src": "https://gururajkoni.dev/assets/github%20(1)-a11c3607.png",
+        "alt": "Github",
+        "w": 512,
+        "h": 512
+      }
+    ],
+    "allImgCount": 48,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 8,
+    "mainTextLen": 3036,
+    "realImageCount": 48,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_ee",
+          "_fv",
+          "_nsi",
+          "_p",
+          "_s",
+          "_ss",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "ep1.adtrafficquality.google",
+        "path": "/getconfig/sodar",
+        "query": [
+          "sjk",
+          "st",
+          "sv",
+          "tid",
+          "tv"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 13666,
+        "hits": 1,
+        "example": "https://ep1.adtrafficquality.google/getconfig/sodar",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "pagead2.googlesyndication.com",
+        "count": 3
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 1
+      },
+      {
+        "host": "api.rss2json.com",
+        "count": 1
+      },
+      {
+        "host": "ep2.adtrafficquality.google",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [
+      {
+        "action": "https://formspree.io/f/xrbzeljl",
+        "hasAction": true,
+        "method": "post",
+        "sameOrigin": false,
+        "fieldCount": 3,
+        "fieldNames": [
+          "name",
+          "email",
+          "message"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 0,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 0,
+      "thirdPartyEndpoints": 2,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": false
+    }
+  },
+  "screenshot": "assets/screenshots/index.png",
+  "renderedHtml": "pages/index.html"
+}

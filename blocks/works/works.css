@@ -1,0 +1,301 @@
+/* works — source section.section.works (slick-equivalent centre-mode carousel) */
+.works.sec {
+  max-width: 90%;
+  margin: 2rem auto;
+}
+
+.works .works-inner {
+  position: relative;
+}
+
+.works .works-title {
+  margin: 60px auto 40px;
+}
+
+.works .works-carousel {
+  width: 100%;
+  position: relative;
+  padding: 40px 0 80px;
+  max-width: 1400px;
+  margin: 0 auto;
+
+  /* carousel geometry (react-slick settings per breakpoint) */
+  --show: 1;
+  --center-pad: 0px;
+}
+
+.works .works-slider {
+  position: relative;
+  display: block;
+  width: 100%;
+  margin-bottom: 30px;
+  padding: 0 20px;
+  user-select: none;
+  touch-action: pan-y;
+}
+
+.works .works-list {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0 var(--center-pad);
+  container-type: inline-size;
+}
+
+.works .works-track {
+  position: relative;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: max-content;
+
+  /* --pos: track index of the left-most visible slide (set by works.js) */
+  transform: translate3d(calc(var(--pos, 0) * -100cqw / var(--show)), 0, 0);
+}
+
+.works .works-track.is-animating {
+  transition: transform .5s ease;
+}
+
+.works .works-slide {
+  width: calc(100cqw / var(--show));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  min-height: 1px;
+  padding: 10px;
+}
+
+.works .works-card {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px #0000004d;
+  transition: transform .3s ease, box-shadow .3s ease;
+  margin: 0 auto;
+}
+
+.works .works-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.works .works-img-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.works .works-img-container picture {
+  width: 100%;
+  height: 100%;
+}
+
+.works .works-img-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform .5s ease, filter .3s ease;
+}
+
+.works .works-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgb(0 0 0 / 95%) 0%, rgb(0 0 0 / 70%) 40%, transparent 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 25px;
+  opacity: 0;
+  transition: opacity .3s ease;
+}
+
+.works .works-name {
+  color: var(--white);
+  font-size: 1.3rem;
+  margin: 0 0 12px;
+  text-shadow: 2px 2px 8px rgb(0 0 0 / 80%);
+}
+
+.works .works-name :is(h2, h3, h4) {
+  font-family: var(--font-display);
+}
+
+.works .works-view {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--cyan);
+  font-size: .95rem;
+  font-weight: 600;
+  transition: gap .3s ease;
+}
+
+.works .works-view svg {
+  transition: transform .3s ease;
+}
+
+.works .works-arrow {
+  display: none;
+  position: absolute;
+  top: 100%;
+  width: 50px;
+  height: 50px;
+  padding: 0;
+  transform: translateY(-50%);
+  z-index: 10;
+  font-size: 0;
+  line-height: 0;
+  color: transparent;
+  border: none;
+  outline: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+.works .works-arrow-prev {
+  left: 0;
+}
+
+.works .works-arrow-next {
+  right: 0;
+}
+
+.works .works-arrow::before {
+  font-family: slick, sans-serif;
+  font-size: 50px;
+  line-height: 1;
+  opacity: 1;
+  color: var(--cyan);
+  -webkit-font-smoothing: antialiased;
+  position: absolute;
+  padding: 8px 10px 12px;
+  top: -36px;
+  background-color: var(--low-opacity);
+}
+
+.works .works-arrow-prev::before {
+  content: "←";
+  left: 0;
+}
+
+.works .works-arrow-next::before {
+  content: "→";
+  right: 0;
+}
+
+@media screen and (width >= 480px) {
+  .works .works-title::after {
+    width: 70px;
+  }
+
+  .works .works-name {
+    font-size: 1.4rem;
+  }
+
+  .works .works-view {
+    font-size: 1rem;
+  }
+}
+
+/* react-slick: 481–768 → 1 slide, no centre mode, arrows on */
+@media screen and (width >= 481px) {
+  .works .works-arrow {
+    display: block;
+  }
+}
+
+@media screen and (width >= 768px) {
+  .works .works-name {
+    font-size: 1.45rem;
+  }
+
+  .works .works-slider {
+    padding: 0 40px;
+  }
+
+  .works .works-arrow::before {
+    font-size: 1.8rem;
+    top: -45px;
+  }
+}
+
+/* react-slick: 769–1024 → 2 slides, centre 30px */
+@media screen and (width >= 769px) {
+  .works .works-carousel {
+    --show: 2;
+    --center-pad: 30px;
+  }
+}
+
+@media screen and (width >= 1024px) {
+  .works .works-slider {
+    padding: 0 60px;
+  }
+}
+
+/* react-slick: 1025–1400 → 2 slides, centre 40px */
+@media screen and (width >= 1025px) {
+  .works .works-carousel {
+    --center-pad: 40px;
+  }
+}
+
+@media screen and (width >= 1200px) {
+  .works .works-title {
+    margin-top: 110px;
+  }
+
+  .works .works-title::after {
+    width: 80px;
+  }
+
+  .works .works-name {
+    font-size: 1.5rem;
+  }
+
+  .works .works-view {
+    font-size: 1.05rem;
+  }
+
+  .works .works-arrow::before {
+    font-size: 2rem;
+    padding: 10px 12px 14px;
+    top: -52px;
+  }
+}
+
+@media screen and (width >= 1400px) {
+  .works .works-name {
+    font-size: 1.55rem;
+    margin-bottom: 15px;
+  }
+
+  .works .works-overlay {
+    padding: 30px;
+  }
+
+  .works .works-carousel {
+    max-width: 1600px;
+  }
+}
+
+/* react-slick: > 1400 → 3 slides, centre 60px */
+@media screen and (width >= 1401px) {
+  .works .works-carousel {
+    --show: 3;
+    --center-pad: 60px;
+  }
+}

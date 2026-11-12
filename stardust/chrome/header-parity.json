@@ -1,0 +1,162 @@
+{
+ "tool": "chrome-compare",
+ "at": "2026-11-12T08:48:18.856Z",
+ "source": "https://gururajkoni.dev/",
+ "build": "https://main--1bfbbf98--aemcoder.aem.live/",
+ "profile": "replica",
+ "bar": 0.02,
+ "widths": [
+  390,
+  1440
+ ],
+ "counts": {
+  "error": 8,
+  "warn": 9,
+  "decided": 0
+ },
+ "findings": [
+  {
+   "key": "state-missing@390 My logo [click]",
+   "width": 390,
+   "path": "My logo",
+   "action": "click",
+   "id": "state-missing",
+   "severity": "error",
+   "detail": "opens on click on the source (0 links); nothing opens on the build"
+  },
+  {
+   "key": "keyboard@390 My logo [key]",
+   "width": 390,
+   "path": "My logo",
+   "action": "key",
+   "id": "keyboard",
+   "severity": "error",
+   "detail": "opens on Enter on the source (0 links); nothing opens on the build"
+  },
+  {
+   "key": "control-missing@390 menu",
+   "width": 390,
+   "path": "menu",
+   "id": "control-missing",
+   "severity": "error",
+   "detail": "the source menu control opens on click; the build has no control named \"\""
+  },
+  {
+   "key": "state-missing@1440 My logo [hover]",
+   "width": 1440,
+   "path": "My logo",
+   "action": "hover",
+   "id": "state-missing",
+   "severity": "error",
+   "detail": "opens on hover on the source (1 links); nothing opens on the build"
+  },
+  {
+   "key": "state-missing@1440 My logo [click]",
+   "width": 1440,
+   "path": "My logo",
+   "action": "click",
+   "id": "state-missing",
+   "severity": "error",
+   "detail": "opens on click on the source (0 links); nothing opens on the build"
+  },
+  {
+   "key": "keyboard@1440 My logo [key]",
+   "width": 1440,
+   "path": "My logo",
+   "action": "key",
+   "id": "keyboard",
+   "severity": "error",
+   "detail": "opens on Enter on the source (0 links); nothing opens on the build"
+  },
+  {
+   "key": "state-missing@1440 Service [hover]",
+   "width": 1440,
+   "path": "Service",
+   "action": "hover",
+   "id": "state-missing",
+   "severity": "error",
+   "detail": "opens on hover on the source (0 links); the build control is a plain link to /"
+  },
+  {
+   "key": "state-missing@1440 Work [hover]",
+   "width": 1440,
+   "path": "Work",
+   "action": "hover",
+   "id": "state-missing",
+   "severity": "error",
+   "detail": "opens on hover on the source (0 links); the build control is a plain link to /"
+  },
+  {
+   "key": "budget-truncated@1440 (source)",
+   "width": 1440,
+   "path": "(source)",
+   "id": "budget-truncated",
+   "severity": "warn",
+   "detail": "the source record stopped at request-budget: raise --max-states/--max-depth for full coverage"
+  },
+  {
+   "key": "decision-invalid@0 (decisions)",
+   "width": 0,
+   "path": "(decisions)",
+   "id": "decision-invalid",
+   "severity": "warn",
+   "detail": "ignored: state-missing@1440 My logo [hover] — a decision needs the site owner's `by` and `at`"
+  },
+  {
+   "key": "decision-invalid@0 (decisions)",
+   "width": 0,
+   "path": "(decisions)",
+   "id": "decision-invalid",
+   "severity": "warn",
+   "detail": "ignored: state-missing@390 My logo [click] — a decision needs the site owner's `by` and `at`"
+  },
+  {
+   "key": "decision-invalid@0 (decisions)",
+   "width": 0,
+   "path": "(decisions)",
+   "id": "decision-invalid",
+   "severity": "warn",
+   "detail": "ignored: state-missing@1440 My logo [click] — a decision needs the site owner's `by` and `at`"
+  },
+  {
+   "key": "decision-invalid@0 (decisions)",
+   "width": 0,
+   "path": "(decisions)",
+   "id": "decision-invalid",
+   "severity": "warn",
+   "detail": "ignored: keyboard@390 My logo [key] — a decision needs the site owner's `by` and `at`"
+  },
+  {
+   "key": "decision-invalid@0 (decisions)",
+   "width": 0,
+   "path": "(decisions)",
+   "id": "decision-invalid",
+   "severity": "warn",
+   "detail": "ignored: keyboard@1440 My logo [key] — a decision needs the site owner's `by` and `at`"
+  },
+  {
+   "key": "decision-invalid@0 (decisions)",
+   "width": 0,
+   "path": "(decisions)",
+   "id": "decision-invalid",
+   "severity": "warn",
+   "detail": "ignored: state-missing@1440 Service [hover] — a decision needs the site owner's `by` and `at`"
+  },
+  {
+   "key": "decision-invalid@0 (decisions)",
+   "width": 0,
+   "path": "(decisions)",
+   "id": "decision-invalid",
+   "severity": "warn",
+   "detail": "ignored: state-missing@1440 Work [hover] — a decision needs the site owner's `by` and `at`"
+  },
+  {
+   "key": "decision-invalid@0 (decisions)",
+   "width": 0,
+   "path": "(decisions)",
+   "id": "decision-invalid",
+   "severity": "warn",
+   "detail": "ignored: control-missing@390 menu — a decision needs the site owner's `by` and `at`"
+  }
+ ]
+}

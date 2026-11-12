@@ -1,0 +1,143 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics check",
+  "writtenAt": "2026-11-12T08:41:01.752Z",
+  "origin": "https://main--1bfbbf98--aemcoder.aem.live",
+  "parity": "stardust/dynamics/parity.json",
+  "contract": "stardust/martech-contract.json"
+ },
+ "results": [
+  {
+   "feature": "Contact form posting to Formspree",
+   "id": "f-form-contact-formspree",
+   "class": "F",
+   "status": "scaffolded-awaiting-owner",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × form.contact-form-container[action*='formspree.io'] (min 1)",
+   "thirdParty": "",
+   "ms": 2405,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Contact form posting to Formspree",
+   "id": "f-form-contact-formspree",
+   "class": "F",
+   "status": "scaffolded-awaiting-owner",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "3 × form.contact-form-container .contact-input (min 3)",
+   "thirdParty": "",
+   "ms": 2089,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Header hamburger, theme toggle, fixed nav; footer scroll-to-top",
+   "id": "m-chrome-interactions",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "2 × .navbar .navbar-theme-btn (min 1)",
+   "thirdParty": "",
+   "ms": 2136,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Header hamburger, theme toggle, fixed nav; footer scroll-to-top",
+   "id": "m-chrome-interactions",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × .navbar .navbar-hamburger (min 1)",
+   "thirdParty": "",
+   "ms": 2081,
+   "environmentLimit": null
+  },
+  {
+   "feature": "My Medium Blogs (3 posts, static snapshot)",
+   "id": "a-medium-feed",
+   "class": "A",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "3 × .blogs-card (min 3)",
+   "thirdParty": "",
+   "ms": 2024,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Technology grid filter tabs",
+   "id": "x-tech-filter",
+   "class": "X",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "4 × .tech-filters li (min 4)",
+   "thirdParty": "",
+   "ms": 2146,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Technology grid filter tabs",
+   "id": "x-tech-filter",
+   "class": "X",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "11 × .tech-grid .tech-item (min 10)",
+   "thirdParty": "",
+   "ms": 2113,
+   "environmentLimit": null
+  },
+  {
+   "feature": "My Recent Works carousel",
+   "id": "x-projects-carousel",
+   "class": "X",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "6 × .works-track .works-slide:not(.works-slide-clone) (min 6)",
+   "thirdParty": "",
+   "ms": 2100,
+   "environmentLimit": null
+  },
+  {
+   "feature": "My Recent Works carousel",
+   "id": "x-projects-carousel",
+   "class": "X",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "2 × .works-arrow (min 2)",
+   "thirdParty": "",
+   "ms": 2137,
+   "environmentLimit": null
+  },
+  {
+   "feature": "No uncaught exceptions",
+   "id": "page-errors",
+   "class": "X",
+   "status": "done",
+   "type": "no-page-errors",
+   "pass": true,
+   "detail": "none on 1 page(s)",
+   "thirdParty": "",
+   "ms": 2085,
+   "environmentLimit": null
+  },
+  {
+   "feature": "martech: consent + tag routing",
+   "id": "martech",
+   "class": "T",
+   "status": "scaffolded-off",
+   "type": "martech",
+   "pass": true,
+   "detail": "no tag host requested (1 gated · 0 cross-site host(s) blocked)",
+   "thirdParty": "",
+   "ms": 6167,
+   "environmentLimit": null
+  }
+ ]
+}

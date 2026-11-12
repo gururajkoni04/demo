@@ -1,0 +1,37 @@
+{
+  "_provenance": { "writtenBy": "stardust:dynamics", "writtenAt": "2026-11-12T08:40:33Z" },
+  "method": "single page /; features rebuilt as blocks (header, tech, works, blogs, contact) and runtime scripts (reveal.js, martech.js); replayed read-only on the aem.live origin",
+  "features": [
+    { "id": "f-form-contact-formspree", "feature": "Contact form posting to Formspree", "class": "F", "pages": 1,
+      "disposition": "embed-passthrough", "reproducibility": "needs-backend", "status": "scaffolded-awaiting-owner",
+      "owner": "Confirm the Formspree form xrbzeljl accepts submissions from the new domain (Formspree allowed-domains setting). The replay never submits to the owner's live form.",
+      "checks": [
+        { "type": "dom-count", "path": "/", "selector": "form.contact-form-container[action*='formspree.io']", "min": 1 },
+        { "type": "dom-count", "path": "/", "selector": "form.contact-form-container .contact-input", "min": 3 }
+      ] },
+    { "id": "m-chrome-interactions", "feature": "Header hamburger, theme toggle, fixed nav; footer scroll-to-top", "class": "M", "pages": 1,
+      "disposition": "rebuild-native", "reproducibility": "self", "status": "done",
+      "checks": [
+        { "type": "dom-count", "path": "/", "selector": ".navbar .navbar-theme-btn", "min": 1 },
+        { "type": "dom-count", "path": "/", "selector": ".navbar .navbar-hamburger", "min": 1 }
+      ] },
+    { "id": "a-medium-feed", "feature": "My Medium Blogs (3 posts, static snapshot)", "class": "A", "pages": 1,
+      "disposition": "static-snapshot", "reproducibility": "self", "status": "done", "snapshot": "2026-11-12",
+      "checks": [ { "type": "dom-count", "path": "/", "selector": ".blogs-card", "min": 3 } ] },
+    { "id": "x-tech-filter", "feature": "Technology grid filter tabs", "class": "X", "pages": 1,
+      "disposition": "client-only", "reproducibility": "self", "status": "done",
+      "checks": [
+        { "type": "dom-count", "path": "/", "selector": ".tech-filters li", "min": 4 },
+        { "type": "dom-count", "path": "/", "selector": ".tech-grid .tech-item", "min": 10 }
+      ] },
+    { "id": "x-projects-carousel", "feature": "My Recent Works carousel", "class": "X", "pages": 1,
+      "disposition": "rebuild-native", "reproducibility": "self", "status": "done",
+      "checks": [
+        { "type": "dom-count", "path": "/", "selector": ".works-track .works-slide:not(.works-slide-clone)", "min": 6 },
+        { "type": "dom-count", "path": "/", "selector": ".works-arrow", "min": 2 }
+      ] },
+    { "id": "page-errors", "feature": "No uncaught exceptions", "class": "X", "pages": 1,
+      "disposition": "rebuild-native", "reproducibility": "self", "status": "done",
+      "checks": [ { "type": "no-page-errors", "paths": ["/"] } ] }
+  ]
+}

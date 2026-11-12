@@ -1,0 +1,16 @@
+{
+  "variantName": "services",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "service cards with animated illustration and hover description",
+    "layout": "row of three tilt cards"
+  },
+  "contentPattern": {
+    "structure": "illustration + service name + description + optional size word (small); heading and subtitle authored as default content before the block"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Services or offerings overview.",
+  "reuseGuidance": "Use for a short set of offerings, each with an image, name and description."
+}

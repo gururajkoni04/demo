@@ -1,0 +1,29 @@
+{
+  "analysis-summary": {
+    "status": "complete",
+    "metadata": {
+      "siteUrl": "https://gururajkoni.dev",
+      "siteName": "gururajkoni.dev",
+      "analysisDate": "2026-11-12",
+      "rootPageTitle": "Gururaj Koni - Full Stack Developer & AEM Specialist | Portfolio"
+    },
+    "metrics": {
+      "urlDiscoveryMethod": "user-provided-list",
+      "totalPages": 1,
+      "localeCount": 0,
+      "locales": [],
+      "totalTemplates": 1,
+      "totalBlockTypes": 7,
+      "unknownBlockVariants": 0,
+      "edsBlockVariants": 7,
+      "pagesAnalyzed": 1,
+      "percentAnalyzed": 100,
+      "pagesPending": 0,
+      "pagesFailed": 0,
+      "blockDetectionCrashes": 0
+    },
+    "errors": {
+      "totalCount": 0
+    }
+  }
+}

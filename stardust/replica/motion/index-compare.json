@@ -1,0 +1,318 @@
+{
+  "live": "stardust/replica/motion/index.json",
+  "build": "stardust/replica/motion/index-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 7,
+  "counts": {
+    "behaviors": 41,
+    "parity": 20,
+    "missing": 3,
+    "extra": 0,
+    "tolerance": 4,
+    "dead": 9,
+    "advisory": 5
+  },
+  "verdicts": [
+    {
+      "cls": "header",
+      "name": "scroll-morph",
+      "state": "dead",
+      "note": "no header element observed on live; build header static",
+      "line": "motion header scroll-morph: dead on live — not required (no header element observed on live; build header static)"
+    },
+    {
+      "cls": "widget",
+      "name": ".slick-next → .works__arrow--next",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .slick-next → .works__arrow--next: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": "._btn_container_1bjz1_10 button:nth-child(2) → .tech__filters button:nth-child(2)",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget ._btn_container_1bjz1_10 button:nth-child(2) → .tech__filters button:nth-child(2): dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "hover",
+      "name": "._card_shadow_hvhor_46 → .services__card-shadow",
+      "state": "parity",
+      "note": "self.opacity, self.transform; n/a; paired by order",
+      "line": "motion hover ._card_shadow_hvhor_46 → .services__card-shadow: parity (self.opacity, self.transform; n/a; paired by order)"
+    },
+    {
+      "cls": "hover",
+      "name": "._card_1jk4x_39 → .works__slide:not(.works__slide--clone) .works__card",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover ._card_1jk4x_39 → .works__slide:not(.works__slide--clone) .works__card: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": "._card_wz6ud_48 → .blogs__card",
+      "state": "parity",
+      "note": "self.boxShadow, self.transform; 300ms; paired by order",
+      "line": "motion hover ._card_wz6ud_48 → .blogs__card: parity (self.boxShadow, self.transform; 300ms; paired by order)"
+    },
+    {
+      "cls": "hover",
+      "name": "._btn_container_1uv9x_40 → .hero__btn",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover ._btn_container_1uv9x_40 → .hero__btn: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": "._tech_1bjz1_32 → .tech__item",
+      "state": "tolerance",
+      "deltas": [
+        "timing delta 200ms > 150ms [transition: live 300ms, build 500ms]"
+      ],
+      "note": "live changes self.background, self.opacity, self.transform; 300ms; paired by order",
+      "line": "motion hover ._tech_1bjz1_32 → .tech__item: timing delta 200ms > 150ms [transition: live 300ms, build 500ms] (live changes self.background, self.opacity, self.transform; 300ms; paired by order)"
+    },
+    {
+      "cls": "hover",
+      "name": "._overlay_1ez18_60 → .footer__overlay",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover ._overlay_1ez18_60 → .footer__overlay: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": "._font_twmt9_60 → .navbar__link",
+      "state": "parity",
+      "note": "self.color; n/a; paired by order",
+      "line": "motion hover ._font_twmt9_60 → .navbar__link: parity (self.color; n/a; paired by order)"
+    },
+    {
+      "cls": "hover",
+      "name": "._img_102lu_67 → .about__img",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover ._img_102lu_67 → .about__img: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": "._viewMoreButton_wz6ud_131 → .blogs__more",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover ._viewMoreButton_wz6ud_131 → .blogs__more: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": "._btn_container_1iknq_94 → .contact__btn",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover ._btn_container_1iknq_94 → .contact__btn: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "transition",
+      "name": "background-color",
+      "state": "tolerance",
+      "deltas": [
+        "timing delta 200ms > 150ms [longest duration: live 300ms, build 500ms]"
+      ],
+      "note": "4 event(s) on live, 3 on build",
+      "line": "motion transition background-color: timing delta 200ms > 150ms [longest duration: live 300ms, build 500ms] (4 event(s) on live, 3 on build)"
+    },
+    {
+      "cls": "transition",
+      "name": "background-size",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 400ms",
+      "line": "motion transition background-size: parity (2 event(s) on live, 2 on build, 400ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-bottom-color",
+      "state": "parity",
+      "note": "2 event(s) on live, 1 on build, 200ms",
+      "line": "motion transition border-bottom-color: parity (2 event(s) on live, 1 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-bottom-width",
+      "state": "missing",
+      "note": "2 event(s) on live, 200ms",
+      "line": "motion transition border-bottom-width: MISSING on build (2 event(s) on live, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-left-color",
+      "state": "parity",
+      "note": "2 event(s) on live, 1 on build, 200ms",
+      "line": "motion transition border-left-color: parity (2 event(s) on live, 1 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-left-width",
+      "state": "parity",
+      "note": "2 event(s) on live, 1 on build, 200ms",
+      "line": "motion transition border-left-width: parity (2 event(s) on live, 1 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-right-color",
+      "state": "parity",
+      "note": "2 event(s) on live, 1 on build, 200ms",
+      "line": "motion transition border-right-color: parity (2 event(s) on live, 1 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-right-width",
+      "state": "parity",
+      "note": "2 event(s) on live, 1 on build, 200ms",
+      "line": "motion transition border-right-width: parity (2 event(s) on live, 1 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-top-color",
+      "state": "parity",
+      "note": "2 event(s) on live, 1 on build, 200ms",
+      "line": "motion transition border-top-color: parity (2 event(s) on live, 1 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-top-width",
+      "state": "missing",
+      "note": "2 event(s) on live, 200ms",
+      "line": "motion transition border-top-width: MISSING on build (2 event(s) on live, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "box-shadow",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 300ms",
+      "line": "motion transition box-shadow: parity (2 event(s) on live, 2 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "color",
+      "state": "parity",
+      "note": "6 event(s) on live, 2 on build, 200ms",
+      "line": "motion transition color: parity (6 event(s) on live, 2 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "opacity",
+      "state": "tolerance",
+      "deltas": [
+        "timing delta 800ms > 150ms [longest duration: live 450ms, build 1250ms]"
+      ],
+      "note": "6 event(s) on live, 200 on build",
+      "line": "motion transition opacity: timing delta 800ms > 150ms [longest duration: live 450ms, build 1250ms] (6 event(s) on live, 200 on build)"
+    },
+    {
+      "cls": "transition",
+      "name": "outline-color",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 400ms",
+      "line": "motion transition outline-color: parity (2 event(s) on live, 2 on build, 400ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "outline-offset",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 400ms",
+      "line": "motion transition outline-offset: parity (2 event(s) on live, 2 on build, 400ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "outline-width",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 400ms",
+      "line": "motion transition outline-width: parity (2 event(s) on live, 2 on build, 400ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "transform",
+      "state": "tolerance",
+      "deltas": [
+        "timing delta 750ms > 150ms [longest duration: live 500ms, build 1250ms]"
+      ],
+      "note": "16 event(s) on live, 176 on build",
+      "line": "motion transition transform: timing delta 750ms > 150ms [longest duration: live 500ms, build 1250ms] (16 event(s) on live, 176 on build)"
+    },
+    {
+      "cls": "transition",
+      "name": "rotate",
+      "state": "advisory",
+      "note": "2 event(s) on build, none on live — a build-only transitioned property; incidental unless a live line names the motion",
+      "line": "motion transition rotate: extra on build — advisory (2 event(s) on build, none on live — a build-only transitioned property; incidental unless a live line names the motion)"
+    },
+    {
+      "cls": "transition",
+      "name": "scale",
+      "state": "advisory",
+      "note": "2 event(s) on build, none on live — a build-only transitioned property; incidental unless a live line names the motion",
+      "line": "motion transition scale: extra on build — advisory (2 event(s) on build, none on live — a build-only transitioned property; incidental unless a live line names the motion)"
+    },
+    {
+      "cls": "class",
+      "name": "_btn_active_1bjz1_26",
+      "state": "missing",
+      "note": "trigger class added 1× on live, never on build",
+      "line": "motion class _btn_active_1bjz1_26: MISSING on build (trigger class added 1× on live, never on build)"
+    },
+    {
+      "cls": "class",
+      "name": "fixed",
+      "state": "parity",
+      "note": "added 3× on live, 3× on build",
+      "line": "motion class fixed: parity (added 3× on live, 3× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "slick-active",
+      "state": "parity",
+      "note": "added 14× on live, 13× on build",
+      "line": "motion class slick-active: parity (added 14× on live, 13× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "slick-center",
+      "state": "parity",
+      "note": "added 27× on live, 27× on build",
+      "line": "motion class slick-center: parity (added 27× on live, 27× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "slick-current",
+      "state": "parity",
+      "note": "added 10× on live, 22× on build",
+      "line": "motion class slick-current: parity (added 10× on live, 22× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "is-active",
+      "state": "advisory",
+      "note": "added 1× on build, never on live — check it drives no invented behavior",
+      "line": "motion class is-active: extra on build — advisory (added 1× on build, never on live — check it drives no invented behavior)"
+    },
+    {
+      "cls": "class",
+      "name": "is-animating",
+      "state": "advisory",
+      "note": "added 2× on build, never on live — check it drives no invented behavior",
+      "line": "motion class is-animating: extra on build — advisory (added 2× on build, never on live — check it drives no invented behavior)"
+    },
+    {
+      "cls": "class",
+      "name": "is-inview",
+      "state": "advisory",
+      "note": "added 98× on build, never on live — check it drives no invented behavior",
+      "line": "motion class is-inview: extra on build — advisory (added 98× on build, never on live — check it drives no invented behavior)"
+    },
+    {
+      "cls": "media",
+      "name": "auto-advance",
+      "state": "parity",
+      "note": "4 class mutation(s) fired unpoked on live, 5 on build",
+      "line": "motion media auto-advance: parity (4 class mutation(s) fired unpoked on live, 5 on build)"
+    }
+  ]
+}

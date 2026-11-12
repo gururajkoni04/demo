@@ -1,0 +1,143 @@
+{
+  "block-catalog": {
+    "schemaVersion": 2,
+    "captured": "2026-11-12T10:28:17.576Z",
+    "totalBlockVariants": 7,
+    "totalBlocksProcessed": 7,
+    "newVariantsCreated": 0,
+    "variantsReused": 0,
+    "layoutKeyThreshold": 0.85,
+    "completionStatus": {
+      "analyzed": 1,
+      "failed": 0
+    },
+    "blockVariants": {
+      "v_0d30eebdc7de": {
+        "id": "v_0d30eebdc7de",
+        "name": "hero",
+        "type": "hero",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "Top-of-page personal introduction. Used on 1 page (homepage template).",
+        "screenshots": [
+          ".pages/gururajkoni_dev--f1c41605/blocks/b01-hero.jpg"
+        ],
+        "source": {
+          "producer": "excat-replica-adapter",
+          "stardustBlockId": "hero",
+          "stardustKind": "module"
+        },
+        "confidenceLevel": "high",
+        "confidenceReason": "Built and gated by the auto migration (stardust)"
+      },
+      "v_499bc933685f": {
+        "id": "v_499bc933685f",
+        "name": "about",
+        "type": "columns",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "Biography section next to a portrait. Used on 1 page (homepage template).",
+        "screenshots": [
+          ".pages/gururajkoni_dev--f1c41605/blocks/b02-about.jpg"
+        ],
+        "source": {
+          "producer": "excat-replica-adapter",
+          "stardustBlockId": "about",
+          "stardustKind": "module"
+        },
+        "confidenceLevel": "high",
+        "confidenceReason": "Built and gated by the auto migration (stardust)"
+      },
+      "v_75ea59ff5369": {
+        "id": "v_75ea59ff5369",
+        "name": "tech",
+        "type": "cards",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "Skills / technology showcase with filtering. Used on 1 page (homepage template).",
+        "screenshots": [
+          ".pages/gururajkoni_dev--f1c41605/blocks/b03-tech.jpg"
+        ],
+        "source": {
+          "producer": "excat-replica-adapter",
+          "stardustBlockId": "tech",
+          "stardustKind": "module"
+        },
+        "confidenceLevel": "high",
+        "confidenceReason": "Built and gated by the auto migration (stardust)"
+      },
+      "v_bd08c76cee28": {
+        "id": "v_bd08c76cee28",
+        "name": "services",
+        "type": "cards",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "Services or offerings overview. Used on 1 page (homepage template).",
+        "screenshots": [
+          ".pages/gururajkoni_dev--f1c41605/blocks/b04-services.jpg"
+        ],
+        "source": {
+          "producer": "excat-replica-adapter",
+          "stardustBlockId": "services",
+          "stardustKind": "module"
+        },
+        "confidenceLevel": "high",
+        "confidenceReason": "Built and gated by the auto migration (stardust)"
+      },
+      "v_f4c619187e9f": {
+        "id": "v_f4c619187e9f",
+        "name": "blogs",
+        "type": "cards",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "Latest blog articles teaser. Used on 1 page (homepage template).",
+        "screenshots": [
+          ".pages/gururajkoni_dev--f1c41605/blocks/b05-blogs.jpg"
+        ],
+        "source": {
+          "producer": "excat-replica-adapter",
+          "stardustBlockId": "blogs",
+          "stardustKind": "module"
+        },
+        "confidenceLevel": "high",
+        "confidenceReason": "Built and gated by the auto migration (stardust)"
+      },
+      "v_058aad521198": {
+        "id": "v_058aad521198",
+        "name": "works",
+        "type": "carousel",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "Portfolio / recent work showcase. Used on 1 page (homepage template).",
+        "screenshots": [
+          ".pages/gururajkoni_dev--f1c41605/blocks/b06-works.jpg"
+        ],
+        "source": {
+          "producer": "excat-replica-adapter",
+          "stardustBlockId": "works",
+          "stardustKind": "module"
+        },
+        "confidenceLevel": "high",
+        "confidenceReason": "Built and gated by the auto migration (stardust)"
+      },
+      "v_95f7217a6e86": {
+        "id": "v_95f7217a6e86",
+        "name": "contact",
+        "type": "form",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "Contact form posting to an external form service. Used on 1 page (homepage template).",
+        "screenshots": [
+          ".pages/gururajkoni_dev--f1c41605/blocks/b07-contact.jpg"
+        ],
+        "source": {
+          "producer": "excat-replica-adapter",
+          "stardustBlockId": "contact",
+          "stardustKind": "module"
+        },
+        "confidenceLevel": "high",
+        "confidenceReason": "Built and gated by the auto migration (stardust)"
+      }
+    }
+  }
+}

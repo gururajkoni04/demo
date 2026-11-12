@@ -1,0 +1,1046 @@
+{
+ "tool": "chrome-explore",
+ "url": "https://gururajkoni.dev/",
+ "at": "2026-11-12T07:45:14.005Z",
+ "shots": "stardust/.work/chrome/header-contract",
+ "widths": {
+  "390": {
+   "root": "#root>div>div:nth-of-type(2)>div:nth-of-type(1)>nav",
+   "controls": [
+    {
+     "name": "My logo",
+     "key": "my logo",
+     "role": "toggle",
+     "kind": "account",
+     "sel": "#root>div>div:nth-of-type(2)>div:nth-of-type(1)>nav>button",
+     "expanded": null,
+     "rect": [
+      15,
+      858,
+      40,
+      43
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         0,
+         524,
+         390,
+         320
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "390-001-My-logo-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         0,
+         524,
+         390,
+         320
+        ]
+       },
+       "expanded": null,
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "390-002-My-logo-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": false,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "",
+       "key": "",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#root>div>section>div:nth-of-type(1)>abbr>button",
+       "expanded": null,
+       "rect": [
+        174,
+        544,
+        42,
+        42
+       ],
+       "actions": {
+        "click": {
+         "opened": true,
+         "hidden": 2,
+         "panel": {
+          "links": [
+           {
+            "text": "Meemic.com View Project",
+            "href": "https://www.meemic.com/"
+           }
+          ],
+          "headings": [],
+          "images": 1,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           50,
+           5470,
+           291,
+           -4626
+          ]
+         },
+         "expanded": null,
+         "focus": "body",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 500,
+           "delay": 0,
+           "easing": "ease",
+           "target": "div.slick-track"
+          }
+         ],
+         "shot": null
+        },
+        "key": {
+         "opened": true,
+         "hidden": 2,
+         "panel": {
+          "links": [
+           {
+            "text": "Meemic.com View Project",
+            "href": "https://www.meemic.com/"
+           }
+          ],
+          "headings": [],
+          "images": 1,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           50,
+           5527,
+           291,
+           -4683
+          ]
+         },
+         "expanded": null,
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 500,
+           "delay": 0,
+           "easing": "ease",
+           "target": "div.slick-track"
+          }
+         ],
+         "shot": null,
+         "tabReachesPanel": false
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": false,
+        "toggle": false
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "",
+     "key": "",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#root>div>div:nth-of-type(2)>div:nth-of-type(1)>nav>div",
+     "expanded": null,
+     "rect": [
+      320,
+      869,
+      40,
+      22
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         0,
+         524,
+         390,
+         320
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "390-003-toggle-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "About",
+          "href": "https://gururajkoni.dev/#about"
+         },
+         {
+          "text": "Service",
+          "href": "https://gururajkoni.dev/#service"
+         },
+         {
+          "text": "Work",
+          "href": "https://gururajkoni.dev/#work"
+         },
+         {
+          "text": "Contact",
+          "href": "https://gururajkoni.dev/#contact"
+         },
+         {
+          "text": "Blogs",
+          "href": "https://gururajkoni.dev/#blogs"
+         },
+         {
+          "text": "Contact me",
+          "href": "https://gururajkoni.dev/#contact"
+         }
+        ],
+        "headings": [
+         "About Me"
+        ],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "dark theme"
+        ],
+        "options": 0,
+        "rect": [
+         20,
+         452,
+         351,
+         393
+        ]
+       },
+       "expanded": null,
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": 500,
+         "delay": 0,
+         "easing": "cubic-bezier(0.8, 0.5, 0.2, 1.4)",
+         "target": "span._line_twmt9_170"
+        },
+        {
+         "kind": "transition",
+         "prop": "top",
+         "ms": 500,
+         "delay": 0,
+         "easing": "cubic-bezier(0.8, 0.5, 0.2, 1.4)",
+         "target": "span._line_twmt9_170"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 500,
+         "delay": 0,
+         "easing": "cubic-bezier(0.8, 0.5, 0.2, 1.4)",
+         "target": "span._line_twmt9_170"
+        },
+        {
+         "kind": "transition",
+         "prop": "width",
+         "ms": 500,
+         "delay": 0,
+         "easing": "cubic-bezier(0.8, 0.5, 0.2, 1.4)",
+         "target": "span._line_twmt9_170"
+        },
+        {
+         "kind": "transition",
+         "prop": "height",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-out",
+         "target": "ul._mobilemenu_twmt9_121"
+        }
+       ],
+       "shot": "390-004-toggle-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": false,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "",
+       "key": "",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#root>div>section>div:nth-of-type(1)>abbr>button",
+       "expanded": null,
+       "rect": [
+        174,
+        544,
+        42,
+        42
+       ],
+       "actions": {
+        "click": {
+         "opened": true,
+         "hidden": 2,
+         "panel": {
+          "links": [
+           {
+            "text": "Meemic.com View Project",
+            "href": "https://www.meemic.com/"
+           }
+          ],
+          "headings": [],
+          "images": 1,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           50,
+           5480,
+           291,
+           -4636
+          ]
+         },
+         "expanded": null,
+         "focus": "body",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 500,
+           "delay": 0,
+           "easing": "ease",
+           "target": "div.slick-track"
+          }
+         ],
+         "shot": null
+        },
+        "key": {
+         "opened": true,
+         "hidden": 2,
+         "panel": {
+          "links": [
+           {
+            "text": "Meemic.com View Project",
+            "href": "https://www.meemic.com/"
+           }
+          ],
+          "headings": [],
+          "images": 1,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           50,
+           5527,
+           291,
+           -4683
+          ]
+         },
+         "expanded": null,
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 500,
+           "delay": 0,
+           "easing": "ease",
+           "target": "div.slick-track"
+          }
+         ],
+         "shot": null,
+         "tabReachesPanel": false
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": false,
+        "toggle": false
+       },
+       "children": []
+      }
+     ]
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 844,
+     "height": 71,
+     "position": "absolute",
+     "inView": false
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": 0,
+     "height": 71,
+     "position": "fixed",
+     "inView": true
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": 144,
+     "height": 71,
+     "position": "absolute",
+     "inView": true
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 844,
+     "height": 71,
+     "position": "absolute",
+     "inView": false
+    }
+   ],
+   "states": 8,
+   "truncated": null,
+   "loads": 26,
+   "requests": 1130,
+   "maxRequests": 1500,
+   "inputsSkipped": 0
+  },
+  "1440": {
+   "root": "#root>div>div:nth-of-type(2)>div:nth-of-type(1)>nav",
+   "controls": [
+    {
+     "name": "My logo",
+     "key": "my logo",
+     "role": "toggle",
+     "kind": "account",
+     "sel": "#root>div>div:nth-of-type(2)>div:nth-of-type(1)>nav>button",
+     "expanded": null,
+     "rect": [
+      40,
+      918,
+      50,
+      54
+     ],
+     "actions": {
+      "hover": {
+       "opened": true,
+       "hidden": 2,
+       "panel": {
+        "links": [
+         {
+          "text": "SAB.com View Project",
+          "href": "https://www.sab.com/en/personal/"
+         }
+        ],
+        "headings": [],
+        "images": 1,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         72,
+         3362,
+         1296,
+         -2462
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": 500,
+         "delay": 0,
+         "easing": "ease",
+         "target": "div.slick-track"
+        }
+       ],
+       "shot": null
+      },
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         0,
+         580,
+         1440,
+         320
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-001-My-logo-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         0,
+         580,
+         1440,
+         320
+        ]
+       },
+       "expanded": null,
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-002-My-logo-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": true,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "",
+       "key": "",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#root>div>section>div:nth-of-type(1)>abbr>button",
+       "expanded": null,
+       "rect": [
+        699,
+        600,
+        42,
+        42
+       ],
+       "actions": {
+        "hover": {
+         "opened": true,
+         "hidden": 2,
+         "panel": {
+          "links": [
+           {
+            "text": "Shopping Website in Java Using JSP and Servlet View Project",
+            "href": "https://github.com/gururajkoni04/Shopping_Website_in_Java_Using_JSP_and_Servlet"
+           }
+          ],
+          "headings": [],
+          "images": 1,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           906,
+           3658,
+           332,
+           -2758
+          ]
+         },
+         "expanded": null,
+         "focus": "body",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 500,
+           "delay": 0,
+           "easing": "ease",
+           "target": "div.slick-track"
+          }
+         ],
+         "shot": null
+        },
+        "click": {
+         "opened": true,
+         "hidden": 2,
+         "panel": {
+          "links": [
+           {
+            "text": "Shopping Website in Java Using JSP and Servlet View Project",
+            "href": "https://github.com/gururajkoni04/Shopping_Website_in_Java_Using_JSP_and_Servlet"
+           }
+          ],
+          "headings": [],
+          "images": 1,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           906,
+           3658,
+           332,
+           -2758
+          ]
+         },
+         "expanded": null,
+         "focus": "body",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 500,
+           "delay": 0,
+           "easing": "ease",
+           "target": "div.slick-track"
+          }
+         ],
+         "shot": null
+        },
+        "key": {
+         "opened": true,
+         "hidden": 2,
+         "panel": {
+          "links": [
+           {
+            "text": "Shopping Website in Java Using JSP and Servlet View Project",
+            "href": "https://github.com/gururajkoni04/Shopping_Website_in_Java_Using_JSP_and_Servlet"
+           }
+          ],
+          "headings": [],
+          "images": 1,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           906,
+           3730,
+           332,
+           -2830
+          ]
+         },
+         "expanded": null,
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 500,
+           "delay": 0,
+           "easing": "ease",
+           "target": "div.slick-track"
+          }
+         ],
+         "shot": null,
+         "tabReachesPanel": false
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": false,
+        "toggle": false
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "About",
+     "key": "about",
+     "role": "link",
+     "kind": "link",
+     "sel": "#root>div>div:nth-of-type(2)>div:nth-of-type(1)>nav>ul:nth-of-type(1)>li:nth-of-type(1)>a",
+     "href": "https://gururajkoni.dev/#about",
+     "expanded": null,
+     "rect": [
+      869,
+      934,
+      46,
+      21
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Service",
+     "key": "service",
+     "role": "link",
+     "kind": "link",
+     "sel": "#root>div>div:nth-of-type(2)>div:nth-of-type(1)>nav>ul:nth-of-type(1)>li:nth-of-type(2)>a",
+     "href": "https://gururajkoni.dev/#service",
+     "expanded": null,
+     "rect": [
+      954,
+      934,
+      55,
+      21
+     ],
+     "actions": {
+      "hover": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         0,
+         580,
+         1440,
+         320
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-003-Service-hover.png"
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": false,
+      "leave": true
+     },
+     "children": []
+    },
+    {
+     "name": "Work",
+     "key": "work",
+     "role": "link",
+     "kind": "link",
+     "sel": "#root>div>div:nth-of-type(2)>div:nth-of-type(1)>nav>ul:nth-of-type(1)>li:nth-of-type(3)>a",
+     "href": "https://gururajkoni.dev/#work",
+     "expanded": null,
+     "rect": [
+      1049,
+      934,
+      39,
+      21
+     ],
+     "actions": {
+      "hover": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         0,
+         580,
+         1440,
+         320
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-004-Work-hover.png"
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": false,
+      "outside": false,
+      "leave": false
+     },
+     "children": [
+      {
+       "name": "",
+       "key": "",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#root>div>section>div:nth-of-type(1)>abbr>button",
+       "expanded": null,
+       "rect": [
+        699,
+        600,
+        42,
+        42
+       ],
+       "actions": {
+        "hover": {
+         "opened": true,
+         "hidden": 2,
+         "panel": {
+          "links": [
+           {
+            "text": "Shopping Website in Java Using JSP and Servlet View Project",
+            "href": "https://github.com/gururajkoni04/Shopping_Website_in_Java_Using_JSP_and_Servlet"
+           }
+          ],
+          "headings": [],
+          "images": 1,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           906,
+           3675,
+           332,
+           -2775
+          ]
+         },
+         "expanded": null,
+         "focus": "body",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 500,
+           "delay": 0,
+           "easing": "ease",
+           "target": "div.slick-track"
+          }
+         ],
+         "shot": null
+        },
+        "click": {
+         "opened": true,
+         "hidden": 2,
+         "panel": {
+          "links": [
+           {
+            "text": "Shopping Website in Java Using JSP and Servlet View Project",
+            "href": "https://github.com/gururajkoni04/Shopping_Website_in_Java_Using_JSP_and_Servlet"
+           }
+          ],
+          "headings": [],
+          "images": 1,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           906,
+           3675,
+           332,
+           -2775
+          ]
+         },
+         "expanded": null,
+         "focus": "body",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 500,
+           "delay": 0,
+           "easing": "ease",
+           "target": "div.slick-track"
+          }
+         ],
+         "shot": null
+        },
+        "key": {
+         "opened": true,
+         "hidden": 2,
+         "panel": {
+          "links": [
+           {
+            "text": "Shopping Website in Java Using JSP and Servlet View Project",
+            "href": "https://github.com/gururajkoni04/Shopping_Website_in_Java_Using_JSP_and_Servlet"
+           }
+          ],
+          "headings": [],
+          "images": 1,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           906,
+           3730,
+           332,
+           -2830
+          ]
+         },
+         "expanded": null,
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 500,
+           "delay": 0,
+           "easing": "ease",
+           "target": "div.slick-track"
+          }
+         ],
+         "shot": null,
+         "tabReachesPanel": false
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": false,
+        "toggle": false
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Contact",
+     "key": "contact",
+     "role": "link",
+     "kind": "link",
+     "sel": "#root>div>div:nth-of-type(2)>div:nth-of-type(1)>nav>ul:nth-of-type(1)>li:nth-of-type(4)>a",
+     "href": "https://gururajkoni.dev/#contact",
+     "expanded": null,
+     "rect": [
+      1128,
+      934,
+      61,
+      21
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Blogs",
+     "key": "blogs",
+     "role": "link",
+     "kind": "link",
+     "sel": "#root>div>div:nth-of-type(2)>div:nth-of-type(1)>nav>ul:nth-of-type(1)>li:nth-of-type(5)>a",
+     "href": "https://gururajkoni.dev/#blogs",
+     "expanded": null,
+     "rect": [
+      1229,
+      934,
+      41,
+      21
+     ],
+     "actions": {}
+    },
+    {
+     "name": "dark theme",
+     "key": "dark theme",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#root>div>div:nth-of-type(2)>div:nth-of-type(1)>nav>ul:nth-of-type(1)>li:nth-of-type(6)>button",
+     "expanded": null,
+     "rect": [
+      1310,
+      929,
+      70,
+      25
+     ],
+     "actions": {
+      "hover": null
+     },
+     "partial": "request-budget"
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 900,
+     "height": 90,
+     "position": "absolute",
+     "inView": false
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": 0,
+     "height": 90,
+     "position": "fixed",
+     "inView": true
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": 200,
+     "height": 90,
+     "position": "absolute",
+     "inView": true
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 900,
+     "height": 90,
+     "position": "absolute",
+     "inView": false
+    }
+   ],
+   "states": 11,
+   "truncated": "request-budget",
+   "loads": 36,
+   "requests": 1564,
+   "maxRequests": 1500,
+   "inputsSkipped": 0
+  }
+ },
+ "probe": null
+}

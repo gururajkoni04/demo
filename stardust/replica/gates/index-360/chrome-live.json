@@ -1,0 +1,22 @@
+{
+  "key": {
+    "probe": 2,
+    "url": "https://gururajkoni.dev/",
+    "width": 360,
+    "regions": [
+      "header=header",
+      "footer=footer"
+    ]
+  },
+  "probedAt": "2026-11-12T06:57:01.756Z",
+  "data": {
+    "header": {
+      "found": false,
+      "sel": "header"
+    },
+    "footer": {
+      "found": false,
+      "sel": "footer"
+    }
+  }
+}

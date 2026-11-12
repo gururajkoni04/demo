@@ -1,0 +1,34 @@
+{
+ "pages": 1,
+ "vendors": [
+  {
+   "host": "pagead2.googlesyndication.com",
+   "pages": 1,
+   "firstParty": false,
+   "role": "marketing: ad / retargeting pixel",
+   "class": "T",
+   "inCsp": false
+  },
+  {
+   "host": "www.googletagmanager.com",
+   "pages": 1,
+   "firstParty": false,
+   "role": "tag manager: Google Tag Manager",
+   "class": "T",
+   "inCsp": false
+  },
+  {
+   "host": "gururajkoni.dev",
+   "pages": 1,
+   "firstParty": true,
+   "role": null,
+   "class": null,
+   "inCsp": false
+  }
+ ],
+ "inline": {
+  "dataLayer": 1,
+  "gtag(": 1
+ },
+ "cspHosts": []
+}

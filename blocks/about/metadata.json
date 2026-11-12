@@ -1,0 +1,16 @@
+{
+  "variantName": "about",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "About Me band with title, bio and framed portrait",
+    "layout": "two columns: text left, framed portrait image right"
+  },
+  "contentPattern": {
+    "structure": "heading, bio paragraph(s) with links, portrait image — one per row"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Biography section next to a portrait.",
+  "reuseGuidance": "Use for a heading + bio text paired with one image."
+}

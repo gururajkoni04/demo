@@ -1,0 +1,38 @@
+{
+  "producer": "excat-replica-adapter",
+  "source": {
+    "tool": "stardust",
+    "version": "0.37.2",
+    "flow": "replica",
+    "mode": "rollout"
+  },
+  "originUrl": "https://gururajkoni.dev/",
+  "previewBase": "https://main--1bfbbf98--aemcoder.aem.live/",
+  "convertedAt": "2026-11-12T10:28:17.576Z",
+  "counts": {
+    "pages": 1,
+    "templates": 1,
+    "blockVariants": 7
+  },
+  "templateNames": {
+    "index": {
+      "name": "homepage",
+      "description": "Single-page developer portfolio: intro hero, about, technologies, services, blogs, recent works and contact form."
+    }
+  },
+  "screenshots": {
+    "capturedAt": "2026-11-12T10:28:31.508Z",
+    "pages": [
+      {
+        "slug": "gururajkoni_dev--f1c41605",
+        "captured": 7,
+        "total": 7,
+        "url": "https://aem-20261112--demo--gururajkoni04.aem.page/"
+      }
+    ],
+    "variants": {
+      "total": 7,
+      "cropped": 7
+    }
+  }
+}

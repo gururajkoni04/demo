@@ -1,0 +1,18 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-11-12T10:28:17.576Z",
+    "totalUrls": 1,
+    "totalDocuments": 0,
+    "method": "user-provided-list",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "Pages imported from a stardust auto-migration run; no site discovery was performed.",
+    "confidence": "100%",
+    "urls": [
+      {
+        "url": "https://gururajkoni.dev/"
+      }
+    ],
+    "documents": []
+  }
+}

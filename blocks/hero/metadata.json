@@ -1,0 +1,16 @@
+{
+  "variantName": "hero",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "full-viewport intro band with greeting, role line, scroll CTA and animated star field",
+    "layout": "centered text over a full-viewport canvas background"
+  },
+  "contentPattern": {
+    "structure": "greeting paragraph (name in bold), role paragraph, CTA label paragraph — one per row"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Top-of-page personal introduction.",
+  "reuseGuidance": "Use for a full-screen intro with a name, tagline and one scroll-down call to action."
+}

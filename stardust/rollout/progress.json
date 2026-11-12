@@ -1,0 +1,122 @@
+{
+  "units": {
+    "foundation": {
+      "status": "done",
+      "kind": "foundation",
+      "templates": [
+        "index"
+      ],
+      "pages": 1,
+      "blocks": 9,
+      "gates": {
+        "360": {
+          "page": "3.58% Δh 0 (pub1, preview origin) PASS",
+          "overflow": "ok",
+          "clip": 0,
+          "contentDiff": "25 looks-same 🔴, same classes"
+        },
+        "1440": {
+          "page": "2.90% Δh 0 (pub1, preview origin) PASS",
+          "overflow": "ok",
+          "clip": 0,
+          "contentDiff": "31 looks-same 🔴 = 10 slick-clone headings (accepted under root .App, gate ran --main main) + 21 MISSING ICON in header/footer (outside main on the build)"
+        },
+        "crop": "header 1440 100.00% / 360 99.93% (late-fixed nav, vacuous as in Phase 4); footer 1440 99.95% / 360 99.82% — PASS",
+        "chrome": "chrome-parity within tolerance both widths; header contract recorded (stardust/chrome/header-contract.json); chrome-compare exit 2 — 8 errors: source-record artefacts (logo/Service/Work hover+click states with 0 links = the fixed footer band or slick autoplay changing under the pointer) + unnamed source hamburger that the comparer cannot pair (key \"\" and menu is not a family); owner decision needed in stardust/chrome/header-decisions.json",
+        "aiReadability": "code 100 / strict 100 (live)",
+        "computedStyle": "grid/flex ok, 9 blocks loaded, 0 pageerror, 0 zero-width/broken images (live 1440)"
+      },
+      "startedAt": "2026-11-12T07:17:16.227Z",
+      "endedAt": "2026-11-12T07:55:31.587Z",
+      "verdict": "foundation: pages 1/1 live (/index + /nav + /footer previewed and published, 200), blocks 9 (header, footer, hero, about, tech, services, blogs, works, contact), gate 1440 2.90% / 360 3.58%, chrome-compare exit 2 (8 source-artefact findings, owner decision), requests 0"
+    },
+    "archetype": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "index"
+      ],
+      "pages": 1,
+      "blocks": 9,
+      "startedAt": "2026-11-12T07:58:13.198Z",
+      "gates": {
+        "360": {
+          "page": "3.58% Δh 0 (gate.sh pub4 --full, preview origin) PASS",
+          "gateAll": "2.66% (text 1.34%) Δh 0, clip 0, content MISSING 0 / HIDDEN 2 (works carousel, origin-identical) — gate-all row FAIL (elements)",
+          "overflow": "ok",
+          "clip": 0,
+          "contentDiff": "0 looks-same 🔴 / 0 nothing-lost 🟡",
+          "visualDiff": "justified: IMAGE DID NOT LOAD ×20 lazy-load probe timing; FLUSH-LEFT = carousel tiles at negative offsets + Contact Me at -178/-225 px identical on the source"
+        },
+        "1440": {
+          "page": "2.90% Δh 0 (gate.sh pub4 --full, preview origin) PASS",
+          "gateAll": "2.75% (text 0.07%) Δh 0, clip 0, content MISSING 0 / HIDDEN 2 (works carousel, origin-identical) — gate-all row FAIL (elements)",
+          "overflow": "ok",
+          "clip": 0,
+          "contentDiff": "0 looks-same 🔴 / 0 nothing-lost 🟡 (root .App, body-aligned both sides; header/footer chrome roots compared, EXTRA only)",
+          "visualDiff": "justified: IMAGE DID NOT LOAD ×20 = native lazy-load vs the probe's 50 ms scroll (all load at a real scroll pace, re-probed); FLUSH-LEFT = carousel tiles at negative offsets (source-identical)"
+        },
+        "crop": "header/footer frozen and unchanged since C0 (header 100%/99.93%, footer 99.95%/99.82%)",
+        "chrome": "chrome-parity within tolerance both widths (pub4); chrome-compare unchanged from C0: exit 2, 8 source-artefact findings, owner decision (stardust/chrome/header-decisions.json) still open",
+        "contentPresence": "gate-all presence.json: .App=body (source has no landmarks) + works carousel as session-variable region; HIDDEN 2 = the centre-mode side slides, clipped identically on the origin (same x on both sides) — the instrument counts served-side HIDDEN in a variable region regardless of origin parity; no build-side fix without a design change",
+        "fixRounds": "1 of 3 — 6314eff works: loop clones carry the whole card (name, View Project, link) like react-slick (were image-only: a visible clone card had no hover title and was not clickable; content-presence 1440 MISSING 'chase business premier')",
+        "scope": "--main '.App, main' (visual-diff resolves .App on the source, main on the build; content-diff primary .App aligns both sides to body); accepted.json +7 hands-off entries (6 MISSING ICON anchors: EDS media rename + accessible-name anchors + fixed z-index:-2 footer covered at signature time; 1 AdSense iframe aria-label, AdSense disabled by the martech contract)"
+      },
+      "endedAt": "2026-11-12T08:15:11.046Z",
+      "verdict": "archetype index: pages 1/1 live, blocks 9, gate 1440 2.90% / 360 3.58% (Δh 0, cd 0/0, clip 0, overflow ok), gate-all content HIDDEN 2/2 origin-identical carousel clipping (residual), fix rounds 1 (6314eff), requests 0"
+    },
+    "cluster": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "index"
+      ],
+      "pages": 0,
+      "blocks": 9,
+      "startedAt": "2026-11-12T08:37:38.880Z",
+      "endedAt": "2026-11-12T08:37:38.880Z",
+      "gates": {
+        "note": "no siblings: the run scope is the single page https://gururajkoni.dev/ (the archetype itself, gated in unit archetype); no migrate render cluster, no deploy batch"
+      },
+      "verdict": "index: pages 0/0 siblings (single-page run; archetype delivered in unit archetype), blocks 9, gate 1440 2.90% / 360 3.58% (archetype), requests 0"
+    },
+    "gate-all": {
+      "status": "done",
+      "kind": "final",
+      "templates": [
+        "index"
+      ],
+      "pages": 1,
+      "blocks": 9,
+      "startedAt": "2026-11-12T08:38:01.947Z",
+      "endedAt": "2026-11-12T08:39:06.873Z",
+      "gates": {
+        "360": {
+          "gateAll": "2.66% (text 1.34%) Δh 0, clip 0, content MISSING 0 / HIDDEN 2 → documented override (overrides.json): origin-identical works-carousel side-slide clipping"
+        },
+        "1440": {
+          "gateAll": "2.75% (text 0.07%) Δh 0, clip 0, content MISSING 0 / HIDDEN 2 → documented override (overrides.json): origin-identical works-carousel side-slide clipping"
+        },
+        "coverage": "update-coverage --gate 1440 + 360: 1/1 rows matched, 0 flips, delivery.gate.pass true (override)"
+      },
+      "verdict": "gate-all: pages 1/1 delivered (0 PASS + 1 documented override at both widths), 1440 2.75% / 360 2.66%, Δh 0, clip 0, captures reused (--skip-existing)"
+    },
+    "final": {
+      "status": "done",
+      "kind": "final",
+      "templates": [
+        "index"
+      ],
+      "pages": 1,
+      "blocks": 9,
+      "startedAt": "2026-11-12T08:39:21.994Z",
+      "endedAt": "2026-11-12T08:39:21.994Z",
+      "gates": {
+        "freeze": "foundation-freeze check: unchanged (21 files)",
+        "requests": "0 queued (no foundation-requests.md)",
+        "root": "https://main--1bfbbf98--aemcoder.aem.live/ 200"
+      },
+      "verdict": "final: freeze clean, requests 0 applied, gate-all 1/1 delivered (documented override), / 200 on aem.live"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "frozenAt": "2026-11-12T07:55:08.785Z",
+  "root": ".",
+  "paths": [
+    "styles/",
+    "fonts/",
+    "blocks/header/",
+    "blocks/footer/",
+    "head.html",
+    "scripts/"
+  ],
+  "files": {
+    "blocks/footer/footer.css": "91e1f63a3eb3420728b74a64d27fc80204dee27aefd587b48c857a5bd01fa6a8",
+    "blocks/footer/footer.js": "c56f5e4e203f03925d70c7ec2418468363bdfdb4b54d3312d31b0a127d205a50",
+    "blocks/header/header.css": "c385c080fdace0f3cde2e886d6eae8b83880824fa1923b2fd7bc400323075b2b",
+    "blocks/header/header.js": "ed465dc8bb7afeec0797ba2f15b86a1ddaedbc3d944fc3f65d2859099280bd61",
+    "fonts/bungee-400.woff2": "126eec706b7931682dbcf6c6efc274132c603f181fbf912678e6cfeb341e721b",
+    "fonts/montserrat-alternates-400.woff2": "95071720c538bbb0333bd0e3e969ef50ed1e174f21bb8897fb4207e59d043b1f",
+    "fonts/poppins-400.woff2": "7d93459d86585bfcdbb7e0376056226adb25821ee54b96236fe2123e9560929f",
+    "fonts/poppins-500.woff2": "cd36de204aca2d5fa263a731f7c20009b5e3d754ba1f1e03c33e93a48f3e7446",
+    "fonts/poppins-600.woff2": "f4e80d9dfd374d02989b87a27b5ed4cb78fbb177c27f1478e9a8b0afb7513149",
+    "fonts/poppins-700.woff2": "9338e65fc077355c7a87ae0d64cc101e23b9bf8ad78ae65f0f319c857311b526",
+    "fonts/slick.woff": "26726bac4060abb1226e6ceebc1336e84930fe7a7af1b3895a109d067f5b5dcc",
+    "head.html": "64107a42b8a0e43eae19b72d6b212000e247ba056a9762535b6e6b53672a0849",
+    "scripts/aem.js": "786e8019b14b4c0bee9df38a3162f129c04310d9d00e7a6dd326c7e5830c84ae",
+    "scripts/consent-check.js": "ac21f825288cfc82c52a6acd9c57bbb76a2017ee1b06319d493244f32751249a",
+    "scripts/consented.js": "8a0ec7239cfab36c9bbfd8e7cde178c6c9061f68da8539879411ee9fa09b18ab",
+    "scripts/martech.js": "1fc04f858ae1bde98097c63986a5691e301f870fba00dd7817ec66ca8060ef8f",
+    "scripts/reveal.js": "39292f8ddb0be0d6984fa5c25a658d25a3ed9fac26b9222cee79b4e34cd0dc4a",
+    "scripts/scripts.js": "1eb46f6d6d712d6b39eb5378e11c46ab69f418455610888afc30b96c2caa5e72",
+    "styles/fonts.css": "d80fb2418b478f18e141acac5ebb3f4a3bf8917b277247ecf882dbca20160703",
+    "styles/lazy-styles.css": "391d6721991eb169fa04d7c71d9b597361d76c24ab8a3d5f1dcb47457d8ca2d6",
+    "styles/styles.css": "eb9409bfc0d6717e504e86234a2c1c3964b8d6ca4a76aa2d95ee02fed225ece9"
+  }
+}

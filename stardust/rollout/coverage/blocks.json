@@ -1,0 +1,153 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/blocks",
+    "writtenAt": "2026-11-12T07:16:32.598Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage/pages.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-12T07:55:32.073Z",
+  "blocks": [
+    {
+      "id": "about",
+      "label": "about",
+      "kind": "module",
+      "signature": "module:about",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "about",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "blogs",
+      "label": "blogs",
+      "kind": "module",
+      "signature": "module:blogs",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "blogs",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "contact",
+      "label": "contact",
+      "kind": "module",
+      "signature": "module:contact",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "contact",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "hero",
+      "label": "hero",
+      "kind": "module",
+      "signature": "module:hero",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "hero",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "services",
+      "label": "services",
+      "kind": "module",
+      "signature": "module:services",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "services",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "tech",
+      "label": "tech",
+      "kind": "module",
+      "signature": "module:tech",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "tech",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "works",
+      "label": "works",
+      "kind": "module",
+      "signature": "module:works",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "works",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    }
+  ]
+}

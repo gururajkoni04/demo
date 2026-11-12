@@ -1,0 +1,124 @@
+[live-session] waiting to pace live navigations to gururajkoni.dev (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+
+Content diff @ 360px (profile "generic", roots: main, header, footer)
+⚠ root "main": source fell back to <body>, build has it — both sides measured at <body> (aligned)
+root "main" — source: "main" absent, fell back to <body>
+  source: 80 text nodes — 22 headings, 6 eyebrows, 13 CTAs, 39 body; 45 img
+  build: 65 text nodes — 18 headings, 3 eyebrows, 13 CTAs, 31 body; 47 img
+  editable texts (outermost h*/p/ul/ol): source 43 / build 51
+  attributes (placeholder/aria-label/title): source 19 / build 29; icons: source 38 / build 31
+  accepted (invisible, nothing lost): 3 ROLE UPGRADE eyebrow → heading — "Full Stack Web Development", "AEM Development", "Graphic Design"; 10 SAME IMAGE — "java-original.svg ↔ media_187db3bf28347230ee98871532d7ab6726d8bee6a.svg", "html5-plain.svg ↔ media_168c3586fb5b950fc312c51ff110650d3bca814de.svg", "css3-plain.svg ↔ media_1e383484ae3892719375e1bd1579362e30afc020a.webp", "javascript-plain.svg ↔ media_1cd703e452ef2d95b6933cda8ff824b71fb3e3b9a.svg" …
+root "header" — source: absent (no <header> / [role="banner"] outside the main root(s)) — measured as empty
+  source: 0 text nodes — 0 headings, 0 eyebrows, 0 CTAs, 0 body; 0 img
+  build: 10 text nodes — 0 headings, 0 eyebrows, 10 CTAs, 0 body; 5 img
+  editable texts (outermost h*/p/ul/ol): source 0 / build 2
+  attributes (placeholder/aria-label/title): source 0 / build 3; icons: source 0 / build 1
+root "footer" — source: absent (no <footer> / [role="contentinfo"] outside the main root(s)) — measured as empty
+  source: 0 text nodes — 0 headings, 0 eyebrows, 0 CTAs, 0 body; 0 img
+  build: 3 text nodes — 0 headings, 1 eyebrows, 2 CTAs, 0 body; 10 img
+  editable texts (outermost h*/p/ul/ol): source 0 / build 3
+  attributes (placeholder/aria-label/title): source 0 / build 11; icons: source 0 / build 12
+
+Findings: 101 (25 structural 🔴)
+Tiers: looks-same 🔴 25 · nothing-lost 🟡 1 · accepted 🟢 13 (owner 0, auto 13) · advisory 75
+  🔴 MISSING HEADING [main]: source heading "Chase Business Premier" has no build heading of the same text. A source heading has no build equivalent — a dropped or renamed section.
+  🔴 MISSING HEADING [main]: source heading "SAB.com" has no build heading of the same text. A source heading has no build equivalent — a dropped or renamed section.
+  🔴 MISSING HEADING [main]: source heading "Meemic.com" has no build heading of the same text. A source heading has no build equivalent — a dropped or renamed section.
+  🔴 MISSING HEADING [main]: source heading "Shopping Website in Java Using JSP and Servlet" has no build heading of the same text. A source heading has no build equivalent — a dropped or renamed section.
+  🔴 MISSING HEADING [main]: source heading "ACG AAA Connect" has no build heading of the same text. A source heading has no build equivalent — a dropped or renamed section.
+  🔴 MISSING HEADING [main]: source heading "Chase DoorDash Credit Card" has no build heading of the same text. A source heading has no build equivalent — a dropped or renamed section.
+  🔴 MISSING HEADING [main]: source heading "Chase Business Premier" has no build heading of the same text. A source heading has no build equivalent — a dropped or renamed section.
+  🔴 MISSING ICON [main]: source image logo-e3524b36.png (28×43) at "button#1" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source inline svg 0 0 24 24 / 3 shape(s) (20×20) at "chase business premier view project" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source inline svg 0 0 24 24 / 3 shape(s) (20×20) at "sab.com view project" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source inline svg 0 0 24 24 / 3 shape(s) (20×20) at "meemic.com view project" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source inline svg 0 0 24 24 / 3 shape(s) (20×20) at "shopping website in java using jsp and s" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source inline svg 0 0 24 24 / 3 shape(s) (20×20) at "acg aaa connect view project" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source inline svg 0 0 24 24 / 3 shape(s) (20×20) at "chase doordash credit card view project" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source inline svg 0 0 24 24 / 3 shape(s) (20×20) at "chase business premier view project" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source image linkedin-c485396a.png (42×42) at "/in/gururajkoni/" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source image linkedin%20(1)-e61db1d1.png (42×42) at "/in/gururajkoni/" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source image facebook-52917ccc.png (42×42) at "/konigraphics69" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source image facebook%20(1)-2b95e18b.png (42×42) at "/konigraphics69" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source image instagram-090853cb.png (42×42) at "/koni_graphics/" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source image instagram%20(1)-88a6c759.png (42×42) at "/koni_graphics/" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source image twitter-5805b2d2.png (42×42) at "/gururajkon69" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source image twitter%20(1)-d5d22e96.png (42×42) at "/gururajkon69" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source image github-c9477c30.png (42×42) at "/gururajkoni04" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🔴 MISSING ICON [main]: source image github%20(1)-a11c3607.png (42×42) at "/gururajkoni04" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🟠 EXTRA [header]: build cta "About" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Service" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Work" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Contact" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Blogs" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "About" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Service" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Work" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Contact" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Blogs" has no source source — Unexpected node with no source.
+  🟠 EXTRA [footer]: build eyebrow "My Social Networks" has no source source — Unexpected node with no source.
+  🟠 EXTRA [footer]: build cta "❤️ Crafted with care © Gururaj Koni" has no source source — Unexpected node with no source.
+  🟠 EXTRA [footer]: build cta "☕ Buy me a coffee" has no source source — Unexpected node with no source.
+  🟡 MISSING BODY [main]: source body "View Project"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [main]: source body "View Project"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [main]: source body "View Project"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [main]: source body "View Project"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [main]: source body "View Project"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [main]: source body "View Project"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [main]: source body "View Project"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [main]: source body "Get in touch"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING ARIA-LABEL [main]: source <iframe> aria-label="Advertisement" has no build <iframe> with that aria-label. Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.
+  🟡 MISSING TITLE [main]: source <iframe> title="Advertisement" has no build <iframe> with that title. Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.
+  🟡 EXTRA ARIA-LABEL [main]: build <div> aria-label="Toggle dark / light theme" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [main]: build <div> aria-label="Menu" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [main]: build <div> aria-label="Toggle dark / light theme" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <a> title="Contact me" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [main]: build <button> aria-label="back to home page" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [main]: build <a> aria-label="LinkedIn" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [main]: build <a> aria-label="Facebook" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [main]: build <a> aria-label="Instagram" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [main]: build <a> aria-label="Twitter" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [main]: build <a> aria-label="Github" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <a> title="Github" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <a> title="Buy Me a Coffee" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 ICON DIFF [main]: source image free-adob-experience-cloud-4238620-3516493.png (51×54) vs build image media_179f244aba3fcfe8bda75b82eda956b6d53cd5208.svg (51×54) at "here are a few technologies i`ve been wo". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON MOVED [main]: source inline svg 0 0 16 16 / 2 shape(s) (42×42) at "button#2" is at "back to home page" in the build — same icon, paired by order. Same icon, different anchor — usually a text-less host (a <button> with no label anchors as button#n) or moved anchor text; confirm it sits on the right element, and give an unlabeled interactive host an aria-label.
+  🟡 ICON MOVED [main]: source inline svg 0 0 16 16 / 2 shape(s) (42×42) at "button#2" is at "back to home page" in the build — same icon, paired by order. Same icon, different anchor — usually a text-less host (a <button> with no label anchors as button#n) or moved anchor text; confirm it sits on the right element, and give an unlabeled interactive host an aria-label.
+  🟡 EXTRA ICON [main]: build image media_169fd679d592330fed38e6cf00d021da7b70a7535.png (28×43) at "div#1" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_1bb60b6912666998ef7200427cd0af83089378442.png (42×42) at "linkedin" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_1df8aea7449134ac1705f6e969e618585ab030cd4.png (42×42) at "linkedin" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_1950fb86d377ab9a5b82ebf09cb1eaa23760df497.png (42×42) at "facebook" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_1b2a51bef615a650e8d46871bdeca8db12e856039.png (42×42) at "facebook" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_1f36f957611a11b915483a738eb7f73e29ae153d0.png (42×42) at "instagram" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_17b7478009a06e0acb8292ecd979c691bc7500f2c.png (42×42) at "instagram" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_19e6e04e1ea5f06ce09b5a64762dd8d2f1afbacc3.png (42×42) at "twitter" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_1a78615a8a95a6b4858af25841c49adede8537137.png (42×42) at "twitter" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_1a75ef0718b65b423a4bc13b1f52119b8fd1a02d2.png (42×42) at "github" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_12bd5010aadb0af415b0712659487c893628429a9.png (42×42) at "github" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ARIA-LABEL [header]: build <div> aria-label="Toggle dark / light theme" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <div> aria-label="Menu" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <div> aria-label="Toggle dark / light theme" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ICON [header]: build image media_169fd679d592330fed38e6cf00d021da7b70a7535.png (28×43) at "div#1" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA TITLE [footer]: build <abbr> title="back to home page" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <button> aria-label="back to home page" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <a> aria-label="LinkedIn" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <a> aria-label="Facebook" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <a> aria-label="Instagram" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <a> aria-label="Twitter" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <a> aria-label="Github" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [footer]: build <abbr> title="Github" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [footer]: build <a> title="Github" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [footer]: build <abbr> title="Buy Me a Coffee" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [footer]: build <a> title="Buy Me a Coffee" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ICON [footer]: build inline svg 0 0 16 16 / 2 shape(s) (42×42) at "back to home page" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build inline svg 0 0 16 16 / 2 shape(s) (42×42) at "back to home page" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1bb60b6912666998ef7200427cd0af83089378442.png (42×42) at "linkedin" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1df8aea7449134ac1705f6e969e618585ab030cd4.png (42×42) at "linkedin" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1950fb86d377ab9a5b82ebf09cb1eaa23760df497.png (42×42) at "facebook" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1b2a51bef615a650e8d46871bdeca8db12e856039.png (42×42) at "facebook" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1f36f957611a11b915483a738eb7f73e29ae153d0.png (42×42) at "instagram" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_17b7478009a06e0acb8292ecd979c691bc7500f2c.png (42×42) at "instagram" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_19e6e04e1ea5f06ce09b5a64762dd8d2f1afbacc3.png (42×42) at "twitter" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1a78615a8a95a6b4858af25841c49adede8537137.png (42×42) at "twitter" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1a75ef0718b65b423a4bc13b1f52119b8fd1a02d2.png (42×42) at "github" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_12bd5010aadb0af415b0712659487c893628429a9.png (42×42) at "github" has no source source. Build-only icon — confirm it is intended.

@@ -1,0 +1,65 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-12T07:16:23.047Z",
+    "readArtifacts": [
+      "stardust/migrated"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-12T08:43:16.140Z",
+  "pages": [
+    {
+      "slug": "index",
+      "path": "/",
+      "title": "Gururaj Koni - Full Stack Developer &amp; AEM Specialist | Portfolio",
+      "templateId": "index",
+      "source": {
+        "migratedHtml": "stardust/migrated/index.html",
+        "metaJson": "stardust/migrated/_meta.json",
+        "sourceHash": "sha256:b21b77bf68e61644a3bbde2f87feade1e9765e7dfad4dd51f0818239e0050eb0",
+        "sourceUrl": "https://gururajkoni.dev/"
+      },
+      "blocks": [
+        "hero",
+        "about",
+        "tech",
+        "services",
+        "blogs",
+        "works",
+        "contact"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--1bfbbf98--aemcoder.aem.live/",
+        "deployedAt": "2026-11-12T07:55:31.652Z",
+        "verifiedAt": "2026-11-12T08:43:16.140Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.66,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 2,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": [
+              ".slick-slider=.works"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 2"
+          ],
+          "override": "PASS (documented override)",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-12T08:38:57.434Z"
+        }
+      }
+    }
+  ]
+}

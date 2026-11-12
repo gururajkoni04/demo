@@ -1,0 +1,389 @@
+{
+ "url": "http://localhost:8791/index-proposed.html",
+ "at": "2026-11-12T07:05:18.467Z",
+ "width": 1440,
+ "status": 200,
+ "settlePasses": 2,
+ "docH": 5352,
+ "pageW": 1440,
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 1,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 3,
+  "offPage": 4,
+  "textNodes": 30,
+  "controls": 29,
+  "total": 0
+ },
+ "findings": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.blogs__grid > a.blogs__link > article.blogs__card > h3.blogs__card-title",
+   "text": "i migrated a react spa to aem edge delivery services in minu",
+   "clipper": "h3.blogs__card-title",
+   "rect": {
+    "l": 549,
+    "t": 3066,
+    "r": 828,
+    "b": 3088,
+    "w": 279,
+    "h": 22
+   },
+   "clip": {
+    "l": 549,
+    "t": 3064,
+    "r": 892,
+    "b": 3117,
+    "w": 343,
+    "h": 53
+   },
+   "lines": 3
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "cut": 282,
+   "path": "div.works__track.is-animating > div.works__slide > div.works__card > a.works__link",
+   "text": "acg aaa connect view project",
+   "clipper": "div.works__card",
+   "rect": {
+    "l": -150,
+    "t": 3730,
+    "r": 182,
+    "b": 3979,
+    "w": 332,
+    "h": 249
+   },
+   "clip": {
+    "l": -150,
+    "t": 3730,
+    "r": 182,
+    "b": 3979,
+    "w": 332,
+    "h": 249
+   }
+  },
+  {
+   "kind": "CONTROL X-HIDDEN",
+   "advisory": true,
+   "path": "div.contact__container > form.contact__form-container > div.contact__form > button.contact__btn",
+   "text": "get in touchget in touch",
+   "clipper": "div.contact__container",
+   "rect": {
+    "l": 89,
+    "t": 4810,
+    "r": 213,
+    "b": 4858,
+    "w": 124,
+    "h": 48
+   },
+   "clip": {
+    "l": 245,
+    "t": 4439,
+    "r": 1195,
+    "b": 4942,
+    "w": 950,
+    "h": 503
+   }
+  },
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "cut": 0,
+   "path": "form.contact__form-container > div.contact__form > button.contact__btn > span.contact__btn-label",
+   "text": "get in touch",
+   "clipper": "button.contact__btn",
+   "rect": {
+    "l": 107,
+    "t": 4824,
+    "r": 195,
+    "b": 4844,
+    "w": 88,
+    "h": 20
+   },
+   "clip": {
+    "l": 89,
+    "t": 4810,
+    "r": 213,
+    "b": 4858,
+    "w": 124,
+    "h": 48
+   },
+   "lines": 1
+  }
+ ],
+ "textBoxes": [
+  {
+   "x": 484,
+   "y": 375,
+   "w": 149,
+   "h": 44
+  },
+  {
+   "x": 643,
+   "y": 375,
+   "w": 313,
+   "h": 44
+  },
+  {
+   "x": 573,
+   "y": 422,
+   "w": 293,
+   "h": 24
+  },
+  {
+   "x": 608,
+   "y": 483,
+   "w": 193,
+   "h": 24
+  },
+  {
+   "x": 869,
+   "y": 934,
+   "w": 46,
+   "h": 21
+  },
+  {
+   "x": 954,
+   "y": 934,
+   "w": 55,
+   "h": 21
+  },
+  {
+   "x": 1049,
+   "y": 934,
+   "w": 39,
+   "h": 21
+  },
+  {
+   "x": 1128,
+   "y": 934,
+   "w": 61,
+   "h": 21
+  },
+  {
+   "x": 1229,
+   "y": 934,
+   "w": 41,
+   "h": 21
+  },
+  {
+   "x": 577,
+   "y": 2714,
+   "w": 285,
+   "h": 46
+  },
+  {
+   "x": 122,
+   "y": 3066,
+   "w": 342,
+   "h": 22
+  },
+  {
+   "x": 122,
+   "y": 3092,
+   "w": 111,
+   "h": 22
+  },
+  {
+   "x": 122,
+   "y": 3125,
+   "w": 108,
+   "h": 18
+  },
+  {
+   "x": 122,
+   "y": 3154,
+   "w": 323,
+   "h": 20
+  },
+  {
+   "x": 122,
+   "y": 3174,
+   "w": 309,
+   "h": 20
+  },
+  {
+   "x": 122,
+   "y": 3194,
+   "w": 152,
+   "h": 20
+  },
+  {
+   "x": 122,
+   "y": 3237,
+   "w": 75,
+   "h": 18
+  },
+  {
+   "x": 549,
+   "y": 3066,
+   "w": 279,
+   "h": 22
+  },
+  {
+   "x": 549,
+   "y": 3092,
+   "w": 320,
+   "h": 22
+  },
+  {
+   "x": 549,
+   "y": 3125,
+   "w": 107,
+   "h": 18
+  },
+  {
+   "x": 549,
+   "y": 3154,
+   "w": 316,
+   "h": 20
+  },
+  {
+   "x": 549,
+   "y": 3174,
+   "w": 334,
+   "h": 20
+  },
+  {
+   "x": 549,
+   "y": 3194,
+   "w": 136,
+   "h": 20
+  },
+  {
+   "x": 549,
+   "y": 3237,
+   "w": 75,
+   "h": 18
+  },
+  {
+   "x": 975,
+   "y": 3066,
+   "w": 282,
+   "h": 22
+  },
+  {
+   "x": 975,
+   "y": 3099,
+   "w": 102,
+   "h": 18
+  },
+  {
+   "x": 975,
+   "y": 3128,
+   "w": 331,
+   "h": 20
+  },
+  {
+   "x": 975,
+   "y": 3148,
+   "w": 307,
+   "h": 20
+  },
+  {
+   "x": 975,
+   "y": 3168,
+   "w": 181,
+   "h": 20
+  },
+  {
+   "x": 975,
+   "y": 3237,
+   "w": 75,
+   "h": 18
+  },
+  {
+   "x": 661,
+   "y": 3330,
+   "w": 117,
+   "h": 20
+  },
+  {
+   "x": 107,
+   "y": 4824,
+   "w": 88,
+   "h": 20
+  },
+  {
+   "x": 630,
+   "y": 671,
+   "w": 180,
+   "h": 22
+  },
+  {
+   "x": 611,
+   "y": 802,
+   "w": 127,
+   "h": 15
+  },
+  {
+   "x": 738,
+   "y": 799,
+   "w": 12,
+   "h": 20
+  },
+  {
+   "x": 750,
+   "y": 802,
+   "w": 80,
+   "h": 15
+  },
+  {
+   "x": 661,
+   "y": 830,
+   "w": 117,
+   "h": 15
+  }
+ ],
+ "groups": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 1,
+   "clipper": "h3.blogs__card-title",
+   "path": "div.blogs__grid > a.blogs__link > article.blogs__card > h3.blogs__card-title",
+   "text": "i migrated a react spa to aem edge delivery services in minu",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.works__card",
+   "path": "div.works__track.is-animating > div.works__slide > div.works__card > a.works__link",
+   "text": "acg aaa connect view project",
+   "cutMin": 282,
+   "cutMax": 282
+  },
+  {
+   "kind": "CONTROL X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.contact__container",
+   "path": "div.contact__container > form.contact__form-container > div.contact__form > button.contact__btn",
+   "text": "get in touchget in touch",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "button.contact__btn",
+   "path": "form.contact__form-container > div.contact__form > button.contact__btn > span.contact__btn-label",
+   "text": "get in touch",
+   "cutMin": 0,
+   "cutMax": 0
+  }
+ ],
+ "tier": "chrome"
+}

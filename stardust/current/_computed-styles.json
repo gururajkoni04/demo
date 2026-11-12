@@ -1,0 +1,2719 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-12T06:40:20.177Z",
+    "script": "style-census.mjs",
+    "readArtifacts": [
+      "https://gururajkoni.dev/"
+    ],
+    "widths": [
+      1440,
+      360
+    ],
+    "userAgent": "browser-default",
+    "synthesizedInputs": [],
+    "failed": []
+  },
+  "pages": {
+    "https://gururajkoni.dev/": {
+      "360": {
+        "title": "Gururaj Koni - Full Stack Developer & AEM Specialist | Portfolio",
+        "viewport": {
+          "width": 360,
+          "height": 900
+        },
+        "elements": {
+          "total": 413,
+          "visible": 175
+        },
+        "occluders": [],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "About Me",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(1) > h1",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "28.8px",
+            "fontWeight": "500",
+            "lineHeight": "43.2px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "h1",
+            "text": "My Services",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(3) > div > h1",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "28.8px",
+            "fontWeight": "500",
+            "lineHeight": "43.2px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "h2",
+            "text": "My Medium Blogs",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(4) > section > h2",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "28.8px",
+            "fontWeight": "500",
+            "lineHeight": "43.2px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "h3",
+            "text": "One Prompt Instead of Ten Clicks: AEM M…",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > h3",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "17.6px",
+            "fontWeight": "600",
+            "lineHeight": "26.4px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(255, 111, 60)"
+          },
+          {
+            "tag": "h3",
+            "text": "I Migrated a React SPA to AEM Edge Deli…",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > h3",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "17.6px",
+            "fontWeight": "600",
+            "lineHeight": "26.4px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(255, 111, 60)"
+          },
+          {
+            "tag": "h3",
+            "text": "Figma to AEM components with MCP",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > h3",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "17.6px",
+            "fontWeight": "600",
+            "lineHeight": "26.4px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(255, 111, 60)"
+          },
+          {
+            "tag": "h1",
+            "text": "My Recent Works",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(5) > div > h1",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "28.8px",
+            "fontWeight": "500",
+            "lineHeight": "43.2px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "h2",
+            "text": "Chase DoorDash Credit Card",
+            "selector": "div:nth-of-type(6) > div > div > div > a > div > div > h2",
+            "fontFamily": "Bungee, cursive",
+            "fontSize": "20.8px",
+            "fontWeight": "400",
+            "lineHeight": "31.2px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "h1",
+            "text": "Get in Touch!",
+            "selector": "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > h1",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "28.8px",
+            "fontWeight": "500",
+            "lineHeight": "43.2px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "h4",
+            "text": "Contact Me",
+            "selector": "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > h4",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "19.2px",
+            "fontWeight": "500",
+            "lineHeight": "28.8px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(244, 81, 30)"
+          }
+        ],
+        "text": [
+          {
+            "tag": "p",
+            "text": "I am a full-stack Web Developer",
+            "selector": "#root > div > div:nth-of-type(1) > section > div > p:nth-of-type(2)",
+            "fontFamily": "Poppins",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "lineHeight": "18px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "p",
+            "text": "I am an AEM Full Stack Developer and Gr…",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(1) > div > div:nth-of-type(1) > p",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "lineHeight": "21.75px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(177, 188, 220)"
+          },
+          {
+            "tag": "p",
+            "text": "Here are a few technologies I`ve been w…",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(2) > p",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "lineHeight": "21.75px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(177, 188, 220)"
+          },
+          {
+            "tag": "p",
+            "text": "What I can do for you -",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(3) > div > p",
+            "fontFamily": "Poppins",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "p",
+            "text": "As a full stack developer, I handle bot…",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(3) > div > div > div:nth-of-type(1) > div > div:nth-of-type(1) > p",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "p",
+            "text": "Full Stack Web Development",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(3) > div > div > div:nth-of-type(1) > div > div:nth-of-type(2) > p",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "600",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "uppercase",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "p",
+            "text": "With extensive experience in Adobe Expe…",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(3) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "p",
+            "text": "As a graphic designer, I specialize in …",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(3) > div > div > div:nth-of-type(3) > div > div:nth-of-type(1) > p",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "p",
+            "text": "There is a particular kind of AEM work …",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > p:nth-of-type(2)",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "15.2px",
+            "fontWeight": "400",
+            "lineHeight": "20px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(240, 240, 240)"
+          },
+          {
+            "tag": "p",
+            "text": "When people hear “migrate a React SPA t…",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > p:nth-of-type(2)",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "15.2px",
+            "fontWeight": "400",
+            "lineHeight": "20px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(240, 240, 240)"
+          },
+          {
+            "tag": "p",
+            "text": "If you’ve ever built AEM components fro…",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > p:nth-of-type(2)",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "15.2px",
+            "fontWeight": "400",
+            "lineHeight": "20px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(240, 240, 240)"
+          },
+          {
+            "tag": "p",
+            "text": "I'm always excited to hear about new op…",
+            "selector": "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > p",
+            "fontFamily": "Poppins",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Check out my workCheck out my work",
+            "selector": "#root > div > div:nth-of-type(1) > section > div > button",
+            "count": 1,
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(255, 87, 34)",
+            "borderRadius": "0px",
+            "padding": "10px 13px",
+            "border": "2px solid rgb(255, 87, 34)",
+            "borderColor": "rgb(255, 87, 34)",
+            "boxShadow": "none",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "700",
+            "textTransform": "uppercase",
+            "letterSpacing": "normal",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(223, 231, 243)",
+              "borderColor": "rgb(255, 87, 34)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "See more articles",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > button",
+            "count": 1,
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(255, 87, 34)",
+            "borderRadius": "8px",
+            "padding": "10px 20px",
+            "border": "1px solid rgb(255, 87, 34)",
+            "borderColor": "rgb(255, 87, 34)",
+            "boxShadow": "none",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "15.2px",
+            "fontWeight": "600",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": {
+              "backgroundColor": "rgb(255, 87, 34)",
+              "color": "rgb(2, 7, 22)",
+              "borderColor": "rgb(255, 87, 34)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          }
+        ],
+        "links": [
+          {
+            "text": "Contact me",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(1) > div > div:nth-of-type(1) > p > a",
+            "count": 1,
+            "color": "rgb(255, 87, 34)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 87, 34)",
+              "borderColor": "rgb(229, 231, 235)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "One Prompt Instead of Ten Clicks: AEM M…",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1)",
+            "count": 6,
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(229, 231, 235)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          }
+        ],
+        "surfaces": [
+          {
+            "matched": "nav",
+            "selector": "nav",
+            "rect": {
+              "x": 0,
+              "y": 900,
+              "w": 360,
+              "h": 71
+            },
+            "backgroundColor": "rgb(3, 11, 37)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "14px 30px 14px 15px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(2, 7, 22) 0px 1px 3px 0px",
+            "position": "absolute",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "16px"
+          }
+        ],
+        "radii": [
+          {
+            "value": "10px",
+            "count": 6,
+            "area": 113621,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form",
+              "#root > div > section > div:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(2)",
+              "#root > div > section > div:nth-of-type(2) > a:nth-of-type(2) > img:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "12px",
+            "count": 4,
+            "area": 454356,
+            "sources": [
+              "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article",
+              "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article",
+              "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article"
+            ]
+          },
+          {
+            "value": "8px",
+            "count": 4,
+            "area": 150766,
+            "sources": [
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > img",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > img",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > img"
+            ]
+          },
+          {
+            "value": "6px",
+            "count": 3,
+            "area": 38691,
+            "sources": [
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > input:nth-of-type(1)",
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > input:nth-of-type(2)",
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > textarea"
+            ]
+          },
+          {
+            "value": "2px",
+            "count": 3,
+            "area": 270,
+            "sources": [
+              "nav > div > span:nth-of-type(1)",
+              "nav > div > span:nth-of-type(2)",
+              "nav > div > span:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "4px",
+            "count": 2,
+            "area": 108075,
+            "sources": [
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > button",
+              "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > div"
+            ]
+          },
+          {
+            "value": "9px",
+            "count": 1,
+            "area": 104801,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div"
+            ]
+          }
+        ],
+        "shadows": [
+          {
+            "value": "rgba(0, 0, 0, 0.3) 0px 4px 20px 0px",
+            "count": 4,
+            "sources": [
+              "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article",
+              "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article",
+              "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article"
+            ]
+          },
+          {
+            "value": "rgb(2, 7, 22) 0px 1px 3px 0px",
+            "count": 1,
+            "sources": [
+              "nav"
+            ]
+          }
+        ],
+        "gradients": [
+          {
+            "value": "linear-gradient(335deg, rgb(2, 7, 22) 23px, rgba(0, 0, 0, 0) 23px), linear-gradient(155deg, rgb(2, 7, 22) 23px, rgba(0, 0, 0, 0) 23px), linear-gradient(335deg, rgb(2, 7, 22) 23px, rgba(0, 0, 0, 0) 23px), linear-gradient(155deg, rgb(2, 7, 2…",
+            "count": 1,
+            "area": 446985,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "linear-gradient(rgb(255, 87, 34) 1.4px, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) calc(100% - 1.4px), rgb(255, 87, 34) 0px), linear-gradient(90deg, rgb(255, 87, 34) 1.4px, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) calc(100% - 1.4px), rgb(255, 87…",
+            "count": 1,
+            "area": 51437,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(1) > div > div:nth-of-type(2) > img"
+            ]
+          }
+        ],
+        "bgColors": [
+          {
+            "value": "rgb(2, 7, 22)",
+            "count": 8,
+            "area": 1107710,
+            "sources": [
+              "#root > div > div:nth-of-type(1) > div > div",
+              "div > div:nth-of-type(2) > section:nth-of-type(3) > div > div > div:nth-of-type(1) > div > div:nth-of-type(2)",
+              "div > div:nth-of-type(2) > section:nth-of-type(3) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(255, 87, 34)",
+            "count": 4,
+            "area": 1371,
+            "sources": [
+              "nav > div > span:nth-of-type(1)",
+              "nav > div > span:nth-of-type(2)",
+              "nav > div > span:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "rgb(3, 11, 37)",
+            "count": 2,
+            "area": 2300057,
+            "sources": [
+              "#root > div > div:nth-of-type(2)",
+              "nav"
+            ]
+          },
+          {
+            "value": "rgb(216, 67, 21)",
+            "count": 2,
+            "area": 118760,
+            "sources": [
+              "#root > div > section",
+              "#root > div > section > p > span"
+            ]
+          },
+          {
+            "value": "rgb(27, 36, 63)",
+            "count": 1,
+            "area": 446985,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > div:nth-of-type(2)"
+            ]
+          }
+        ],
+        "textColors": [
+          {
+            "value": "rgb(223, 231, 243)",
+            "count": 20,
+            "sources": [
+              "#root > div > div:nth-of-type(1) > section > div > p:nth-of-type(1)",
+              "#root > div > div:nth-of-type(1) > section > div > p:nth-of-type(2)",
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(1) > h1"
+            ]
+          },
+          {
+            "value": "rgb(255, 87, 34)",
+            "count": 8,
+            "sources": [
+              "#root > div > div:nth-of-type(1) > section > div > p:nth-of-type(1) > span",
+              "#root > div > div:nth-of-type(1) > section > div > button > span:nth-of-type(2)",
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(1) > div > div:nth-of-type(1) > p > a"
+            ]
+          },
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 5,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(2) > div:nth-of-type(1) > button:nth-of-type(1)",
+              "#root > div > section > p > span",
+              "#root > div > section > abbr:nth-of-type(1) > a"
+            ]
+          },
+          {
+            "value": "rgb(192, 200, 209)",
+            "count": 3,
+            "sources": [
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > p:nth-of-type(1)",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > p:nth-of-type(1)",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > p:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgb(240, 240, 240)",
+            "count": 3,
+            "sources": [
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > p:nth-of-type(2)",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > p:nth-of-type(2)",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > p:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(255, 111, 60)",
+            "count": 3,
+            "sources": [
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > h3",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > h3",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > h3"
+            ]
+          },
+          {
+            "value": "rgb(177, 188, 220)",
+            "count": 2,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(1) > div > div:nth-of-type(1) > p",
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(2) > p"
+            ]
+          },
+          {
+            "value": "rgb(244, 81, 30)",
+            "count": 1,
+            "sources": [
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > h4"
+            ]
+          }
+        ],
+        "borderColors": [
+          {
+            "value": "rgb(244, 81, 30)",
+            "count": 4,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div",
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > input:nth-of-type(1)",
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > input:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(255, 87, 34)",
+            "count": 2,
+            "sources": [
+              "#root > div > div:nth-of-type(1) > section > div > button",
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > button"
+            ]
+          }
+        ],
+        "customProps": {},
+        "fonts": [
+          {
+            "family": "Bungee",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bungee",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Bungee Inline",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bungee Outline",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "300",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "500",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "600",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "800",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "300",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "600",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "800",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "100",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "200",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "300",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "500",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "600",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "800",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "900",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "100",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "200",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "300",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "600",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "800",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "900",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "100",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "200",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "300",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "500",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "600",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "800",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "900",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "100",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "200",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "300",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "500",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "600",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "800",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "900",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "slick",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          }
+        ],
+        "logoCandidates": [
+          {
+            "tag": "img",
+            "selector": "nav > button > img",
+            "src": "https://gururajkoni.dev/assets/logo-e3524b36.png",
+            "inlineSvg": false,
+            "alt": "My logo",
+            "ariaLabel": null,
+            "class": "_logo_twmt9_35",
+            "id": null,
+            "href": null,
+            "inHomeLink": false,
+            "rect": {
+              "x": 15,
+              "y": 914,
+              "w": 28,
+              "h": 43
+            }
+          },
+          {
+            "tag": "img",
+            "selector": "nav > ul:nth-of-type(2) > li:nth-of-type(1) > button > img",
+            "src": "https://gururajkoni.dev/assets/dark-3fe9091c.png",
+            "inlineSvg": false,
+            "alt": "dark theme",
+            "ariaLabel": null,
+            "class": "_theme_img_twmt9_115",
+            "id": null,
+            "href": null,
+            "inHomeLink": false,
+            "rect": {
+              "x": 255,
+              "y": 966,
+              "w": 70,
+              "h": 25
+            }
+          }
+        ],
+        "iconFont": null,
+        "consent": {
+          "dismissed": null
+        },
+        "finalUrl": "https://gururajkoni.dev/"
+      },
+      "1440": {
+        "title": "Gururaj Koni - Full Stack Developer & AEM Specialist | Portfolio",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "elements": {
+          "total": 460,
+          "visible": 198
+        },
+        "occluders": [],
+        "headings": [
+          {
+            "tag": "h2",
+            "text": "My Medium Blogs",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(4) > section > h2",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "36.8px",
+            "fontWeight": "500",
+            "lineHeight": "55.2px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "h3",
+            "text": "One Prompt Instead of Ten Clicks: AEM M…",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > h3",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "17.6px",
+            "fontWeight": "600",
+            "lineHeight": "26.4px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(255, 111, 60)"
+          },
+          {
+            "tag": "h3",
+            "text": "I Migrated a React SPA to AEM Edge Deli…",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > h3",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "17.6px",
+            "fontWeight": "600",
+            "lineHeight": "26.4px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(255, 111, 60)"
+          },
+          {
+            "tag": "h3",
+            "text": "Figma to AEM components with MCP",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > h3",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "17.6px",
+            "fontWeight": "600",
+            "lineHeight": "26.4px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(255, 111, 60)"
+          },
+          {
+            "tag": "h2",
+            "text": "ACG AAA Connect",
+            "selector": "div:nth-of-type(8) > div > div > div > a > div > div > h2",
+            "fontFamily": "Bungee, cursive",
+            "fontSize": "24.8px",
+            "fontWeight": "400",
+            "lineHeight": "37.2px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "h2",
+            "text": "Chase DoorDash Credit Card",
+            "selector": "div:nth-of-type(9) > div > div > div > a > div > div > h2",
+            "fontFamily": "Bungee, cursive",
+            "fontSize": "24.8px",
+            "fontWeight": "400",
+            "lineHeight": "37.2px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "h2",
+            "text": "Chase Business Premier",
+            "selector": "div:nth-of-type(10) > div > div > div > a > div > div > h2",
+            "fontFamily": "Bungee, cursive",
+            "fontSize": "24.8px",
+            "fontWeight": "400",
+            "lineHeight": "37.2px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "h4",
+            "text": "Contact Me",
+            "selector": "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > h4",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "20.8px",
+            "fontWeight": "500",
+            "lineHeight": "31.2px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(244, 81, 30)"
+          }
+        ],
+        "text": [
+          {
+            "tag": "p",
+            "text": "I am a full-stack Web Developer",
+            "selector": "#root > div > div:nth-of-type(1) > section > div > p:nth-of-type(2)",
+            "fontFamily": "Poppins",
+            "fontSize": "17.6px",
+            "fontWeight": "400",
+            "lineHeight": "26.4px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "p",
+            "text": "As a full stack developer, I handle bot…",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(3) > div > div > div:nth-of-type(1) > div > div:nth-of-type(1) > p",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "p",
+            "text": "Full Stack Web Development",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(3) > div > div > div:nth-of-type(1) > div > div:nth-of-type(2) > p",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "600",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "uppercase",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "p",
+            "text": "With extensive experience in Adobe Expe…",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(3) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "p",
+            "text": "As a graphic designer, I specialize in …",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(3) > div > div > div:nth-of-type(3) > div > div:nth-of-type(1) > p",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "lineHeight": "21.6px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 231, 243)"
+          },
+          {
+            "tag": "p",
+            "text": "There is a particular kind of AEM work …",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > p:nth-of-type(2)",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "15.2px",
+            "fontWeight": "400",
+            "lineHeight": "20px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(240, 240, 240)"
+          },
+          {
+            "tag": "p",
+            "text": "When people hear “migrate a React SPA t…",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > p:nth-of-type(2)",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "15.2px",
+            "fontWeight": "400",
+            "lineHeight": "20px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(240, 240, 240)"
+          },
+          {
+            "tag": "p",
+            "text": "If you’ve ever built AEM components fro…",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > p:nth-of-type(2)",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "15.2px",
+            "fontWeight": "400",
+            "lineHeight": "20px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(240, 240, 240)"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Check out my workCheck out my work",
+            "selector": "#root > div > div:nth-of-type(1) > section > div > button",
+            "count": 1,
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(255, 87, 34)",
+            "borderRadius": "0px",
+            "padding": "12px 17px",
+            "border": "2px solid rgb(255, 87, 34)",
+            "borderColor": "rgb(255, 87, 34)",
+            "boxShadow": "none",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "17.6px",
+            "fontWeight": "700",
+            "textTransform": "uppercase",
+            "letterSpacing": "normal",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(223, 231, 243)",
+              "borderColor": "rgb(255, 87, 34)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "See more articles",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > button",
+            "count": 1,
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(255, 87, 34)",
+            "borderRadius": "8px",
+            "padding": "10px 20px",
+            "border": "1px solid rgb(255, 87, 34)",
+            "borderColor": "rgb(255, 87, 34)",
+            "boxShadow": "none",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "15.2px",
+            "fontWeight": "600",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": {
+              "backgroundColor": "rgb(255, 87, 34)",
+              "color": "rgb(2, 7, 22)",
+              "borderColor": "rgb(255, 87, 34)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          }
+        ],
+        "links": [
+          {
+            "text": "About",
+            "selector": "nav > ul:nth-of-type(1) > li:nth-of-type(1) > a",
+            "count": 5,
+            "color": "rgb(177, 188, 220)",
+            "textDecoration": "none",
+            "fontWeight": "500",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 87, 34)",
+              "borderColor": "rgb(229, 231, 235)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Contact me",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(1) > div > div:nth-of-type(1) > p > a",
+            "count": 1,
+            "color": "rgb(255, 87, 34)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 87, 34)",
+              "borderColor": "rgb(229, 231, 235)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "One Prompt Instead of Ten Clicks: AEM M…",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1)",
+            "count": 8,
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(229, 231, 235)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          }
+        ],
+        "surfaces": [
+          {
+            "matched": "nav",
+            "selector": "nav",
+            "rect": {
+              "x": 0,
+              "y": 900,
+              "w": 1440,
+              "h": 90
+            },
+            "backgroundColor": "rgb(3, 11, 37)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "18px 60px 18px 40px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(2, 7, 22) 0px 1px 3px 0px",
+            "position": "absolute",
+            "fontFamily": "Calibre, Inter, \"San Francisco\", \"SF Pro Text\", -apple-system, system-ui, sans-serif",
+            "fontSize": "16px"
+          }
+        ],
+        "radii": [
+          {
+            "value": "12px",
+            "count": 6,
+            "area": 838709,
+            "sources": [
+              "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article",
+              "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article",
+              "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article"
+            ]
+          },
+          {
+            "value": "10px",
+            "count": 6,
+            "area": 190820,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form",
+              "#root > div > section > div:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(2)",
+              "#root > div > section > div:nth-of-type(2) > a:nth-of-type(2) > img:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "8px",
+            "count": 4,
+            "area": 233282,
+            "sources": [
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > img",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > img",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > img"
+            ]
+          },
+          {
+            "value": "6px",
+            "count": 3,
+            "area": 66470,
+            "sources": [
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > input:nth-of-type(1)",
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > input:nth-of-type(2)",
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > textarea"
+            ]
+          },
+          {
+            "value": "4px",
+            "count": 2,
+            "area": 187962,
+            "sources": [
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > button",
+              "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > div"
+            ]
+          },
+          {
+            "value": "9px",
+            "count": 1,
+            "area": 180265,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div"
+            ]
+          }
+        ],
+        "shadows": [
+          {
+            "value": "rgba(0, 0, 0, 0.3) 0px 4px 20px 0px",
+            "count": 6,
+            "sources": [
+              "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article",
+              "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article",
+              "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article"
+            ]
+          },
+          {
+            "value": "rgb(2, 7, 22) 0px 1px 3px 0px",
+            "count": 1,
+            "sources": [
+              "nav"
+            ]
+          }
+        ],
+        "gradients": [
+          {
+            "value": "linear-gradient(335deg, rgb(2, 7, 22) 23px, rgba(0, 0, 0, 0) 23px), linear-gradient(155deg, rgb(2, 7, 22) 23px, rgba(0, 0, 0, 0) 23px), linear-gradient(335deg, rgb(2, 7, 22) 23px, rgba(0, 0, 0, 0) 23px), linear-gradient(155deg, rgb(2, 7, 2…",
+            "count": 1,
+            "area": 1298025,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "linear-gradient(rgb(255, 87, 34) 1.4px, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) calc(100% - 1.4px), rgb(255, 87, 34) 0px), linear-gradient(90deg, rgb(255, 87, 34) 1.4px, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) calc(100% - 1.4px), rgb(255, 87…",
+            "count": 1,
+            "area": 102400,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(1) > div > div:nth-of-type(2) > img"
+            ]
+          }
+        ],
+        "bgColors": [
+          {
+            "value": "rgb(2, 7, 22)",
+            "count": 8,
+            "area": 2392764,
+            "sources": [
+              "#root > div > div:nth-of-type(1) > div > div",
+              "div > div:nth-of-type(2) > section:nth-of-type(3) > div > div > div:nth-of-type(1) > div > div:nth-of-type(2)",
+              "div > div:nth-of-type(2) > section:nth-of-type(3) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(3, 11, 37)",
+            "count": 2,
+            "area": 6079905,
+            "sources": [
+              "#root > div > div:nth-of-type(2)",
+              "nav"
+            ]
+          },
+          {
+            "value": "rgb(216, 67, 21)",
+            "count": 2,
+            "area": 465076,
+            "sources": [
+              "#root > div > section",
+              "#root > div > section > p > span"
+            ]
+          },
+          {
+            "value": "rgb(27, 36, 63)",
+            "count": 1,
+            "area": 1298025,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(255, 87, 34)",
+            "count": 1,
+            "area": 6986,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(2) > div:nth-of-type(1) > button:nth-of-type(1)"
+            ]
+          }
+        ],
+        "textColors": [
+          {
+            "value": "rgb(223, 231, 243)",
+            "count": 16,
+            "sources": [
+              "#root > div > div:nth-of-type(1) > section > div > p:nth-of-type(1)",
+              "#root > div > div:nth-of-type(1) > section > div > p:nth-of-type(2)",
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(2) > div:nth-of-type(1) > button:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(255, 87, 34)",
+            "count": 10,
+            "sources": [
+              "#root > div > div:nth-of-type(1) > section > div > p:nth-of-type(1) > span",
+              "#root > div > div:nth-of-type(1) > section > div > button > span:nth-of-type(2)",
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(1) > div > div:nth-of-type(1) > p > a"
+            ]
+          },
+          {
+            "value": "rgb(177, 188, 220)",
+            "count": 5,
+            "sources": [
+              "nav > ul:nth-of-type(1) > li:nth-of-type(1) > a",
+              "nav > ul:nth-of-type(1) > li:nth-of-type(2) > a",
+              "nav > ul:nth-of-type(1) > li:nth-of-type(3) > a"
+            ]
+          },
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 5,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(2) > div:nth-of-type(1) > button:nth-of-type(1)",
+              "#root > div > section > p > span",
+              "#root > div > section > abbr:nth-of-type(1) > a"
+            ]
+          },
+          {
+            "value": "rgb(192, 200, 209)",
+            "count": 3,
+            "sources": [
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > p:nth-of-type(1)",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > p:nth-of-type(1)",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > p:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgb(240, 240, 240)",
+            "count": 3,
+            "sources": [
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > p:nth-of-type(2)",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > p:nth-of-type(2)",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > p:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(255, 111, 60)",
+            "count": 3,
+            "sources": [
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > h3",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > h3",
+              "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > h3"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0)",
+            "count": 2,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(5) > div > div > div > button:nth-of-type(1)",
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(5) > div > div > div > button:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(244, 81, 30)",
+            "count": 1,
+            "sources": [
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > h4"
+            ]
+          }
+        ],
+        "borderColors": [
+          {
+            "value": "rgb(244, 81, 30)",
+            "count": 4,
+            "sources": [
+              "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div",
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > input:nth-of-type(1)",
+              "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > input:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(255, 87, 34)",
+            "count": 2,
+            "sources": [
+              "#root > div > div:nth-of-type(1) > section > div > button",
+              "#root > div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > button"
+            ]
+          }
+        ],
+        "customProps": {},
+        "fonts": [
+          {
+            "family": "Bungee",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bungee",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Bungee Inline",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bungee Outline",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "300",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "500",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "600",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "800",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "300",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "600",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Merriweather Sans",
+            "weight": "800",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "100",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "200",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "300",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "500",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "600",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "800",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "900",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "100",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "200",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "300",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "600",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "800",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat Alternates",
+            "weight": "900",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "100",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "200",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "300",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "500",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "600",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "800",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "900",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "100",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "200",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "300",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "500",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "600",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "800",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "900",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "slick",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          }
+        ],
+        "logoCandidates": [
+          {
+            "tag": "img",
+            "selector": "nav > button > img",
+            "src": "https://gururajkoni.dev/assets/logo-e3524b36.png",
+            "inlineSvg": false,
+            "alt": "My logo",
+            "ariaLabel": null,
+            "class": "_logo_twmt9_35",
+            "id": null,
+            "href": null,
+            "inHomeLink": false,
+            "rect": {
+              "x": 40,
+              "y": 918,
+              "w": 35,
+              "h": 54
+            }
+          },
+          {
+            "tag": "img",
+            "selector": "nav > ul:nth-of-type(1) > li:nth-of-type(6) > button > img",
+            "src": "https://gururajkoni.dev/assets/dark-3fe9091c.png",
+            "inlineSvg": false,
+            "alt": "dark theme",
+            "ariaLabel": null,
+            "class": "_theme_img_twmt9_115",
+            "id": null,
+            "href": null,
+            "inHomeLink": false,
+            "rect": {
+              "x": 1310,
+              "y": 929,
+              "w": 70,
+              "h": 25
+            }
+          },
+          {
+            "tag": "img",
+            "selector": "nav > ul:nth-of-type(2) > li:nth-of-type(1) > button > img",
+            "src": "https://gururajkoni.dev/assets/dark-3fe9091c.png",
+            "inlineSvg": false,
+            "alt": "dark theme",
+            "ariaLabel": null,
+            "class": "_theme_img_twmt9_115",
+            "id": null,
+            "href": null,
+            "inHomeLink": false,
+            "rect": {
+              "x": 1335,
+              "y": 966,
+              "w": 70,
+              "h": 25
+            }
+          }
+        ],
+        "iconFont": null,
+        "consent": {
+          "dismissed": null
+        },
+        "finalUrl": "https://gururajkoni.dev/"
+      }
+    }
+  },
+  "aggregate": {
+    "counts": {
+      "pages": 1,
+      "widths": [
+        360,
+        1440
+      ],
+      "measurements": 2
+    },
+    "colors": [
+      {
+        "hex": "#ff5722",
+        "values": [
+          "rgb(255, 87, 34)",
+          "rgb(244, 81, 30)"
+        ],
+        "weight": 49,
+        "bgArea": 8357,
+        "by": {
+          "text": 20,
+          "background": 5,
+          "border": 12,
+          "heading": 2,
+          "button-border": 4,
+          "button-text": 4,
+          "link": 2
+        },
+        "roles": [
+          "border"
+        ],
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(1) > section > div > p:nth-of-type(1) > span",
+            "prop": "text"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "nav > div > span:nth-of-type(1)",
+            "prop": "background"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div",
+            "prop": "border"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(1) > section > div > button",
+            "prop": "border"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(2) > div:nth-of-type(1) > button:nth-of-type(1)",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#dfe7f3",
+        "values": [
+          "rgb(223, 231, 243)"
+        ],
+        "weight": 46,
+        "by": {
+          "text": 36,
+          "heading": 10
+        },
+        "roles": [
+          "text",
+          "heading"
+        ],
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(1) > section > div > p:nth-of-type(1)",
+            "prop": "text"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > h1",
+            "prop": "heading"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(1) > h1",
+            "prop": "heading"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(3) > div > h1",
+            "prop": "heading"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(4) > section > h2",
+            "prop": "heading"
+          }
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "values": [
+          "rgb(255, 255, 255)"
+        ],
+        "weight": 24,
+        "by": {
+          "link": 14,
+          "text": 10
+        },
+        "roles": [
+          "accent"
+        ],
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1)",
+            "prop": "link"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(2) > div:nth-of-type(1) > button:nth-of-type(1)",
+            "prop": "text"
+          }
+        ]
+      },
+      {
+        "hex": "#020716",
+        "values": [
+          "rgb(2, 7, 22)"
+        ],
+        "weight": 16,
+        "bgArea": 3500474,
+        "by": {
+          "background": 16
+        },
+        "roles": [
+          "surface"
+        ],
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(1) > div > div",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#030b25",
+        "values": [
+          "rgb(3, 11, 37)"
+        ],
+        "weight": 4,
+        "bgArea": 8379962,
+        "by": {
+          "background": 4
+        },
+        "roles": [
+          "background"
+        ],
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(2)",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#b1bcdc",
+        "values": [
+          "rgb(177, 188, 220)"
+        ],
+        "weight": 12,
+        "by": {
+          "link": 5,
+          "text": 7
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "nav > ul:nth-of-type(1) > li:nth-of-type(1) > a",
+            "prop": "link"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "nav > ul:nth-of-type(1) > li:nth-of-type(1) > a",
+            "prop": "text"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(1) > div > div:nth-of-type(1) > p",
+            "prop": "text"
+          }
+        ]
+      },
+      {
+        "hex": "#ff6f3c",
+        "values": [
+          "rgb(255, 111, 60)"
+        ],
+        "weight": 12,
+        "by": {
+          "text": 6,
+          "heading": 6
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > h3",
+            "prop": "text"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > h3",
+            "prop": "heading"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > h3",
+            "prop": "heading"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > h3",
+            "prop": "heading"
+          }
+        ]
+      },
+      {
+        "hex": "#c0c8d1",
+        "values": [
+          "rgb(192, 200, 209)"
+        ],
+        "weight": 6,
+        "by": {
+          "text": 6
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > p:nth-of-type(1)",
+            "prop": "text"
+          }
+        ]
+      },
+      {
+        "hex": "#f0f0f0",
+        "values": [
+          "rgb(240, 240, 240)"
+        ],
+        "weight": 6,
+        "by": {
+          "text": 6
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > p:nth-of-type(2)",
+            "prop": "text"
+          }
+        ]
+      },
+      {
+        "hex": "#d84315",
+        "values": [
+          "rgb(216, 67, 21)"
+        ],
+        "weight": 4,
+        "bgArea": 583836,
+        "by": {
+          "background": 4
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > section",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#1b243f",
+        "values": [
+          "rgb(27, 36, 63)"
+        ],
+        "weight": 2,
+        "bgArea": 1745010,
+        "by": {
+          "background": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(2) > div:nth-of-type(2)",
+            "prop": "background"
+          }
+        ]
+      }
+    ],
+    "type": {
+      "families": [
+        {
+          "family": "Calibre",
+          "count": 34,
+          "headings": 14,
+          "text": 16,
+          "buttons": 4
+        },
+        {
+          "family": "Bungee",
+          "count": 4,
+          "headings": 4,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "family": "Poppins",
+          "count": 4,
+          "headings": 0,
+          "text": 4,
+          "buttons": 0
+        }
+      ],
+      "headingFamily": "Calibre",
+      "bodyFamily": "Calibre",
+      "sizes": [
+        {
+          "px": 36.8,
+          "count": 1,
+          "headings": 1,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 28.8,
+          "count": 5,
+          "headings": 5,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 24.8,
+          "count": 3,
+          "headings": 3,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 20.8,
+          "count": 2,
+          "headings": 2,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 19.2,
+          "count": 1,
+          "headings": 1,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 17.6,
+          "count": 8,
+          "headings": 6,
+          "text": 1,
+          "buttons": 1
+        },
+        {
+          "px": 15.2,
+          "count": 8,
+          "headings": 0,
+          "text": 6,
+          "buttons": 2
+        },
+        {
+          "px": 14.5,
+          "count": 2,
+          "headings": 0,
+          "text": 2,
+          "buttons": 0
+        },
+        {
+          "px": 14.4,
+          "count": 11,
+          "headings": 0,
+          "text": 10,
+          "buttons": 1
+        },
+        {
+          "px": 12,
+          "count": 1,
+          "headings": 0,
+          "text": 1,
+          "buttons": 0
+        }
+      ],
+      "weights": [
+        {
+          "weight": "400",
+          "count": 22,
+          "headings": 4,
+          "text": 18,
+          "buttons": 0
+        },
+        {
+          "weight": "600",
+          "count": 10,
+          "headings": 6,
+          "text": 2,
+          "buttons": 2
+        },
+        {
+          "weight": "500",
+          "count": 8,
+          "headings": 8,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "weight": "700",
+          "count": 2,
+          "headings": 0,
+          "text": 0,
+          "buttons": 2
+        }
+      ],
+      "levels": {
+        "h1": {
+          "fontSize": 28.8,
+          "fontWeight": "500",
+          "count": 4,
+          "score": 72
+        },
+        "h2": {
+          "fontSize": 36.8,
+          "fontWeight": "500",
+          "count": 1,
+          "score": 46
+        },
+        "h3": {
+          "fontSize": 17.6,
+          "fontWeight": "600",
+          "count": 6,
+          "score": 64.67
+        },
+        "h4": {
+          "fontSize": 20.8,
+          "fontWeight": "500",
+          "count": 1,
+          "score": 26
+        }
+      }
+    },
+    "motifs": {
+      "radius": {
+        "mode": "10px",
+        "areaMode": "12px",
+        "pill": null,
+        "values": [
+          {
+            "value": "10px",
+            "count": 12,
+            "area": 304441,
+            "sources": [
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form"
+              },
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "#root > div > section > div:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(2)"
+              },
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "#root > div > section > div:nth-of-type(2) > a:nth-of-type(2) > img:nth-of-type(2)"
+              }
+            ]
+          },
+          {
+            "value": "12px",
+            "count": 10,
+            "area": 1293065,
+            "sources": [
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article"
+              },
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article"
+              },
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article"
+              }
+            ]
+          },
+          {
+            "value": "8px",
+            "count": 8,
+            "area": 384048,
+            "sources": [
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article > img"
+              },
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article > img"
+              },
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article > img"
+              }
+            ]
+          },
+          {
+            "value": "6px",
+            "count": 6,
+            "area": 105161,
+            "sources": [
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > input:nth-of-type(1)"
+              },
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > input:nth-of-type(2)"
+              },
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > textarea"
+              }
+            ]
+          },
+          {
+            "value": "4px",
+            "count": 4,
+            "area": 296037,
+            "sources": [
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div > button"
+              },
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > div"
+              }
+            ]
+          },
+          {
+            "value": "2px",
+            "count": 3,
+            "area": 270,
+            "sources": [
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "nav > div > span:nth-of-type(1)"
+              },
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "nav > div > span:nth-of-type(2)"
+              },
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "nav > div > span:nth-of-type(3)"
+              }
+            ]
+          },
+          {
+            "value": "9px",
+            "count": 2,
+            "area": 285066,
+            "sources": [
+              {
+                "url": "https://gururajkoni.dev/",
+                "selector": "#root > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div > form > div"
+              }
+            ]
+          }
+        ]
+      },
+      "shadows": [
+        {
+          "value": "rgba(0, 0, 0, 0.3) 0px 4px 20px 0px",
+          "count": 10,
+          "sources": [
+            {
+              "url": "https://gururajkoni.dev/",
+              "selector": "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(1) > article"
+            },
+            {
+              "url": "https://gururajkoni.dev/",
+              "selector": "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(2) > article"
+            },
+            {
+              "url": "https://gururajkoni.dev/",
+              "selector": "div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > div > a:nth-of-type(3) > article"
+            }
+          ]
+        },
+        {
+          "value": "rgb(2, 7, 22) 0px 1px 3px 0px",
+          "count": 2,
+          "sources": [
+            {
+              "url": "https://gururajkoni.dev/",
+              "selector": "nav"
+            }
+          ]
+        }
+      ],
+      "gradients": [
+        {
+          "value": "linear-gradient(335deg, rgb(2, 7, 22) 23px, rgba(0, 0, 0, 0) 23px), linear-gradient(155deg, rgb(2, 7, 22) 23px, rgba(0, 0, 0, 0) 23px), linear-gradient(335deg, rgb(2, 7, 22) 23px, rgba(0, 0, 0, 0) 23px), linear-gradient(155deg, rgb(2, 7, 2…",
+          "count": 2,
+          "area": 1745010,
+          "sources": [
+            {
+              "url": "https://gururajkoni.dev/",
+              "selector": "#root > div > div:nth-of-type(2) > div:nth-of-type(2)"
+            }
+          ]
+        },
+        {
+          "value": "linear-gradient(rgb(255, 87, 34) 1.4px, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) calc(100% - 1.4px), rgb(255, 87, 34) 0px), linear-gradient(90deg, rgb(255, 87, 34) 1.4px, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) calc(100% - 1.4px), rgb(255, 87…",
+          "count": 2,
+          "area": 153837,
+          "sources": [
+            {
+              "url": "https://gururajkoni.dev/",
+              "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(1) > div > div:nth-of-type(2) > img"
+            }
+          ]
+        }
+      ]
+    },
+    "hover": [
+      {
+        "kind": "button",
+        "from": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 87, 34)"
+        },
+        "to": {
+          "backgroundColor": "rgb(255, 87, 34)",
+          "color": "rgb(2, 7, 22)"
+        },
+        "count": 2,
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > button"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(2) > section:nth-of-type(4) > section > div > button"
+          }
+        ]
+      },
+      {
+        "kind": "button",
+        "from": {
+          "color": "rgb(255, 87, 34)"
+        },
+        "to": {
+          "color": "rgb(223, 231, 243)"
+        },
+        "count": 2,
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(1) > section > div > button"
+          },
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "#root > div > div:nth-of-type(1) > section > div > button"
+          }
+        ]
+      },
+      {
+        "kind": "link",
+        "from": {
+          "color": "rgb(177, 188, 220)"
+        },
+        "to": {
+          "color": "rgb(255, 87, 34)"
+        },
+        "count": 1,
+        "sources": [
+          {
+            "url": "https://gururajkoni.dev/",
+            "selector": "nav > ul:nth-of-type(1) > li:nth-of-type(1) > a"
+          }
+        ]
+      }
+    ],
+    "logo": {
+      "source": "none",
+      "url": null,
+      "selector": null
+    },
+    "iconFont": null
+  }
+}

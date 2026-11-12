@@ -1,0 +1,16 @@
+{
+  "variantName": "blogs",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "article cards linking to blog posts plus a See more control",
+    "layout": "row of three linked article cards"
+  },
+  "contentPattern": {
+    "structure": "image + title heading, date, snippet and Read article link; last row is the See more articles paragraph; heading authored as default content before the block"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Latest blog articles teaser.",
+  "reuseGuidance": "Use for a list of linked articles with image, title, date and excerpt."
+}

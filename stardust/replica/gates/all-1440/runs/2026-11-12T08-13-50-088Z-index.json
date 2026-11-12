@@ -1,0 +1,97 @@
+{
+  "_provenance": {
+    "writtenBy": "gate-all.mjs",
+    "writtenAt": "2026-11-12T08:13:50.087Z",
+    "stage": "published",
+    "breakpoint": 1440,
+    "threshold": 10,
+    "heightTolerance": 0.05,
+    "clipMax": 0,
+    "unitTol": 4,
+    "criteria": {
+      "pixel": true,
+      "height": true,
+      "clip": true,
+      "content": true
+    },
+    "verdict": "overlap pixel % ≤ 10 AND |Δh| ≤ 5% of origin height AND clipped ≤ 0 (+ documented allowance) AND content MISSING + HIDDEN links/headings = 0",
+    "origin": "https://gururajkoni.dev",
+    "eds": "https://main--1bfbbf98--aemcoder.aem.page",
+    "edsHostOverride": "https://main--1bfbbf98--aemcoder.aem.page",
+    "only": [
+      "index"
+    ]
+  },
+  "totals": {
+    "pages": 1,
+    "pass": 0,
+    "pixelOnlyPass": 1,
+    "overridePass": 0,
+    "fail": 1,
+    "error": 0,
+    "failPixel": 0,
+    "failHeight": 0,
+    "failClip": 0,
+    "failContent": 1,
+    "failUnits": 0,
+    "fontsNotLoaded": 0,
+    "fontChecksSkipped": 0,
+    "contentNA": 0,
+    "asymmetricOrigins": 0,
+    "degradedTier": 0,
+    "passWithOverrides": 0
+  },
+  "rows": [
+    {
+      "slug": "index",
+      "path": "/",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 2.75,
+      "textPct": 0.07,
+      "heightDelta": 0,
+      "originH": 5352,
+      "edsH": 5352,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": false,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": false,
+      "passWithOverride": false,
+      "fontsNotLoaded": [],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "content MISSING 0 / HIDDEN 2"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 2,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 3,
+        "variable": [
+          ".slick-slider=.works"
+        ]
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": null,
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [],
+      "error": null
+    }
+  ]
+}

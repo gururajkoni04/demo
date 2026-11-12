@@ -1,0 +1,31 @@
+{
+  "id": "v_95f7217a6e86",
+  "type": "form",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T10:28:17.576Z",
+  "sourceContext": {
+    "originUrl": "https://gururajkoni.dev/",
+    "discoveredDuring": "excat-replica-adapter"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "mixed",
+    "density": "minimal",
+    "imagePattern": "noimg",
+    "purpose": "Contact",
+    "structure": "Contact block"
+  },
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://gururajkoni.dev/",
+        "instanceId": "b07-contact",
+        "instanceIds": [
+          "b07-contact"
+        ],
+        "screenshot": ".pages/gururajkoni_dev--f1c41605/blocks/b07-contact.jpg"
+      }
+    ],
+    "reuseCount": 1
+  }
+}

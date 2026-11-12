@@ -1,0 +1,11 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://gururajkoni.dev/ (live side from cache stardust/replica/gates/index-360/chrome-live.json, probed 2026-11-12T06:57:01.756Z — delete the file to re-probe)
+  build: http://localhost:8791/index-proposed.html
+
+■ header: 1 delta(s)
+  REGION       live: no element matches "header" — pass --region header=<liveSel>|<buildSel>
+
+■ footer: 1 delta(s)
+  REGION       live: no element matches "footer" — pass --region footer=<liveSel>|<buildSel>
+
+✗ 2 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

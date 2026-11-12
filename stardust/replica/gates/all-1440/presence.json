@@ -1,0 +1,7 @@
+{
+  "index": {
+    "main": ".App=body",
+    "variable": [".slick-slider=.works"],
+    "reason": "Source has no <main>/<header>/<footer> landmarks: .App wraps nav + content + footer, so the served side is scoped to the same content (body = header + main + footer; content-presence --chrome equivalent, gate-all has no --chrome pass-through). The works carousel autoplays every 3 s on both sides (restoreAtDelivery), so which 3 of 6 project links are visible depends on capture time: counts only, HIDDEN still counts."
+  }
+}

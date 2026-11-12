@@ -1,0 +1,62 @@
+{
+  "slug": "index",
+  "type": "landing",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "hero",
+    "about",
+    "tech",
+    "services",
+    "blogs",
+    "works",
+    "contact"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "section",
+    "section",
+    "section",
+    "section",
+    "section",
+    "contact"
+  ],
+  "canonShas": {
+    "header": "4bc7414561e8",
+    "footer": "5b1b04ef4a1a",
+    "css": "d11cbf04079e"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Gururaj Koni - Full Stack Developer &amp; AEM Specialist | Portfolio",
+    "description": null,
+    "canonical": "https://main--1bfbbf98--aemcoder.aem.page/",
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Gururaj Koni - Full Stack Developer &amp; AEM Specialist | Portfolio",
+    "url": "https://main--1bfbbf98--aemcoder.aem.page/"
+  },
+  "migratedAt": "2026-11-12T07:14:05Z",
+  "designMdSha": "4d5559d0864b",
+  "designJsonSha": "9d32433723bd",
+  "sourceCurrentSha": "19ae77321da5",
+  "sourceProposedSha": "6724930ec4d6",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 41,
+  "missingAssets": [],
+  "brokenInternalLinks": [],
+  "outputPath": "index.html",
+  "outputPathDefault": null,
+  "sidecar": "_meta.json",
+  "driverVersion": "1"
+}

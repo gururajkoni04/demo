@@ -1,0 +1,77 @@
+{
+ "url": "https://main--1bfbbf98--aemcoder.aem.page/",
+ "at": "2026-11-12T08:38:48.811Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 1,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 4,
+  "offPage": 12,
+  "textNodes": 30,
+  "controls": 39,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.works-card",
+   "path": "div.works-track > div.works-slide.works-slide-clone > div.works-card > a.works-link",
+   "text": "chase doordash credit cardview project",
+   "cutMin": 282,
+   "cutMax": 282
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 1,
+   "clipper": "h3#i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant",
+   "path": "a.blogs-link > article.blogs-card > div.blogs-card-title > h3#i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant",
+   "text": "i migrated a react spa to aem edge delivery services in minu",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "CONTROL X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.contact-box",
+   "path": "div.contact-box > form.contact-form-container > div.contact-form > button.contact-btn",
+   "text": "get in touch",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "button.contact-btn",
+   "path": "form.contact-form-container > div.contact-form > button.contact-btn > span.contact-btn-label",
+   "text": "get in touch",
+   "cutMin": 0,
+   "cutMax": 0
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 1,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 4,
+   "offPage": 12,
+   "textNodes": 33,
+   "controls": 39,
+   "total": 0
+  }
+ }
+}

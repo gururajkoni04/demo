@@ -1,0 +1,11 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://gururajkoni.dev/ (live side from cache stardust/replica/gates/index-360/chrome-live.json, probed 2026-11-12T06:57:01.756Z — delete the file to re-probe)
+  build: https://main--1bfbbf98--aemcoder.aem.page/
+
+■ header: ✓ parity
+  🟢 REGION       live: no element matches "header" — pass --region header=<liveSel>|<buildSel>  — accepted: The live page has no <header>/<footer> element (nav = div._navbar_container_twmt9_1, footer = section#_footer_1ez18_1); gate.sh cannot pass --region, so the default region lookup is unconfigurable here. Parity was measured with explicit regions (nav=._navbar_container_twmt9_1|.navbar-container, footer=#_footer_1ez18_1|.footer) at 1440 and 360: quiet (gates/index-<w>/chrome-parity-regions.txt). Decided hands-off by the replica agent.
+
+■ footer: ✓ parity
+  🟢 REGION       live: no element matches "footer" — pass --region footer=<liveSel>|<buildSel>  — accepted: The live page has no <header>/<footer> element (nav = div._navbar_container_twmt9_1, footer = section#_footer_1ez18_1); gate.sh cannot pass --region, so the default region lookup is unconfigurable here. Parity was measured with explicit regions (nav=._navbar_container_twmt9_1|.navbar-container, footer=#_footer_1ez18_1|.footer) at 1440 and 360: quiet (gates/index-<w>/chrome-parity-regions.txt). Decided hands-off by the replica agent.
+
+✓ chrome parity within tolerance — run crop-compare (pass bar item 5) to confirm in pixels.

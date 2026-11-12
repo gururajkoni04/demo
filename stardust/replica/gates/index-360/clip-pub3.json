@@ -1,0 +1,523 @@
+{
+ "url": "https://main--1bfbbf98--aemcoder.aem.page/",
+ "at": "2026-11-12T08:06:22.339Z",
+ "width": 360,
+ "status": 200,
+ "settlePasses": 2,
+ "docH": 7538,
+ "pageW": 360,
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 1,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 2,
+  "offPage": 3,
+  "textNodes": 42,
+  "controls": 27,
+  "total": 0
+ },
+ "findings": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "a.blogs-link > article.blogs-card > div.blogs-card-title > h3#i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant",
+   "text": "i migrated a react spa to aem edge delivery services in minu",
+   "clipper": "h3#i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant",
+   "rect": {
+    "l": 54,
+    "t": 4531,
+    "r": 291,
+    "b": 4553,
+    "w": 237,
+    "h": 22
+   },
+   "clip": {
+    "l": 54,
+    "t": 4529,
+    "r": 306,
+    "b": 4582,
+    "w": 252,
+    "h": 53
+   },
+   "lines": 4
+  },
+  {
+   "kind": "CONTROL X-HIDDEN",
+   "advisory": true,
+   "path": "div.works-track.is-animating > div.works-slide > div.works-card > a.works-link",
+   "text": "meemic.comview project",
+   "clipper": "div.works-card",
+   "rect": {
+    "l": -236,
+    "t": 5626,
+    "r": 28,
+    "b": 5824,
+    "w": 264,
+    "h": 198
+   },
+   "clip": {
+    "l": -236,
+    "t": 5626,
+    "r": 28,
+    "b": 5824,
+    "w": 264,
+    "h": 198
+   }
+  },
+  {
+   "kind": "CONTROL X-HIDDEN",
+   "advisory": true,
+   "path": "div.works-track.is-animating > div.works-slide > div.works-card > a.works-link",
+   "text": "acg aaa connectview project",
+   "clipper": "div.works-card",
+   "rect": {
+    "l": 332,
+    "t": 5626,
+    "r": 596,
+    "b": 5824,
+    "w": 264,
+    "h": 198
+   },
+   "clip": {
+    "l": 332,
+    "t": 5626,
+    "r": 596,
+    "b": 5824,
+    "w": 264,
+    "h": 198
+   }
+  }
+ ],
+ "textBoxes": [
+  {
+   "x": 50,
+   "y": 386,
+   "w": 45,
+   "h": 17
+  },
+  {
+   "x": 50,
+   "y": 406,
+   "w": 215,
+   "h": 31
+  },
+  {
+   "x": 50,
+   "y": 440,
+   "w": 204,
+   "h": 17
+  },
+  {
+   "x": 65,
+   "y": 485,
+   "w": 158,
+   "h": 20
+  },
+  {
+   "x": 120,
+   "y": 1021,
+   "w": 120,
+   "h": 37
+  },
+  {
+   "x": 36,
+   "y": 1130,
+   "w": 256,
+   "h": 18
+  },
+  {
+   "x": 36,
+   "y": 1152,
+   "w": 237,
+   "h": 18
+  },
+  {
+   "x": 36,
+   "y": 1174,
+   "w": 245,
+   "h": 18
+  },
+  {
+   "x": 36,
+   "y": 1195,
+   "w": 284,
+   "h": 18
+  },
+  {
+   "x": 36,
+   "y": 1217,
+   "w": 268,
+   "h": 18
+  },
+  {
+   "x": 36,
+   "y": 1239,
+   "w": 269,
+   "h": 18
+  },
+  {
+   "x": 36,
+   "y": 1261,
+   "w": 285,
+   "h": 18
+  },
+  {
+   "x": 36,
+   "y": 1282,
+   "w": 259,
+   "h": 18
+  },
+  {
+   "x": 36,
+   "y": 1304,
+   "w": 266,
+   "h": 18
+  },
+  {
+   "x": 36,
+   "y": 1326,
+   "w": 67,
+   "h": 18
+  },
+  {
+   "x": 103,
+   "y": 1326,
+   "w": 75,
+   "h": 18
+  },
+  {
+   "x": 177,
+   "y": 1326,
+   "w": 100,
+   "h": 18
+  },
+  {
+   "x": 36,
+   "y": 1711,
+   "w": 253,
+   "h": 18
+  },
+  {
+   "x": 36,
+   "y": 1733,
+   "w": 140,
+   "h": 18
+  },
+  {
+   "x": 47,
+   "y": 1810,
+   "w": 16,
+   "h": 17
+  },
+  {
+   "x": 85,
+   "y": 1810,
+   "w": 72,
+   "h": 17
+  },
+  {
+   "x": 178,
+   "y": 1810,
+   "w": 79,
+   "h": 17
+  },
+  {
+   "x": 279,
+   "y": 1810,
+   "w": 34,
+   "h": 17
+  },
+  {
+   "x": 105,
+   "y": 2418,
+   "w": 151,
+   "h": 37
+  },
+  {
+   "x": 97,
+   "y": 2491,
+   "w": 165,
+   "h": 20
+  },
+  {
+   "x": 75,
+   "y": 2778,
+   "w": 209,
+   "h": 18
+  },
+  {
+   "x": 116,
+   "y": 3138,
+   "w": 127,
+   "h": 18
+  },
+  {
+   "x": 125,
+   "y": 3498,
+   "w": 110,
+   "h": 18
+  },
+  {
+   "x": 68,
+   "y": 3748,
+   "w": 223,
+   "h": 37
+  },
+  {
+   "x": 54,
+   "y": 4048,
+   "w": 206,
+   "h": 22
+  },
+  {
+   "x": 54,
+   "y": 4075,
+   "w": 247,
+   "h": 22
+  },
+  {
+   "x": 54,
+   "y": 4108,
+   "w": 108,
+   "h": 18
+  },
+  {
+   "x": 54,
+   "y": 4137,
+   "w": 251,
+   "h": 20
+  },
+  {
+   "x": 54,
+   "y": 4157,
+   "w": 238,
+   "h": 20
+  },
+  {
+   "x": 54,
+   "y": 4177,
+   "w": 213,
+   "h": 20
+  },
+  {
+   "x": 54,
+   "y": 4197,
+   "w": 77,
+   "h": 20
+  },
+  {
+   "x": 54,
+   "y": 4240,
+   "w": 75,
+   "h": 18
+  },
+  {
+   "x": 54,
+   "y": 4531,
+   "w": 237,
+   "h": 22
+  },
+  {
+   "x": 54,
+   "y": 4558,
+   "w": 192,
+   "h": 22
+  },
+  {
+   "x": 54,
+   "y": 4591,
+   "w": 107,
+   "h": 18
+  },
+  {
+   "x": 54,
+   "y": 4620,
+   "w": 235,
+   "h": 20
+  },
+  {
+   "x": 54,
+   "y": 4640,
+   "w": 238,
+   "h": 20
+  },
+  {
+   "x": 54,
+   "y": 4660,
+   "w": 237,
+   "h": 20
+  },
+  {
+   "x": 54,
+   "y": 4680,
+   "w": 72,
+   "h": 20
+  },
+  {
+   "x": 54,
+   "y": 4723,
+   "w": 75,
+   "h": 18
+  },
+  {
+   "x": 54,
+   "y": 5014,
+   "w": 241,
+   "h": 22
+  },
+  {
+   "x": 54,
+   "y": 5041,
+   "w": 35,
+   "h": 22
+  },
+  {
+   "x": 54,
+   "y": 5074,
+   "w": 102,
+   "h": 18
+  },
+  {
+   "x": 54,
+   "y": 5103,
+   "w": 240,
+   "h": 20
+  },
+  {
+   "x": 54,
+   "y": 5123,
+   "w": 219,
+   "h": 20
+  },
+  {
+   "x": 54,
+   "y": 5143,
+   "w": 218,
+   "h": 20
+  },
+  {
+   "x": 54,
+   "y": 5163,
+   "w": 137,
+   "h": 20
+  },
+  {
+   "x": 54,
+   "y": 5206,
+   "w": 75,
+   "h": 18
+  },
+  {
+   "x": 121,
+   "y": 5288,
+   "w": 117,
+   "h": 20
+  },
+  {
+   "x": 71,
+   "y": 5488,
+   "w": 218,
+   "h": 37
+  },
+  {
+   "x": 97,
+   "y": 6071,
+   "w": 167,
+   "h": 37
+  },
+  {
+   "x": 47,
+   "y": 6179,
+   "w": 267,
+   "h": 20
+  },
+  {
+   "x": 41,
+   "y": 6201,
+   "w": 279,
+   "h": 20
+  },
+  {
+   "x": 51,
+   "y": 6223,
+   "w": 259,
+   "h": 20
+  },
+  {
+   "x": 118,
+   "y": 6244,
+   "w": 123,
+   "h": 20
+  },
+  {
+   "x": 66,
+   "y": 6370,
+   "w": 96,
+   "h": 24
+  },
+  {
+   "x": 196,
+   "y": 6631,
+   "w": 79,
+   "h": 18
+  },
+  {
+   "x": 98,
+   "y": 671,
+   "w": 164,
+   "h": 20
+  },
+  {
+   "x": 71,
+   "y": 800,
+   "w": 127,
+   "h": 15
+  },
+  {
+   "x": 198,
+   "y": 797,
+   "w": 12,
+   "h": 20
+  },
+  {
+   "x": 210,
+   "y": 800,
+   "w": 80,
+   "h": 15
+  },
+  {
+   "x": 121,
+   "y": 828,
+   "w": 117,
+   "h": 15
+  }
+ ],
+ "groups": [
+  {
+   "kind": "CONTROL X-HIDDEN",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.works-card",
+   "path": "div.works-track.is-animating > div.works-slide > div.works-card > a.works-link",
+   "text": "meemic.comview project",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 1,
+   "clipper": "h3#i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant",
+   "path": "a.blogs-link > article.blogs-card > div.blogs-card-title > h3#i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant",
+   "text": "i migrated a react spa to aem edge delivery services in minu",
+   "cutMin": null,
+   "cutMax": null
+  }
+ ],
+ "tier": "chrome"
+}

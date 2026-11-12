@@ -1,0 +1,137 @@
+{
+  "accepted": [
+    {
+      "kind": "MISSING HEADING",
+      "text": "Shopping Website in Java Using JSP and Servlet",
+      "root": ".App",
+      "reason": "react-slick loop clones (slick-cloned) duplicate each project card with its text/svg in the live DOM; the replica keeps clones presentational (image only, alt=\"\", no href/text) per recreation-procedure.md § Carousels — the real slide carries the heading and icon once. Decided hands-off by the replica agent (rule-backed, owner may revisit)."
+    },
+    {
+      "kind": "MISSING HEADING",
+      "text": "ACG AAA Connect",
+      "root": ".App",
+      "reason": "react-slick loop clones (slick-cloned) duplicate each project card with its text/svg in the live DOM; the replica keeps clones presentational (image only, alt=\"\", no href/text) per recreation-procedure.md § Carousels — the real slide carries the heading and icon once. Decided hands-off by the replica agent (rule-backed, owner may revisit)."
+    },
+    {
+      "kind": "MISSING HEADING",
+      "text": "Chase DoorDash Credit Card",
+      "root": ".App",
+      "reason": "react-slick loop clones (slick-cloned) duplicate each project card with its text/svg in the live DOM; the replica keeps clones presentational (image only, alt=\"\", no href/text) per recreation-procedure.md § Carousels — the real slide carries the heading and icon once. Decided hands-off by the replica agent (rule-backed, owner may revisit)."
+    },
+    {
+      "kind": "MISSING HEADING",
+      "text": "Chase Business Premier",
+      "root": ".App",
+      "reason": "react-slick loop clones (slick-cloned) duplicate each project card with its text/svg in the live DOM; the replica keeps clones presentational (image only, alt=\"\", no href/text) per recreation-procedure.md § Carousels — the real slide carries the heading and icon once. Decided hands-off by the replica agent (rule-backed, owner may revisit)."
+    },
+    {
+      "kind": "MISSING HEADING",
+      "text": "SAB.com",
+      "root": ".App",
+      "reason": "react-slick loop clones (slick-cloned) duplicate each project card with its text/svg in the live DOM; the replica keeps clones presentational (image only, alt=\"\", no href/text) per recreation-procedure.md § Carousels — the real slide carries the heading and icon once. Decided hands-off by the replica agent (rule-backed, owner may revisit)."
+    },
+    {
+      "kind": "MISSING HEADING",
+      "text": "Meemic.com",
+      "root": ".App",
+      "reason": "react-slick loop clones (slick-cloned) duplicate each project card with its text/svg in the live DOM; the replica keeps clones presentational (image only, alt=\"\", no href/text) per recreation-procedure.md § Carousels — the real slide carries the heading and icon once. Decided hands-off by the replica agent (rule-backed, owner may revisit)."
+    },
+    {
+      "kind": "MISSING ICON",
+      "text": "shopping website in java",
+      "root": ".App",
+      "reason": "react-slick loop clones (slick-cloned) duplicate each project card with its text/svg in the live DOM; the replica keeps clones presentational (image only, alt=\"\", no href/text) per recreation-procedure.md § Carousels — the real slide carries the heading and icon once. Decided hands-off by the replica agent (rule-backed, owner may revisit)."
+    },
+    {
+      "kind": "MISSING ICON",
+      "text": "acg aaa connect",
+      "root": ".App",
+      "reason": "react-slick loop clones (slick-cloned) duplicate each project card with its text/svg in the live DOM; the replica keeps clones presentational (image only, alt=\"\", no href/text) per recreation-procedure.md § Carousels — the real slide carries the heading and icon once. Decided hands-off by the replica agent (rule-backed, owner may revisit)."
+    },
+    {
+      "kind": "MISSING ICON",
+      "text": "chase doordash credit card",
+      "root": ".App",
+      "reason": "react-slick loop clones (slick-cloned) duplicate each project card with its text/svg in the live DOM; the replica keeps clones presentational (image only, alt=\"\", no href/text) per recreation-procedure.md § Carousels — the real slide carries the heading and icon once. Decided hands-off by the replica agent (rule-backed, owner may revisit)."
+    },
+    {
+      "kind": "MISSING ICON",
+      "text": "chase business premier",
+      "root": ".App",
+      "reason": "react-slick loop clones (slick-cloned) duplicate each project card with its text/svg in the live DOM; the replica keeps clones presentational (image only, alt=\"\", no href/text) per recreation-procedure.md § Carousels — the real slide carries the heading and icon once. Decided hands-off by the replica agent (rule-backed, owner may revisit)."
+    },
+    {
+      "kind": "MISSING ICON",
+      "text": "sab.com",
+      "root": ".App",
+      "reason": "react-slick loop clones (slick-cloned) duplicate each project card with its text/svg in the live DOM; the replica keeps clones presentational (image only, alt=\"\", no href/text) per recreation-procedure.md § Carousels — the real slide carries the heading and icon once. Decided hands-off by the replica agent (rule-backed, owner may revisit)."
+    },
+    {
+      "kind": "MISSING ICON",
+      "text": "meemic.com",
+      "root": ".App",
+      "reason": "react-slick loop clones (slick-cloned) duplicate each project card with its text/svg in the live DOM; the replica keeps clones presentational (image only, alt=\"\", no href/text) per recreation-procedure.md § Carousels — the real slide carries the heading and icon once. Decided hands-off by the replica agent (rule-backed, owner may revisit)."
+    },
+    {
+      "probe": "chrome-parity",
+      "kind": "REGION",
+      "reason": "The live page has no <header>/<footer> element (nav = div._navbar_container_twmt9_1, footer = section#_footer_1ez18_1); gate.sh cannot pass --region, so the default region lookup is unconfigurable here. Parity was measured with explicit regions (nav=._navbar_container_twmt9_1|.navbar-container, footer=#_footer_1ez18_1|.footer) at 1440 and 360: quiet (gates/index-<w>/chrome-parity-regions.txt). Decided hands-off by the replica agent.",
+      "root": "header"
+    },
+    {
+      "probe": "chrome-parity",
+      "kind": "REGION",
+      "reason": "The live page has no <header>/<footer> element (nav = div._navbar_container_twmt9_1, footer = section#_footer_1ez18_1); gate.sh cannot pass --region, so the default region lookup is unconfigurable here. Parity was measured with explicit regions (nav=._navbar_container_twmt9_1|.navbar-container, footer=#_footer_1ez18_1|.footer) at 1440 and 360: quiet (gates/index-<w>/chrome-parity-regions.txt). Decided hands-off by the replica agent.",
+      "root": "footer"
+    },
+    {
+      "kind": "MISSING ICON",
+      "text": "button#1",
+      "root": ".App",
+      "probe": "content-diff",
+      "reason": "Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit."
+    },
+    {
+      "kind": "MISSING ICON",
+      "text": "/in/gururajkoni/",
+      "root": ".App",
+      "probe": "content-diff",
+      "reason": "Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit."
+    },
+    {
+      "kind": "MISSING ICON",
+      "text": "/konigraphics69",
+      "root": ".App",
+      "probe": "content-diff",
+      "reason": "Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit."
+    },
+    {
+      "kind": "MISSING ICON",
+      "text": "/koni_graphics/",
+      "root": ".App",
+      "probe": "content-diff",
+      "reason": "Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit."
+    },
+    {
+      "kind": "MISSING ICON",
+      "text": "/gururajkon69",
+      "root": ".App",
+      "probe": "content-diff",
+      "reason": "Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit."
+    },
+    {
+      "kind": "MISSING ICON",
+      "text": "/gururajkoni04",
+      "root": ".App",
+      "probe": "content-diff",
+      "reason": "Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit."
+    },
+    {
+      "kind": "MISSING ARIA-LABEL",
+      "text": "Advertisement",
+      "root": ".App",
+      "probe": "content-diff",
+      "reason": "The source <iframe aria-label=\"Advertisement\"> is the Google AdSense slot injected by the live ad script; stardust/martech-contract.json keeps AdSense (otherTags) disabled by contract (never enable a part), so the delivered page carries no ad iframe. Not authored content. Decided hands-off by the C-archetype agent (2026-11-12), owner may revisit with the martech decision."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+ "url": "https://main--1bfbbf98--aemcoder.aem.page/",
+ "at": "2026-11-12T08:38:51.612Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 1,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 2,
+  "offPage": 10,
+  "textNodes": 42,
+  "controls": 34,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "CONTROL X-HIDDEN",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.works-card",
+   "path": "div.works-track.is-animating > div.works-slide > div.works-card > a.works-link",
+   "text": "sab.comview project",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 1,
+   "clipper": "h3#i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant",
+   "path": "a.blogs-link > article.blogs-card > div.blogs-card-title > h3#i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant",
+   "text": "i migrated a react spa to aem edge delivery services in minu",
+   "cutMin": null,
+   "cutMax": null
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 1,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 2,
+   "offPage": 10,
+   "textNodes": 45,
+   "controls": 34,
+   "total": 0
+  }
+ }
+}

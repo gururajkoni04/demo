@@ -1,0 +1,16 @@
+{
+  "variantName": "works",
+  "baseBlock": "carousel",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "centre-mode autoplay carousel of recent projects",
+    "layout": "horizontal carousel, centre slide emphasised, arrows on wider screens"
+  },
+  "contentPattern": {
+    "structure": "project screenshot + project name heading and View Project link; heading authored as default content before the block"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Portfolio / recent work showcase.",
+  "reuseGuidance": "Use for a rotating set of linked project screenshots."
+}

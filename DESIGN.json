@@ -1,0 +1,241 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:replica",
+    "writtenAt": "2026-11-12T06:43:46Z",
+    "mode": "bounded-single",
+    "synthesizedFrom": [
+      "stardust/current/pages/index.json",
+      "stardust/replica/tokens.json"
+    ]
+  },
+  "colors": {
+    "_from": ".App custom properties (dark theme, default)",
+    "navy": "#030b25",
+    "white": "#dfe7f3",
+    "grey": "#b1bcdc",
+    "light-grey": "#1b243f",
+    "dark-blue": "#020716",
+    "low-opacity": "#000000cd",
+    "date": "#c0c8d1",
+    "snippet": "#f0f0f0",
+    "bg": "#0d1b2a",
+    "cyan": "#FF5722",
+    "light-blue": "#F4511E",
+    "new-footer": "#D84315",
+    "title": "#FF6F3C"
+  },
+  "typography": {
+    "_from": "* rule + Google Fonts @import",
+    "base": "Calibre,Inter,San Francisco,SF Pro Text,-apple-system,system-ui,sans-serif (no webfont loaded for Calibre or Inter on the source — the rendered face is the platform fallback; kept verbatim)",
+    "display": "Bungee,cursive (Google Fonts)",
+    "ui": "Poppins (Google Fonts)",
+    "footer": "Montserrat Alternates,sans-serif (Google Fonts)"
+  },
+  "components": {
+    "button": {
+      "outline": "2px solid var(--cyan); color var(--cyan); uppercase; 700; padding 10px 13px / 8px 13px@480 / 12px 17px@1200; skewed fill sweep on hover"
+    },
+    "nav": {
+      "height": "86px container; padding 14px 30px 14px 15px / 18px 45px 18px 30px@768 / 18px 60px 18px 40px@1200; bg var(--navy); shadow 0 1px 3px var(--dark-blue)"
+    }
+  },
+  "extensions": {
+    "type": {
+      "heroIntro": {
+        "font": "Poppins→Bungee ≥480",
+        "size": ".75rem / 1.5rem@480 / 1.7rem@768 / 1.9rem@1200 / 2.1rem@1400",
+        "lineHeight": "1.7rem / 2rem / 2.1rem / 2.4rem",
+        "letterSpacing": ".1rem / .2rem@1200"
+      },
+      "heroDesc": {
+        "font": "Poppins",
+        "size": ".75rem / .9rem@480 / 1.03rem@768 / 1.1rem@1200"
+      },
+      "sectionTitle": {
+        "size": "1.8rem / 1.9rem@480 / 2rem@768 / 2.3rem@1200",
+        "weight": 500,
+        "underline": "50px→80px@1200 × 2.5px var(--white)"
+      },
+      "body": {
+        "size": "14.5px / 1rem@768",
+        "wordSpacing": ".13rem",
+        "color": "var(--grey)"
+      },
+      "nav": {
+        "font": "Poppins",
+        "size": "13px / 15px@1200",
+        "weight": 500,
+        "gap": "30px / 40px@1200"
+      }
+    },
+    "container": {
+      "section": "max-width 90%; margin 0 auto (tailwind max-w-[90%] mx-auto)",
+      "capProbe": "fluid (DESIGN.json extensions.breakpoints)"
+    },
+    "themeLight": {
+      "_from": ".App.light",
+      "navy": "#dfe7f3",
+      "white": "#020716",
+      "grey": "#030b25",
+      "dark-blue": "#fff",
+      "light-grey": "#dfe7f3",
+      "low-opacity": "#ffffffcd",
+      "date": "#777777",
+      "snippet": "#555555",
+      "bg": "#f9f9f9",
+      "cyan": "#FF5722",
+      "light-blue": "#F4511E",
+      "new-footer": "#BF360C",
+      "title": "#E64A19"
+    },
+    "sourceBreakpoints": [
+      480,
+      545,
+      600,
+      640,
+      768,
+      900,
+      992,
+      1024,
+      1200,
+      1280,
+      1400,
+      1536
+    ],
+    "breakpoints": {
+      "containerMaxWidth": null,
+      "probeWidth": 2560,
+      "shellMaxWidth": null,
+      "caps": [
+        {
+          "kind": "module",
+          "px": 1600,
+          "via": "max-width",
+          "selector": "div.relative.z-0 > section.mx-auto.my-8 > div.relative > div",
+          "pages": [
+            "https://gururajkoni.dev/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1380,
+          "via": "max-width",
+          "selector": "div.relative.z-0 > section.mx-auto > section > div",
+          "pages": [
+            "https://gururajkoni.dev/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1200,
+          "via": "max-width",
+          "selector": "div.App.dark > div.relative.z-0 > section.mx-auto.my-0 > div",
+          "pages": [
+            "https://gururajkoni.dev/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1100,
+          "via": "max-width",
+          "selector": "div.App.dark > div.relative.z-0 > section.mx-auto > div",
+          "pages": [
+            "https://gururajkoni.dev/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1062,
+          "via": "fixed",
+          "selector": "div.App.dark > div.relative.z-0 > section.mx-auto > div",
+          "pages": [
+            "https://gururajkoni.dev/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 950,
+          "via": "fixed",
+          "selector": "div.relative.z-0 > div.contact.mb-80 > section.mx-auto.my-0 > div",
+          "pages": [
+            "https://gururajkoni.dev/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 605,
+          "via": "fixed",
+          "selector": "div.relative.z-0 > section.mx-auto > div > div",
+          "pages": [
+            "https://gururajkoni.dev/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 540,
+          "via": "fixed",
+          "selector": "div.relative.z-0 > div.contact.mb-80 > section.mx-auto.my-0 > p",
+          "pages": [
+            "https://gururajkoni.dev/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 455,
+          "via": "fixed",
+          "selector": "div.contact.mb-80 > section.mx-auto.my-0 > div > form",
+          "pages": [
+            "https://gururajkoni.dev/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 313,
+          "via": "fixed",
+          "selector": "section > div > p > span",
+          "pages": [
+            "https://gururajkoni.dev/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 262,
+          "via": "fixed",
+          "selector": "div.relative.w-screen > section > div > button",
+          "pages": [
+            "https://gururajkoni.dev/"
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "url": "https://gururajkoni.dev/",
+          "section": 0,
+          "selector": "#root > div.App.dark > div.relative.w-screen",
+          "px": 313
+        },
+        {
+          "url": "https://gururajkoni.dev/",
+          "section": 1,
+          "selector": "#root > div.App.dark > div.relative.z-0",
+          "px": 1600
+        },
+        {
+          "url": "https://gururajkoni.dev/",
+          "section": 2,
+          "selector": "#root > div.App.dark > section",
+          "px": 950
+        }
+      ],
+      "capRegister": [],
+      "capProvenance": {
+        "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+        "writtenAt": "2026-11-12T06:41:38.198Z",
+        "baseWidth": 1440,
+        "urls": [
+          "https://gururajkoni.dev/"
+        ]
+      }
+    }
+  }
+}

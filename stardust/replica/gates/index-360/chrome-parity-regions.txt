@@ -1,0 +1,10 @@
+[live-session] waiting to pace live navigations to gururajkoni.dev (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 730 ms
+chrome-parity @ 360px, tolerance 1px
+  live:  https://gururajkoni.dev/
+  build: http://localhost:8791/index-proposed.html
+
+■ nav: ✓ parity — 5 paired of 5/5 texts, 2/2 icons
+
+■ footer: ✓ parity — 4 paired of 4/4 texts, 12/12 icons
+
+✓ chrome parity within tolerance — run crop-compare (pass bar item 5) to confirm in pixels.

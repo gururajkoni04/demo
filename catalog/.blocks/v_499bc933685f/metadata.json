@@ -1,0 +1,31 @@
+{
+  "id": "v_499bc933685f",
+  "type": "columns",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T10:28:17.576Z",
+  "sourceContext": {
+    "originUrl": "https://gururajkoni.dev/",
+    "discoveredDuring": "excat-replica-adapter"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "mixed",
+    "density": "minimal",
+    "imagePattern": "noimg",
+    "purpose": "About",
+    "structure": "About block"
+  },
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://gururajkoni.dev/",
+        "instanceId": "b02-about",
+        "instanceIds": [
+          "b02-about"
+        ],
+        "screenshot": ".pages/gururajkoni_dev--f1c41605/blocks/b02-about.jpg"
+      }
+    ],
+    "reuseCount": 1
+  }
+}

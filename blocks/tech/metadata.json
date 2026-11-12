@@ -1,0 +1,16 @@
+{
+  "variantName": "tech",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "technology logo grid with category filter tabs",
+    "layout": "filter tabs above a hexagon grid of logos"
+  },
+  "contentPattern": {
+    "structure": "logo image (alt = technology name) + stack word (languages, frameworks or tools); intro paragraph and filter list authored as default content before the block"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Skills / technology showcase with filtering.",
+  "reuseGuidance": "Use for any filterable grid of logos grouped by category."
+}

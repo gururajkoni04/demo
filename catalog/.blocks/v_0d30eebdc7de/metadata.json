@@ -1,0 +1,31 @@
+{
+  "id": "v_0d30eebdc7de",
+  "type": "hero",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T10:28:17.576Z",
+  "sourceContext": {
+    "originUrl": "https://gururajkoni.dev/",
+    "discoveredDuring": "excat-replica-adapter"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "mixed",
+    "density": "minimal",
+    "imagePattern": "noimg",
+    "purpose": "Hero",
+    "structure": "Hero block"
+  },
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://gururajkoni.dev/",
+        "instanceId": "b01-hero",
+        "instanceIds": [
+          "b01-hero"
+        ],
+        "screenshot": ".pages/gururajkoni_dev--f1c41605/blocks/b01-hero.jpg"
+      }
+    ],
+    "reuseCount": 1
+  }
+}

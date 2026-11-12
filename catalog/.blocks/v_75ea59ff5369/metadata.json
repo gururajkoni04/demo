@@ -1,0 +1,31 @@
+{
+  "id": "v_75ea59ff5369",
+  "type": "cards",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T10:28:17.576Z",
+  "sourceContext": {
+    "originUrl": "https://gururajkoni.dev/",
+    "discoveredDuring": "excat-replica-adapter"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "mixed",
+    "density": "minimal",
+    "imagePattern": "noimg",
+    "purpose": "Tech",
+    "structure": "Tech block"
+  },
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://gururajkoni.dev/",
+        "instanceId": "b03-tech",
+        "instanceIds": [
+          "b03-tech"
+        ],
+        "screenshot": ".pages/gururajkoni_dev--f1c41605/blocks/b03-tech.jpg"
+      }
+    ],
+    "reuseCount": 1
+  }
+}

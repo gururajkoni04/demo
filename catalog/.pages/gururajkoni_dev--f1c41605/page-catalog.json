@@ -1,0 +1,181 @@
+{
+  "url": "https://gururajkoni.dev/",
+  "title": "Gururaj Koni - Full Stack Developer & AEM Specialist | Portfolio",
+  "timestamp": "2026-11-12T10:28:17.576Z",
+  "duration": "0s",
+  "cleanup": {
+    "elementsRemoved": 0,
+    "types": [],
+    "cookieConsentDismissed": false,
+    "removed": []
+  },
+  "skeleton": {
+    "sections": []
+  },
+  "pageLayout": null,
+  "blocks": [
+    {
+      "id": "b01-hero",
+      "type": "hero",
+      "name": "hero",
+      "variantId": "v_0d30eebdc7de",
+      "selector": null,
+      "screenshot": "blocks/b01-hero.jpg",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900
+      },
+      "description": "Top-of-page personal introduction. Used on 1 page (homepage template).",
+      "visualChars": {
+        "purpose": "Hero",
+        "structure": "Hero block",
+        "density": "minimal",
+        "imagePattern": "noimg"
+      },
+      "canonicalModel": "standalone"
+    },
+    {
+      "id": "b02-about",
+      "type": "columns",
+      "name": "about",
+      "variantId": "v_499bc933685f",
+      "selector": null,
+      "screenshot": "blocks/b02-about.jpg",
+      "bounds": {
+        "x": 72,
+        "y": 986,
+        "width": 1296,
+        "height": 455
+      },
+      "description": "Biography section next to a portrait. Used on 1 page (homepage template).",
+      "visualChars": {
+        "purpose": "About",
+        "structure": "About block",
+        "density": "minimal",
+        "imagePattern": "noimg"
+      },
+      "canonicalModel": "standalone"
+    },
+    {
+      "id": "b03-tech",
+      "type": "cards",
+      "name": "tech",
+      "variantId": "v_75ea59ff5369",
+      "selector": null,
+      "screenshot": "blocks/b03-tech.jpg",
+      "bounds": {
+        "x": 72,
+        "y": 1441,
+        "width": 1296,
+        "height": 426
+      },
+      "description": "Skills / technology showcase with filtering. Used on 1 page (homepage template).",
+      "visualChars": {
+        "purpose": "Tech",
+        "structure": "Tech block",
+        "density": "minimal",
+        "imagePattern": "noimg"
+      },
+      "canonicalModel": "standalone"
+    },
+    {
+      "id": "b04-services",
+      "type": "cards",
+      "name": "services",
+      "variantId": "v_bd08c76cee28",
+      "selector": null,
+      "screenshot": "blocks/b04-services.jpg",
+      "bounds": {
+        "x": 72,
+        "y": 1897,
+        "width": 1296,
+        "height": 672
+      },
+      "description": "Services or offerings overview. Used on 1 page (homepage template).",
+      "visualChars": {
+        "purpose": "Services",
+        "structure": "Services block",
+        "density": "minimal",
+        "imagePattern": "noimg"
+      },
+      "canonicalModel": "standalone"
+    },
+    {
+      "id": "b05-blogs",
+      "type": "cards",
+      "name": "blogs",
+      "variantId": "v_f4c619187e9f",
+      "selector": null,
+      "screenshot": "blocks/b05-blogs.jpg",
+      "bounds": {
+        "x": 72,
+        "y": 2568,
+        "width": 1296,
+        "height": 834
+      },
+      "description": "Latest blog articles teaser. Used on 1 page (homepage template).",
+      "visualChars": {
+        "purpose": "Blogs",
+        "structure": "Blogs block",
+        "density": "minimal",
+        "imagePattern": "noimg"
+      },
+      "canonicalModel": "standalone"
+    },
+    {
+      "id": "b06-works",
+      "type": "carousel",
+      "name": "works",
+      "variantId": "v_058aad521198",
+      "selector": null,
+      "screenshot": "blocks/b06-works.jpg",
+      "bounds": {
+        "x": 72,
+        "y": 3434,
+        "width": 1296,
+        "height": 664
+      },
+      "description": "Portfolio / recent work showcase. Used on 1 page (homepage template).",
+      "visualChars": {
+        "purpose": "Works",
+        "structure": "Works block",
+        "density": "minimal",
+        "imagePattern": "noimg"
+      },
+      "canonicalModel": "standalone"
+    },
+    {
+      "id": "b07-contact",
+      "type": "form",
+      "name": "contact",
+      "variantId": "v_95f7217a6e86",
+      "selector": null,
+      "screenshot": "blocks/b07-contact.jpg",
+      "bounds": {
+        "x": 0,
+        "y": 4131,
+        "width": 1440,
+        "height": 901
+      },
+      "description": "Contact form posting to an external form service. Used on 1 page (homepage template).",
+      "visualChars": {
+        "purpose": "Contact",
+        "structure": "Contact block",
+        "density": "minimal",
+        "imagePattern": "noimg"
+      },
+      "canonicalModel": "standalone"
+    }
+  ],
+  "replicaAdapter": {
+    "stardustSlug": "index",
+    "path": "/",
+    "templateId": "index",
+    "liveUrl": "https://main--1bfbbf98--aemcoder.aem.live/",
+    "fullPageScreenshot": "full-page.jpg",
+    "screenshotSource": "https://aem-20261112--demo--gururajkoni04.aem.page/",
+    "screenshotCapturedAt": "2026-11-12T10:28:30.134Z"
+  }
+}

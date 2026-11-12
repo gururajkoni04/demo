@@ -1,0 +1,19 @@
+{
+  "analysis-urls-checklist": {
+    "captured": "2026-11-12T10:28:17.576Z",
+    "totalPages": 1,
+    "statusBreakdown": {
+      "analyzed": 1
+    },
+    "pages": {
+      "https://gururajkoni.dev/": {
+        "url": "https://gururajkoni.dev/",
+        "status": "analyzed",
+        "slug": "gururajkoni_dev--f1c41605",
+        "title": "Gururaj Koni - Full Stack Developer & AEM Specialist | Portfolio",
+        "blockCount": 7,
+        "analyzedAt": "2026-11-12T10:28:17.576Z"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "sites": {
+    "demo": {
+      "previewOrg": "gururajkoni04",
+      "previewSite": "demo",
+      "contentHostUrl": "https://content.da.live/gururajkoni04/demo/"
+    }
+  },
+  "type": "da"
+}

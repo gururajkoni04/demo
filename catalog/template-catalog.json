@@ -1,0 +1,11 @@
+{
+  "templates": [
+    {
+      "name": "homepage",
+      "description": "Single-page developer portfolio: intro hero, about, technologies, services, blogs, recent works and contact form.",
+      "urls": [
+        "https://gururajkoni.dev/"
+      ]
+    }
+  ]
+}

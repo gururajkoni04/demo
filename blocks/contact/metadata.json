@@ -1,0 +1,16 @@
+{
+  "variantName": "contact",
+  "baseBlock": "form",
+  "canonicalModel": "configuration",
+  "visualCharacteristics": {
+    "purpose": "Get in Touch band with contact form and illustration",
+    "layout": "form beside an illustration"
+  },
+  "contentPattern": {
+    "structure": "form title, field placeholder list (name, email, message), submit label, form endpoint link, illustration image — one per row; heading and subtitle authored as default content before the block"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Contact form posting to an external form service.",
+  "reuseGuidance": "Use for a simple name/email/message contact form."
+}

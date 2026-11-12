@@ -1,0 +1,354 @@
+{
+ "source": "http://127.0.0.1:8791/index-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "section",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "About Me"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "I am an AEM Full Stack Developer and Graphic Designer with a Master's in Computer Science, blending technical expertise with a creative touch as a rapper and anime enthusiast. My background in the National Cadet Corps has instilled in me the discipline and leadership necessary to excel in collaborative projects. I look forward to working together on your next big thing. to learn more."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Contact me",
+     "href": "#contact"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "section",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Here are a few technologies I`ve been working with recently:"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "all"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "languages"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "frameworks"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "tools"
+    }
+   ],
+   "imgCount": 11,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "ABBR.tech__item",
+     "count": 11,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "section",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "My Services"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "What I can do for you -"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "As a full stack developer, I handle both frontend and backend development, ensuring a seamless integration and functionality of your web application. From designing intuitive user interfaces to building secure server-side solutions, I deliver comprehensive web solutions."
+    },
+    {
+     "role": "eyebrow",
+     "order": 3,
+     "text": "Full Stack Web Development"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "With extensive experience in Adobe Experience Manager (AEM), I develop and customize CMS solutions that empower you to manage your website content effortlessly. I ensure that your AEM implementation is user-friendly, scalable, and tailored to meet your specific business needs."
+    },
+    {
+     "role": "eyebrow",
+     "order": 5,
+     "text": "AEM Development"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "As a graphic designer, I specialize in crafting visually captivating designs that enhance your web application's overall user experience. From logos to user interfaces, my creative solutions ensure a visually cohesive and memorable online presence for your brand."
+    },
+    {
+     "role": "eyebrow",
+     "order": 7,
+     "text": "Graphic Design"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.services__tilt",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "section",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "My Medium Blogs"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "One Prompt Instead of Ten Clicks: AEM MCP for Developers"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Tue Oct 13 2026"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "There is a particular kind of AEM work that is not difficult, but is expensive in attention.Continue reading on Medium »..."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Read article"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "I Migrated a React SPA to AEM Edge Delivery Services in Minutes. Here’s What That Actually Meant."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Sat Jun 27 2026"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "When people hear “migrate a React SPA to EDS using AI,” they picture a code translator. Point it at a repo, it spits out..."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Read article"
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Figma to AEM components with MCP"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Fri Feb 06 2026"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "If you’ve ever built AEM components from a Figma design, you already know the boring part: HTL, dialog XML, Sling Models..."
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Read article"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "See more articles"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 10,
+   "repeats": [
+    {
+     "unitSelector": "A.blogs__link",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 4
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "section",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "My Recent Works"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Previous"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "SAB.com"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "View Project"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Meemic.com"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "View Project"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Shopping Website in Java Using JSP and Servlet"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "View Project"
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "ACG AAA Connect"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "View Project"
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Chase DoorDash Credit Card"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "View Project"
+    },
+    {
+     "role": "heading",
+     "order": 12,
+     "text": "Chase Business Premier"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "View Project"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Next"
+    }
+   ],
+   "imgCount": 15,
+   "editableTexts": 7,
+   "repeats": [
+    {
+     "unitSelector": "DIV.works__slide",
+     "count": 15,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "section",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Get in Touch!"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "I'm always excited to hear about new opportunities and collaborations. Don't hesitate to reach out and let's make something great."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Contact Me"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Get in touch"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Get in touch"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": []
+  }
+ ]
+}

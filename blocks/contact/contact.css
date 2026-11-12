@@ -1,0 +1,228 @@
+/* contact — source div.contact (patterned band; its 20rem bottom margin reveals the footer) */
+.contact {
+  width: 100%;
+  padding-bottom: 40px;
+  margin-bottom: 20rem;
+  background-color: var(--light-grey);
+  background-image:
+    linear-gradient(335deg, var(--dark-blue) 23px, transparent 23px),
+    linear-gradient(155deg, var(--dark-blue) 23px, transparent 23px),
+    linear-gradient(335deg, var(--dark-blue) 23px, transparent 23px),
+    linear-gradient(155deg, var(--dark-blue) 23px, transparent 23px);
+  background-size: 58px 58px;
+  background-position: 0 2px, 4px 35px, 29px 31px, 34px 6px;
+}
+
+.contact .contact-section {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.contact .contact-title {
+  margin: 60px auto;
+}
+
+.contact .contact-title::after {
+  width: 50px;
+}
+
+.contact .contact-subtitle {
+  text-align: center;
+  font-size: .9rem;
+  color: var(--white);
+}
+
+.contact .contact-subtitle p {
+  font-family: var(--font-ui);
+}
+
+.contact .contact-box {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: 40px auto;
+  padding: 30px 0 50px;
+  gap: 40px;
+  overflow: hidden;
+}
+
+.contact .contact-form-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: var(--dark-blue);
+}
+
+.contact .contact-form {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: flex-end;
+  gap: 12px;
+  padding: 30px;
+  border-radius: 9px;
+  border: 2px solid var(--light-blue);
+}
+
+.contact .contact-form-title {
+  font-size: 1.2rem;
+  font-weight: 500;
+  align-self: flex-start;
+  color: var(--light-blue);
+}
+
+.contact .contact-input {
+  width: 100%;
+  height: 40px;
+  padding: 8px 12px;
+  outline: none;
+  font-size: .85rem;
+  font-weight: 500;
+  color: var(--grey);
+  background-color: transparent;
+  border: 2px solid var(--light-blue);
+  border-radius: 6px;
+}
+
+.contact .contact-input:focus {
+  color: var(--cyan);
+  background-color: var(--dark-blue);
+  border: 2px solid var(--white);
+}
+
+.contact .contact-input::placeholder {
+  color: var(--light-blue);
+}
+
+.contact .contact-textarea {
+  height: 90px;
+}
+
+.contact .contact-btn {
+  color: var(--white);
+  background-color: transparent;
+  padding: 12px 18px;
+  border-radius: 4px;
+  margin-top: 3px;
+  transition: .2s;
+  font-size: .9rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  position: relative;
+  overflow: hidden;
+}
+
+.contact .contact-btn::after,
+.contact .contact-btn-label {
+  transition: all .2s ease-out;
+}
+
+.contact .contact-btn-label {
+  position: relative;
+}
+
+/* the source's duplicate "hover" label: generated from the authored label (no DOM words) */
+.contact .contact-btn::after {
+  content: attr(data-label);
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  opacity: 0;
+  transform: translateY(-100%);
+}
+
+.contact .contact-btn:hover,
+.contact .contact-btn:focus {
+  color: var(--cyan);
+  background-color: var(--dark-blue);
+  border: 1px solid var(--white);
+}
+
+.contact .contact-btn:hover .contact-btn-label,
+.contact .contact-btn:focus .contact-btn-label {
+  opacity: 0;
+  transform: translateY(100%);
+}
+
+.contact .contact-btn:hover::after,
+.contact .contact-btn:focus::after {
+  opacity: 1;
+  transform: translate(0);
+}
+
+.contact .contact-img-container {
+  width: 100%;
+  height: 352.6px;
+  border-radius: 4px;
+  margin: 0 auto;
+}
+
+.contact .contact-img-container picture {
+  height: 100%;
+}
+
+.contact .contact-img-container img {
+  transform: translateY(40px);
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+@media screen and (width >= 480px) and (width < 768px) {
+  .contact .contact-title {
+    font-size: 1.8rem;
+  }
+}
+
+@media screen and (width >= 768px) {
+  .contact .contact-subtitle {
+    width: 540px;
+    margin: 0 auto;
+  }
+
+  .contact .contact-box {
+    width: 495px;
+    margin: 50px auto;
+  }
+}
+
+@media screen and (width >= 992px) {
+  .contact .contact-box {
+    flex-direction: row;
+    width: 850px;
+  }
+}
+
+@media screen and (width >= 1200px) {
+  .contact .contact-title {
+    margin: 80px 0 40px;
+  }
+
+  .contact .contact-title::after {
+    width: 80px;
+  }
+
+  .contact .contact-box {
+    width: 950px;
+    padding: 53px 0 50px;
+    gap: 40px;
+  }
+
+  .contact .contact-form {
+    gap: 20px;
+  }
+
+  .contact .contact-form-title {
+    font-size: 1.3rem;
+  }
+
+  .contact .contact-btn {
+    font-size: 1rem;
+  }
+
+  .contact .contact-img-container {
+    height: 400px;
+  }
+}

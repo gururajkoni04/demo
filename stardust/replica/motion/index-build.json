@@ -1,0 +1,4303 @@
+{
+  "url": "http://localhost:8791/index-proposed.html",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3600,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3352,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1852,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "navbar-container",
+      "position": "relative",
+      "height": "86px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".works__arrow--next",
+      "frames": [
+        {
+          "t": 19802.099999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 20010.099999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 20216.800000000745,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 20429.099999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".tech__filters button:nth-child(2)",
+      "frames": [
+        {
+          "t": 21449.200000001118,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 21659.200000001118,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 21864.200000001118,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 22081.099999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".services__card-shadow",
+      "changed": [
+        "self.transform",
+        "self.opacity"
+      ],
+      "before": {
+        "self": {
+          "transform": "matrix(1, 0, 0, 1, -18.4567, 0)",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "0.815433",
+          "transition": "opacity 0.5s ease-out, transform 0.5s ease-out, scale 0.3s, rotate 0.3s"
+        },
+        "subs": [
+          {
+            "el": "img.services__img",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "opacity 0.5s ease-out, transform 0.5s ease-out, scale 0.3s, rotate 0.3s"
+        },
+        "subs": [
+          {
+            "el": "img.services__img",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".works__slide:not(.works__slide--clone) .works__card",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "rgba(0, 0, 0, 0.3) 0px 4px 20px 0px",
+          "opacity": "1",
+          "transition": "transform 0.3s, box-shadow 0.3s"
+        },
+        "subs": [
+          {
+            "el": "a.works__link",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "img.works__img",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "transform 0.5s, filter 0.3s"
+          },
+          {
+            "el": "h2.works__name",
+            "transform": "none",
+            "color": "rgb(223, 231, 243)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "rgba(0, 0, 0, 0.3) 0px 4px 20px 0px",
+          "opacity": "1",
+          "transition": "transform 0.3s, box-shadow 0.3s"
+        },
+        "subs": [
+          {
+            "el": "a.works__link",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "img.works__img",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "transform 0.5s, filter 0.3s"
+          },
+          {
+            "el": "h2.works__name",
+            "transform": "none",
+            "color": "rgb(223, 231, 243)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".blogs__card",
+      "changed": [
+        "self.transform",
+        "self.boxShadow"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(2, 7, 22)",
+          "boxShadow": "rgba(0, 0, 0, 0.3) 0px 4px 20px 0px",
+          "opacity": "1",
+          "transition": "transform 0.3s, box-shadow 0.3s"
+        },
+        "subs": [
+          {
+            "el": "img.blogs__img",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "h3.blogs__card-title",
+            "transform": "none",
+            "color": "rgb(255, 111, 60)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "matrix(1, 0, 0, 1, 0, -8)",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(2, 7, 22)",
+          "boxShadow": "rgba(14, 165, 233, 0.3) 0px 12px 40px 0px",
+          "opacity": "1",
+          "transition": "transform 0.3s, box-shadow 0.3s"
+        },
+        "subs": [
+          {
+            "el": "img.blogs__img",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "h3.blogs__card-title",
+            "transform": "none",
+            "color": "rgb(255, 111, 60)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".hero__btn",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 87, 34)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "0",
+          "transition": "opacity 1s ease-out 0.6s, transform 1s ease-out 0.6s"
+        },
+        "subs": [
+          {
+            "el": "svg.[object.SVGAnimatedString]",
+            "transform": "none",
+            "color": "rgb(255, 87, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "transform 0.3s ease-in-out"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 87, 34)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "0",
+          "transition": "opacity 1s ease-out 0.6s, transform 1s ease-out 0.6s"
+        },
+        "subs": [
+          {
+            "el": "svg.[object.SVGAnimatedString]",
+            "transform": "none",
+            "color": "rgb(255, 87, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "transform 0.3s ease-in-out"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".tech__item",
+      "changed": [
+        "self.transform",
+        "self.background",
+        "self.opacity"
+      ],
+      "before": {
+        "self": {
+          "transform": "matrix(1, 0, 0, 1, 0, 46.9667)",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(255, 255, 255)",
+          "boxShadow": "none",
+          "opacity": "0.530333",
+          "transition": "opacity 0.5s ease-out, transform 0.5s ease-out, background-color 0.3s ease-out"
+        },
+        "subs": [
+          {
+            "el": "img.tech__img",
+            "transform": "matrix(1, 0, 0, 1, -30, -30.8984)",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(162, 165, 175)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "opacity 0.5s ease-out, transform 0.5s ease-out, background-color 0.3s ease-out"
+        },
+        "subs": [
+          {
+            "el": "img.tech__img",
+            "transform": "matrix(1, 0, 0, 1, -30, -30.8984)",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".footer__overlay",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "svg.[object.SVGAnimatedString]",
+            "transform": "matrix(1, 0, 0, 1, 0, 42)",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "0",
+            "transition": "0.3s ease-out"
+          },
+          {
+            "el": "svg.[object.SVGAnimatedString]",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "0.3s ease-out"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "svg.[object.SVGAnimatedString]",
+            "transform": "matrix(1, 0, 0, 1, 0, 42)",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "0",
+            "transition": "0.3s ease-out"
+          },
+          {
+            "el": "svg.[object.SVGAnimatedString]",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "0.3s ease-out"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".navbar__link",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(177, 188, 220)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 87, 34)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".about__img",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.4s"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.4s"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".blogs__more",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 87, 34)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.2s, color 0.2s"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 87, 34)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.2s, color 0.2s"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".contact__btn",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(223, 231, 243)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.2s"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(223, 231, 243)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.2s"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [
+      {
+        "added": [
+          "is-animating"
+        ],
+        "el": "div.works__inner > div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating"
+      },
+      {
+        "added": [
+          "slick-center",
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center"
+      },
+      {
+        "added": [
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center"
+      },
+      {
+        "added": [
+          "slick-active"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active"
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center"
+      }
+    ],
+    "idleClassMutationCount": 5
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "transform",
+        "el": "div.works__inner > div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating",
+        "y": 0,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 274,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 274,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "main.main > section.section.about.is-inview > div.about__content > div.about__para > p.about__text",
+        "y": 434,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.about.is-inview > div.about__content > div.about__img-container",
+        "y": 434,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.about.is-inview > div.about__content > div.about__img-container",
+        "y": 434,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > div.tech__filters",
+        "y": 704,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > div.tech__filters",
+        "y": 704,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.hero > section.hero__section > div.hero__container > p.hero__intro > span.hero__name",
+        "y": 797,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 963,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 963,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.hero > section.hero__section > div.hero__container > p.hero__desc",
+        "y": 1074,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > p.tech__title",
+        "y": 1074,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 1178,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 1178,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1178,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1178,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.hero > section.hero__section > div.hero__container > button.hero__btn",
+        "y": 1184,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1194,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1194,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > p.services__subtitle",
+        "y": 1200,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1200,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1200,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.works__inner > div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating",
+        "y": 1200,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1202,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1202,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 1430,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 1430,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1545,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1545,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1599,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1599,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1600,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1600,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1600,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1600,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "main.main > section.section.about > div.about__content > div.about__para > p.about__text",
+        "y": 1602,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.about > div.about__content > div.about__img-container",
+        "y": 1602,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.about > div.about__content > div.about__img-container",
+        "y": 1602,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1602,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1602,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > div.tech__filters",
+        "y": 1830,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > div.tech__filters",
+        "y": 1830,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1830,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1830,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1999,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1999,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2000,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2000,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2000,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2000,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > p.tech__title",
+        "y": 2012,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2034,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2034,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2304,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2304,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2390,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2390,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2400,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2400,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2400,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2400,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 2412,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 2412,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2412,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2412,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.works.is-inview > div.works__inner > h1.section-title.works__title",
+        "y": 2727,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.works.is-inview > div.works__inner > h1.section-title.works__title",
+        "y": 2727,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > p.services__subtitle",
+        "y": 2758,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 3190,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 3190,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.works__inner > div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating",
+        "y": 3200,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "main.main > div.contact > section.section.contact__section.is-inview > div.contact__container > form.contact__form-container",
+        "y": 3504,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > div.contact > section.section.contact__section.is-inview > h1.section-title.contact__title",
+        "y": 3504,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > div.contact > section.section.contact__section.is-inview > h1.section-title.contact__title",
+        "y": 3504,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "main.main > div.contact > section.section.contact__section.is-inview > div.contact__container > div.contact__img-container",
+        "y": 3504,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > div.contact > section.section.contact__section.is-inview > p.contact__subtitle",
+        "y": 3597,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 3600,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 3600,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.works > div.works__inner > h1.section-title.works__title",
+        "y": 3958,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.works > div.works__inner > h1.section-title.works__title",
+        "y": 3958,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.works.is-inview > div.works__inner > h1.section-title.works__title",
+        "y": 3774,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.works.is-inview > div.works__inner > h1.section-title.works__title",
+        "y": 3774,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "main.main > div.contact > section.section.contact__section > div.contact__container > form.contact__form-container",
+        "y": 3411,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > div.contact > section.section.contact__section > h1.section-title.contact__title",
+        "y": 3411,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > div.contact > section.section.contact__section > h1.section-title.contact__title",
+        "y": 3411,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "main.main > div.contact > section.section.contact__section > div.contact__container > div.contact__img-container",
+        "y": 3411,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > div.contact > section.section.contact__section > p.contact__subtitle",
+        "y": 3353,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.works__inner > div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating",
+        "y": 3214,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.works > div.works__inner > h1.section-title.works__title",
+        "y": 2559,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.works > div.works__inner > h1.section-title.works__title",
+        "y": 2559,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 2296,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 2296,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2296,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2296,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > p.services__subtitle",
+        "y": 1938,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1857,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1857,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1852,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1854,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1854,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1863,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1863,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1882,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1882,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1919,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1919,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2329,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2329,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2398,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2398,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > div.tech__filters",
+        "y": 1658,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > div.tech__filters",
+        "y": 1658,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1658,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1658,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 1306,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 1306,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1289,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1289,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1261,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1261,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1205,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1205,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1200,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1200,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > p.tech__title",
+        "y": 1200,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1200,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1200,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "main.main > section.section.about.is-inview > div.about__content > div.about__para > p.about__text",
+        "y": 1188,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.about.is-inview > div.about__content > div.about__img-container",
+        "y": 1188,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.about.is-inview > div.about__content > div.about__img-container",
+        "y": 1188,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 1037,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 1037,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1037,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1037,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 855,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 855,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > p.services__subtitle",
+        "y": 806,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item",
+        "y": 637,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item",
+        "y": 637,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > div.tech__filters",
+        "y": 597,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > div.tech__filters",
+        "y": 597,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.works__inner > div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating",
+        "y": 537,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 504,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 504,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.hero > section.hero__section.is-inview > div.hero__container > p.hero__intro > span.hero__name",
+        "y": 502,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 500,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 500,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 500,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 500,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 500,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 500,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 500,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 500,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > p.tech__title",
+        "y": 497,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.hero > section.hero__section.is-inview > div.hero__container > p.hero__desc",
+        "y": 362,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 319,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 319,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.hero > section.hero__section.is-inview > div.hero__container > button.hero__btn",
+        "y": 302,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 280,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 280,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 174,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 174,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "main.main > section.section.about > div.about__content > div.about__para > p.about__text",
+        "y": 120,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.about > div.about__content > div.about__img-container",
+        "y": 120,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.about > div.about__content > div.about__img-container",
+        "y": 120,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.works__inner > div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating",
+        "y": 9,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 304,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 304,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > div.tech__filters",
+        "y": 971,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > div.tech__filters",
+        "y": 971,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1223,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1223,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 1472,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 1472,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1472,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1472,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 1696,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 1696,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.hero > section.hero__section > div.hero__container > p.hero__intro > span.hero__name",
+        "y": 2202,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > div.tech__filters",
+        "y": 2329,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > div.tech__filters",
+        "y": 2329,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2329,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2329,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 2540,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 2540,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2540,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2540,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.works.is-inview > div.works__inner > h1.section-title.works__title",
+        "y": 2781,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.works.is-inview > div.works__inner > h1.section-title.works__title",
+        "y": 2781,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.hero > section.hero__section > div.hero__container > p.hero__desc",
+        "y": 3439,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "main.main > div.contact > section.section.contact__section.is-inview > div.contact__container > form.contact__form-container",
+        "y": 3453,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > div.contact > section.section.contact__section.is-inview > h1.section-title.contact__title",
+        "y": 3453,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > div.contact > section.section.contact__section.is-inview > h1.section-title.contact__title",
+        "y": 3453,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "main.main > div.contact > section.section.contact__section.is-inview > div.contact__container > div.contact__img-container",
+        "y": 3453,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.works__inner > div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating",
+        "y": 3497,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.hero > section.hero__section > div.hero__container > button.hero__btn",
+        "y": 3505,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > div.contact > section.section.contact__section.is-inview > p.contact__subtitle",
+        "y": 3532,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "main.main > div.contact > section.section.contact__section > div.contact__container > form.contact__form-container",
+        "y": 3364,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > div.contact > section.section.contact__section > h1.section-title.contact__title",
+        "y": 3364,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > div.contact > section.section.contact__section > h1.section-title.contact__title",
+        "y": 3364,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "main.main > div.contact > section.section.contact__section > div.contact__container > div.contact__img-container",
+        "y": 3364,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.works > div.works__inner > h1.section-title.works__title",
+        "y": 2420,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.works > div.works__inner > h1.section-title.works__title",
+        "y": 2420,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 2115,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 2115,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2115,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2115,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > div.contact > section.section.contact__section > p.contact__subtitle",
+        "y": 1999,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > div.tech__filters",
+        "y": 1614,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > div.tech__filters",
+        "y": 1614,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1614,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1614,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 1287,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 1287,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > p.services__subtitle",
+        "y": 1287,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1228,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1228,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 1151,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 1151,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1151,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1151,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1130,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1130,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > p.services__subtitle",
+        "y": 1110,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > p.tech__title",
+        "y": 1110,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "main.main > section.section.about.is-inview > div.about__content > div.about__para > p.about__text",
+        "y": 1110,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.about.is-inview > div.about__content > div.about__img-container",
+        "y": 1110,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.about.is-inview > div.about__content > div.about__img-container",
+        "y": 1110,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.works__inner > div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating",
+        "y": 1110,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 1220,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 1220,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1220,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1220,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 1530,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 1530,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > div.tech__filters",
+        "y": 1792,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > div.tech__filters",
+        "y": 1792,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > p.services__subtitle",
+        "y": 1792,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow > div.services__overlay",
+        "y": 1903,
+        "dur": "0.45s"
+      },
+      {
+        "prop": "rotate",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1903,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "scale",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1903,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "main.main > section.section.about > div.about__content > div.about__para > p.about__text",
+        "y": 1903,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.about > div.about__content > div.about__img-container",
+        "y": 1903,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.about > div.about__content > div.about__img-container",
+        "y": 1903,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > p.tech__title",
+        "y": 1903,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow > div.services__overlay",
+        "y": 1903,
+        "dur": "0.45s"
+      },
+      {
+        "prop": "rotate",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1903,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "scale",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1903,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2041,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2041,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 2562,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 2562,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2562,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2562,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.works.is-inview > div.works__inner > h1.section-title.works__title",
+        "y": 2889,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.works.is-inview > div.works__inner > h1.section-title.works__title",
+        "y": 2889,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > p.services__subtitle",
+        "y": 3185,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2802,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2802,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.works > div.works__inner > h1.section-title.works__title",
+        "y": 2672,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.works > div.works__inner > h1.section-title.works__title",
+        "y": 2672,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section > div.blogs__container > div.blogs__grid > a.blogs__link > article.blogs__card",
+        "y": 2595,
+        "dur": "0.3s, 0.3s"
+      },
+      {
+        "prop": "box-shadow",
+        "el": "section > div.blogs__container > div.blogs__grid > a.blogs__link > article.blogs__card",
+        "y": 2595,
+        "dur": "0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section > div.blogs__container > div.blogs__grid > a.blogs__link > article.blogs__card",
+        "y": 2593,
+        "dur": "0.3s, 0.3s"
+      },
+      {
+        "prop": "box-shadow",
+        "el": "section > div.blogs__container > div.blogs__grid > a.blogs__link > article.blogs__card",
+        "y": 2593,
+        "dur": "0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.works__inner > div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating",
+        "y": 2591,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 2235,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 2235,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2235,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2235,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > div.tech__filters",
+        "y": 1479,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > div.tech__filters",
+        "y": 1479,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1479,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1479,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 1148,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 1148,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 1021,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 1021,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1021,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1021,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item",
+        "y": 738,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item",
+        "y": 738,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > div.tech__filters",
+        "y": 546,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > div.tech__filters",
+        "y": 546,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.hero > section.hero__section.is-inview > div.hero__container > p.hero__intro > span.hero__name",
+        "y": 275,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 165,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 165,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 300,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 300,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.hero > section.hero__section.is-inview > div.hero__container > p.hero__desc",
+        "y": 720,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > div.tech__filters",
+        "y": 824,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > div.tech__filters",
+        "y": 824,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 973,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 973,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.hero > section.hero__section > div.hero__container > p.hero__intro > span.hero__name",
+        "y": 1115,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 1205,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 1205,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1205,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1205,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1266,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1266,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1318,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 1341,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 1341,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > p.services__subtitle",
+        "y": 1341,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1354,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1354,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1360,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.hero > section.hero__section > div.hero__container > p.hero__desc",
+        "y": 1360,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1360,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1360,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech.is-inview > p.tech__title",
+        "y": 1360,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1360,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1360,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > header.navbar-container > nav.navbar.fixed > ul.navbar__links > li",
+        "y": 1360,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1360,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1360,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > header.navbar-container > nav.navbar.fixed > ul.navbar__links > li",
+        "y": 1360,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.works__inner > div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating",
+        "y": 1358,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 1217,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about.is-inview > h1.section-title.about__title",
+        "y": 1217,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 1050,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 1050,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1050,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1050,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > p.services__subtitle",
+        "y": 846,
+        "dur": "1s"
+      },
+      {
+        "prop": "outline-color",
+        "el": "main.main > section.section.about.is-inview > div.about__content > div.about__img-container > img.about__img",
+        "y": 831,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "outline-offset",
+        "el": "main.main > section.section.about.is-inview > div.about__content > div.about__img-container > img.about__img",
+        "y": 831,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "outline-width",
+        "el": "main.main > section.section.about.is-inview > div.about__content > div.about__img-container > img.about__img",
+        "y": 831,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "background-size",
+        "el": "main.main > section.section.about.is-inview > div.about__content > div.about__img-container > img.about__img",
+        "y": 831,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "opacity",
+        "el": "main.main > section.section.about.is-inview > div.about__content > div.about__para > p.about__text",
+        "y": 831,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.about.is-inview > div.about__content > div.about__img-container",
+        "y": 831,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.about.is-inview > div.about__content > div.about__img-container",
+        "y": 831,
+        "dur": "1s"
+      },
+      {
+        "prop": "outline-color",
+        "el": "main.main > section.section.about.is-inview > div.about__content > div.about__img-container > img.about__img",
+        "y": 831,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "outline-offset",
+        "el": "main.main > section.section.about.is-inview > div.about__content > div.about__img-container > img.about__img",
+        "y": 831,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "outline-width",
+        "el": "main.main > section.section.about.is-inview > div.about__content > div.about__img-container > img.about__img",
+        "y": 831,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "background-size",
+        "el": "main.main > section.section.about.is-inview > div.about__content > div.about__img-container > img.about__img",
+        "y": 831,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 1412,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > h1.section-title.services__title",
+        "y": 1412,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1412,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services.is-inview > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 1412,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 1605,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.about > h1.section-title.about__title",
+        "y": 1605,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1935,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 1935,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > div.tech__filters",
+        "y": 1935,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > div.tech__filters",
+        "y": 1935,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services.is-inview > div.services__container > p.services__subtitle",
+        "y": 2389,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 2496,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > h1.section-title.services__title",
+        "y": 2496,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2496,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 2496,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2648,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2648,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.works.is-inview > div.works__inner > h1.section-title.works__title",
+        "y": 2726,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.works.is-inview > div.works__inner > h1.section-title.works__title",
+        "y": 2726,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.services > div.services__container > p.services__subtitle",
+        "y": 2767,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2826,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2826,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "main.main > section.section.about > div.about__content > div.about__para > p.about__text",
+        "y": 2883,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.about > div.about__content > div.about__img-container",
+        "y": 2883,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.about > div.about__content > div.about__img-container",
+        "y": 2883,
+        "dur": "1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2886,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item",
+        "y": 2886,
+        "dur": "0.5s, 0.5s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.App.dark > div.body > main.main > section.section.tech > p.tech__title",
+        "y": 2889,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "main.main > div.contact > section.section.contact__section.is-inview > div.contact__container > form.contact__form-container",
+        "y": 3683,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > div.contact > section.section.contact__section.is-inview > h1.section-title.contact__title",
+        "y": 3683,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > div.contact > section.section.contact__section.is-inview > h1.section-title.contact__title",
+        "y": 3683,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "transform",
+        "el": "main.main > div.contact > section.section.contact__section.is-inview > div.contact__container > div.contact__img-container",
+        "y": 3683,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body > main.main > section.section.works > div.works__inner > h1.section-title.works__title",
+        "y": 4003,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > section.section.works > div.works__inner > h1.section-title.works__title",
+        "y": 4003,
+        "dur": "1.25s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 4196,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.section.services > div.services__container > div.services__cards > div.services__tilt > div.services__card-shadow",
+        "y": 4196,
+        "dur": "0.5s, 0.5s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body > main.main > div.contact > section.section.contact__section.is-inview > p.contact__subtitle",
+        "y": 4196,
+        "dur": "1s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.contact__container > form.contact__form-container > div.contact__form > button.contact__btn > span.contact__btn-hover",
+        "y": 4299,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "color",
+        "el": "div.contact__container > form.contact__form-container > div.contact__form > button.contact__btn > span.contact__btn-hover",
+        "y": 4299,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.contact__container > form.contact__form-container > div.contact__form > button.contact__btn > span.contact__btn-hover",
+        "y": 4299,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "background-color",
+        "el": "section.section.contact__section.is-inview > div.contact__container > form.contact__form-container > div.contact__form > button.contact__btn",
+        "y": 4299,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "section.section.contact__section.is-inview > div.contact__container > form.contact__form-container > div.contact__form > button.contact__btn",
+        "y": 4299,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "border-left-width",
+        "el": "section.section.contact__section.is-inview > div.contact__container > form.contact__form-container > div.contact__form > button.contact__btn",
+        "y": 4299,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "color",
+        "el": "section.section.contact__section.is-inview > div.contact__container > form.contact__form-container > div.contact__form > button.contact__btn",
+        "y": 4299,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "section.section.contact__section.is-inview > div.contact__container > form.contact__form-container > div.contact__form > button.contact__btn",
+        "y": 4299,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "border-right-width",
+        "el": "section.section.contact__section.is-inview > div.contact__container > form.contact__form-container > div.contact__form > button.contact__btn",
+        "y": 4299,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "section.section.contact__section.is-inview > div.contact__container > form.contact__form-container > div.contact__form > button.contact__btn",
+        "y": 4299,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "section.section.contact__section.is-inview > div.contact__container > form.contact__form-container > div.contact__form > button.contact__btn",
+        "y": 4299,
+        "dur": "0.2s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "is-animating"
+        ],
+        "el": "div.works__inner > div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating",
+        "y": 0
+      },
+      {
+        "added": [
+          "slick-center",
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 0
+      },
+      {
+        "added": [
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 0
+      },
+      {
+        "added": [
+          "slick-active"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 0
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.about.is-inview",
+        "y": 230
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.tech.is-inview",
+        "y": 674
+      },
+      {
+        "added": [
+          "fixed"
+        ],
+        "el": "body > div.App.dark > div.body > header.navbar-container > nav.navbar.fixed",
+        "y": 784
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 882
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 882
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 882
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 882
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 882
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 882
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 882
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 882
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 882
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1030
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1030
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.services.is-inview",
+        "y": 1169
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 1200
+      },
+      {
+        "added": [
+          "slick-center",
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 1200
+      },
+      {
+        "added": [
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 1200
+      },
+      {
+        "added": [
+          "slick-active"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active",
+        "y": 1200
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 1200
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.works.is-inview",
+        "y": 2704
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 3200
+      },
+      {
+        "added": [
+          "slick-center",
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 3200
+      },
+      {
+        "added": [
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 3200
+      },
+      {
+        "added": [
+          "slick-active"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active",
+        "y": 3200
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 3200
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.App.dark > div.body > main.main > div.contact > section.section.contact__section.is-inview",
+        "y": 3474
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.works.is-inview",
+        "y": 3866
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 3269
+      },
+      {
+        "added": [
+          "slick-center",
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 3269
+      },
+      {
+        "added": [
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 3269
+      },
+      {
+        "added": [
+          "slick-active"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active",
+        "y": 3269
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 3269
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.services.is-inview",
+        "y": 2366
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1954
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1954
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1860
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1860
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1860
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1860
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1860
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1860
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1860
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1860
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1860
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1852
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1852
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1852
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1854
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1865
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1865
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.tech.is-inview",
+        "y": 1749
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1749
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1749
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1749
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1749
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1749
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1749
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1749
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1749
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1749
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.about.is-inview",
+        "y": 1326
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "html.reveal-armed > body > div.App.dark > div.hero > section.hero__section.is-inview",
+        "y": 637
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 597
+      },
+      {
+        "added": [
+          "slick-center",
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 597
+      },
+      {
+        "added": [
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 597
+      },
+      {
+        "added": [
+          "slick-active"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-active",
+        "y": 597
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 597
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-center",
+        "y": 25
+      },
+      {
+        "added": [
+          "slick-center",
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-active",
+        "y": 25
+      },
+      {
+        "added": [
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-active",
+        "y": 25
+      },
+      {
+        "added": [
+          "slick-active"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-active",
+        "y": 25
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.about.is-inview",
+        "y": 220
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.tech.is-inview",
+        "y": 743
+      },
+      {
+        "added": [
+          "slick-active"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track > div.works__slide.works__slide--clone.slick-active",
+        "y": 743
+      },
+      {
+        "added": [
+          "slick-active",
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track > div.works__slide.slick-center.slick-active",
+        "y": 743
+      },
+      {
+        "added": [
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track > div.works__slide.slick-center.slick-active",
+        "y": 743
+      },
+      {
+        "added": [
+          "slick-active"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track > div.works__slide.slick-active",
+        "y": 743
+      },
+      {
+        "added": [
+          "fixed"
+        ],
+        "el": "body > div.App.dark > div.body > header.navbar-container > nav.navbar.fixed",
+        "y": 971
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 971
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 971
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 971
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 971
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 971
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 971
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 971
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 971
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 971
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 971
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 971
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.services.is-inview",
+        "y": 1223
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.works.is-inview",
+        "y": 2709
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.App.dark > div.body > main.main > div.contact > section.section.contact__section.is-inview",
+        "y": 3439
+      },
+      {
+        "added": [
+          "is-animating"
+        ],
+        "el": "div.works__inner > div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating",
+        "y": 3487
+      },
+      {
+        "added": [
+          "slick-center",
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 3487
+      },
+      {
+        "added": [
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 3487
+      },
+      {
+        "added": [
+          "slick-active"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active",
+        "y": 3487
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 3487
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.services.is-inview",
+        "y": 2254
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.tech.is-inview",
+        "y": 1672
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1672
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1672
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1672
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1672
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1672
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1672
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1672
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1672
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1672
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1672
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1672
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.about.is-inview",
+        "y": 1311
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__filters > button.tech__filter.is-active",
+        "y": 1110
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 1110
+      },
+      {
+        "added": [
+          "slick-center",
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 1110
+      },
+      {
+        "added": [
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 1110
+      },
+      {
+        "added": [
+          "slick-active"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active",
+        "y": 1110
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 1110
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.services.is-inview",
+        "y": 1167
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.works.is-inview",
+        "y": 2803
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 2593
+      },
+      {
+        "added": [
+          "slick-center",
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 2593
+      },
+      {
+        "added": [
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 2593
+      },
+      {
+        "added": [
+          "slick-active"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active",
+        "y": 2593
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 2593
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.services.is-inview",
+        "y": 2343
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.tech.is-inview",
+        "y": 1686
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1686
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1686
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1686
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 1686
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.about.is-inview",
+        "y": 1299
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "html.reveal-armed > body > div.App.dark > div.hero > section.hero__section.is-inview",
+        "y": 667
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.about.is-inview",
+        "y": 208
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.tech.is-inview",
+        "y": 720
+      },
+      {
+        "added": [
+          "fixed"
+        ],
+        "el": "body > div.App.dark > div.body > header.navbar-container > nav.navbar.fixed",
+        "y": 824
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 907
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 907
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 907
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.body > main.main > section.section.tech.is-inview > div.tech__grid > abbr.tech__item.is-inview",
+        "y": 907
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.services.is-inview",
+        "y": 1179
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 1360
+      },
+      {
+        "added": [
+          "slick-center",
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 1360
+      },
+      {
+        "added": [
+          "slick-current"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active.slick-center",
+        "y": 1360
+      },
+      {
+        "added": [
+          "slick-active"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.slick-active",
+        "y": 1360
+      },
+      {
+        "added": [
+          "slick-center"
+        ],
+        "el": "div.works__carousel > div.works__slider > div.works__list > div.works__track.is-animating > div.works__slide.works__slide--clone.slick-center",
+        "y": 1360
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.about.is-inview",
+        "y": 1291
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.services.is-inview",
+        "y": 1240
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "body > div.App.dark > div.body > main.main > section.section.works.is-inview",
+        "y": 2703
+      },
+      {
+        "added": [
+          "is-inview"
+        ],
+        "el": "div.App.dark > div.body > main.main > div.contact > section.section.contact__section.is-inview",
+        "y": 3550
+      }
+    ]
+  }
+}

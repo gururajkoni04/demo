@@ -1,0 +1,9 @@
+{
+  "runtime": "vanilla-eds",
+  "blockWrapperClass": "block",
+  "buttonClasses": ".button / .button.primary / .button.secondary / .button.accent, in p.button-wrapper",
+  "buttonization": "formatted-only",
+  "fragmentScriptPolicy": "inert-innerHTML",
+  "emptySectionCollapse": true,
+  "notes": "read from scripts/scripts.js decorateButtons (strong/em required; the mark is replaced by the anchor) and aem.js decorateBlock; martech hooks from martech-scaffold.mjs; reveal.js armed from loadLazy"
+}

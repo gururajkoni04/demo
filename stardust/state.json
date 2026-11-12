@@ -1,0 +1,128 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:migrate",
+    "writtenAt": "2026-11-12T08:48:33Z",
+    "stardustVersion": "0.37.2"
+  },
+  "site": {
+    "originUrl": "https://gururajkoni.dev/",
+    "deployUrl": "https://main--1bfbbf98--aemcoder.aem.page/",
+    "extractedAt": "2026-11-12T06:39:41Z",
+    "pageCap": 1,
+    "totalDiscovered": 1,
+    "crawled": 1
+  },
+  "direction": null,
+  "handsOff": true,
+  "flow": "replica",
+  "flowChosenAt": "2026-11-12T06:39:41Z",
+  "flowSource": "user-phrase",
+  "pages": [
+    {
+      "slug": "index",
+      "url": "https://gururajkoni.dev/",
+      "title": "Gururaj Koni - Full Stack Developer & AEM Specialist | Portfolio",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-12T06:39:41Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-12T07:09:57Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-12T07:09:57Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-12T08:48:33Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/index.json",
+      "prototypePath": "stardust/prototypes/index-proposed.html",
+      "migratedPath": "stardust/migrated/index.html"
+    }
+  ],
+  "migrate": {
+    "at": "2026-11-12T07:14:05Z",
+    "outputDir": "stardust/migrated/",
+    "selfContained": true,
+    "pageMap": [
+      {
+        "sourceUrl": "/",
+        "outputPath": "index.html",
+        "slug": "index",
+        "outputPathDefault": null
+      }
+    ],
+    "totalAssetsBundled": 41,
+    "bundledAssets": [
+      "canon.css",
+      "index.css",
+      "index.js",
+      "media/ACG-15ccf5bb.png",
+      "media/Chase-c3b41f06.png",
+      "media/JPMC-85989c89.png",
+      "media/KoniStore-9b6b8acc.png",
+      "media/Meemic-b6c4876f.png",
+      "media/SAB-0660ccc8.png",
+      "media/blog-1-8T7kKNdSPWYioIXbXMDc9A.jpeg",
+      "media/blog-2-k6Hw7kTDQCAxoyA4pOzfkA.png",
+      "media/blog-3-qKBstQveTY6_8wGoq3rzCw.gif",
+      "media/contact-e9a8509a-e9a8509a.svg",
+      "media/dark-3fe9091c.png",
+      "media/facebook (1)-2b95e18b.png",
+      "media/facebook-52917ccc.png",
+      "media/free-adob-experience-cloud-4238620-3516493.webp",
+      "media/galshir-vector-trophy-3925c899.gif",
+      "media/github (1)-a11c3607.png",
+      "media/github-c9477c30.png",
+      "media/gk-face-d8668b3a.png",
+      "media/instagram (1)-88a6c759.png",
+      "media/instagram-090853cb.png",
+      "media/linkedin (1)-e61db1d1.png",
+      "media/linkedin-c485396a.png",
+      "media/logo-e3524b36.png",
+      "media/responsive-35cb8557.gif",
+      "media/slick.woff",
+      "media/tech-bootstrap-plain.svg",
+      "media/tech-css3-plain.svg",
+      "media/tech-figma-icon.svg",
+      "media/tech-git-plain.svg",
+      "media/tech-html5-plain.svg",
+      "media/tech-illustrator-plain.svg",
+      "media/tech-java-original.svg",
+      "media/tech-javascript-plain.svg",
+      "media/tech-photoshop-plain.svg",
+      "media/tech-react-original.svg",
+      "media/twitter (1)-d5d22e96.png",
+      "media/twitter-5805b2d2.png",
+      "media/webDev-3329e0c2.gif"
+    ],
+    "pages": [
+      {
+        "slug": "index",
+        "file": "stardust/migrated/index.html",
+        "assetsBundled": 41
+      }
+    ],
+    "missingAssets": [],
+    "cleanedAssets": [],
+    "lastRun": {
+      "at": "2026-11-12T07:14:05Z",
+      "rendered": [
+        "index"
+      ],
+      "unchanged": [],
+      "refused": [],
+      "passthrough": []
+    }
+  }
+}

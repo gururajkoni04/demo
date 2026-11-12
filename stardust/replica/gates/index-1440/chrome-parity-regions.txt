@@ -1,0 +1,9 @@
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://gururajkoni.dev/
+  build: http://localhost:8791/index-proposed.html
+
+■ nav: ✓ parity — 10 paired of 10/10 texts, 3/3 icons
+
+■ footer: ✓ parity — 4 paired of 4/4 texts, 12/12 icons
+
+✓ chrome parity within tolerance — run crop-compare (pass bar item 5) to confirm in pixels.

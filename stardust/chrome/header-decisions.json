@@ -1,0 +1,61 @@
+{
+  "_note": "Proposed by the migration run for the site owner. chrome-compare ignores an entry until the owner fills `by` (their name) and `at` (ISO date). Evidence: stardust/chrome/header-contract.json (source record) vs header-build.json (aem.live record).",
+  "decisions": [
+    {
+      "finding": "state-missing@1440 My logo [hover]",
+      "decision": "accept",
+      "reason": "The source 'state' is the works carousel autoplay sliding under the pointer (motion target div.slick-track, panel rect off-header); hovering the logo opens nothing on the source.",
+      "by": null,
+      "at": null
+    },
+    {
+      "finding": "state-missing@390 My logo [click]",
+      "decision": "accept",
+      "reason": "Clicking the logo scrolls to the top on both sites; the source record counts the page band that moves (0 links, rect 0,580,1440,320) as an opened panel.",
+      "by": null,
+      "at": null
+    },
+    {
+      "finding": "state-missing@1440 My logo [click]",
+      "decision": "accept",
+      "reason": "Clicking the logo scrolls to the top on both sites; the source record counts the page band that moves (0 links, rect 0,580,1440,320) as an opened panel.",
+      "by": null,
+      "at": null
+    },
+    {
+      "finding": "keyboard@390 My logo [key]",
+      "decision": "accept",
+      "reason": "Same as the click: Enter on the logo scrolls to the top on both sites; nothing opens.",
+      "by": null,
+      "at": null
+    },
+    {
+      "finding": "keyboard@1440 My logo [key]",
+      "decision": "accept",
+      "reason": "Same as the click: Enter on the logo scrolls to the top on both sites; nothing opens.",
+      "by": null,
+      "at": null
+    },
+    {
+      "finding": "state-missing@1440 Service [hover]",
+      "decision": "accept",
+      "reason": "Hovering a nav link opens nothing on the source (0 links, off-header band); both sites link to the in-page section.",
+      "by": null,
+      "at": null
+    },
+    {
+      "finding": "state-missing@1440 Work [hover]",
+      "decision": "accept",
+      "reason": "As Service: no panel on the source, the record caught page motion under the pointer.",
+      "by": null,
+      "at": null
+    },
+    {
+      "finding": "control-missing@390 menu",
+      "decision": "accept",
+      "reason": "The hamburger exists on both sites and opens the same 5-link menu; the comparer cannot pair two unnamed controls (key \"\").",
+      "by": null,
+      "at": null
+    }
+  ]
+}

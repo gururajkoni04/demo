@@ -1,0 +1,238 @@
+
+Content diff @ 1440px (profile "generic", roots: .App, main, header, footer)
+⚠ root ".App": source has it, build fell back to <main> — both sides measured at <body> (aligned; source has no <main>)
+root ".App" — source: ".App" absent, fell back to <body>
+  source: 88 text nodes — 25 headings, 6 eyebrows, 13 CTAs, 44 body; 48 img
+  build: 85 text nodes — 28 headings, 3 eyebrows, 13 CTAs, 41 body; 50 img
+  editable texts (outermost h*/p/ul/ol): source 46 / build 71
+  attributes (placeholder/aria-label/title): source 19 / build 31; icons: source 41 / build 41
+  accepted (invisible, nothing lost): 3 ROLE UPGRADE eyebrow → heading — "Full Stack Web Development", "AEM Development", "Graphic Design"
+root "main" — source: absent ("main") — measured as empty
+  source: 0 text nodes — 0 headings, 0 eyebrows, 0 CTAs, 0 body; 0 img
+  build: 72 text nodes — 28 headings, 2 eyebrows, 1 CTAs, 41 body; 35 img
+  editable texts (outermost h*/p/ul/ol): source 0 / build 66
+  attributes (placeholder/aria-label/title): source 0 / build 17; icons: source 0 / build 28
+root "header" — source: absent (no <header> / [role="banner"] outside the main root(s)) — measured as empty
+  source: 0 text nodes — 0 headings, 0 eyebrows, 0 CTAs, 0 body; 0 img
+  build: 10 text nodes — 0 headings, 0 eyebrows, 10 CTAs, 0 body; 5 img
+  editable texts (outermost h*/p/ul/ol): source 0 / build 2
+  attributes (placeholder/aria-label/title): source 0 / build 3; icons: source 0 / build 1
+root "footer" — source: absent (no <footer> / [role="contentinfo"] outside the main root(s)) — measured as empty
+  source: 0 text nodes — 0 headings, 0 eyebrows, 0 CTAs, 0 body; 0 img
+  build: 3 text nodes — 0 headings, 1 eyebrows, 2 CTAs, 0 body; 10 img
+  editable texts (outermost h*/p/ul/ol): source 0 / build 3
+  attributes (placeholder/aria-label/title): source 0 / build 11; icons: source 0 / build 12
+
+Findings: 199 (0 structural 🔴)
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 15 (owner 12, auto 3) · advisory 199
+  🟠 EXTRA [main]: build eyebrow "Check out my work" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build eyebrow "Check out my work" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "About Me" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build cta "Contact me" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "My Services" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Full Stack Web Development" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "AEM Development" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Graphic Design" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "My Medium Blogs" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "One Prompt Instead of Ten Clicks: AEM MCP for De" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "I Migrated a React SPA to AEM Edge Delivery Serv" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Figma to AEM components with MCP" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "My Recent Works" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Shopping Website in Java Using JSP and Servlet" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "ACG AAA Connect" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Chase DoorDash Credit Card" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Chase Business Premier" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "SAB.com" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Meemic.com" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Shopping Website in Java Using JSP and Servlet" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "ACG AAA Connect" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Chase DoorDash Credit Card" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Chase Business Premier" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "SAB.com" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Meemic.com" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Shopping Website in Java Using JSP and Servlet" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "ACG AAA Connect" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Chase DoorDash Credit Card" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Chase Business Premier" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Get in Touch!" has no source source — Unexpected node with no source.
+  🟠 EXTRA [main]: build heading "Contact Me" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "About" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Service" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Work" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Contact" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Blogs" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "About" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Service" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Work" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Contact" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Blogs" has no source source — Unexpected node with no source.
+  🟠 EXTRA [footer]: build eyebrow "My Social Networks" has no source source — Unexpected node with no source.
+  🟠 EXTRA [footer]: build cta "❤️ Crafted with care © Gururaj Koni" has no source source — Unexpected node with no source.
+  🟠 EXTRA [footer]: build cta "☕ Buy me a coffee" has no source source — Unexpected node with no source.
+  🟡 MISSING BODY [.App]: source body "Previous"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [.App]: source body "Next"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [.App]: source body "Get in touch"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING TITLE [.App]: source <iframe> title="Advertisement" has no build <iframe> with that title. Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.
+  🟡 EXTRA ARIA-LABEL [.App]: build <div> aria-label="My logo" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [.App]: build <div> aria-label="Toggle dark / light theme" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [.App]: build <div> aria-label="Toggle dark / light theme" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [.App]: build <a> title="Contact me" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [.App]: build <button> aria-label="Previous" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [.App]: build <button> aria-label="Next" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [.App]: build <button> aria-label="back to home page" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [.App]: build <a> aria-label="LinkedIn" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [.App]: build <a> aria-label="Facebook" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [.App]: build <a> aria-label="Instagram" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [.App]: build <a> aria-label="Twitter" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [.App]: build <a> aria-label="Github" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [.App]: build <a> title="Github" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [.App]: build <a> title="Buy Me a Coffee" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 ICON DIFF [.App]: source image free-adob-experience-cloud-4238620-3516493.png (60×62) vs build image media_1e383484ae3892719375e1bd1579362e30afc020a.webp (60×62) at "here are a few technologies i`ve been wo". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.App]: source image java-original.svg (60×62) vs build image media_187db3bf28347230ee98871532d7ab6726d8bee6a.svg (60×62) at "here are a few technologies i`ve been wo". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.App]: source image html5-plain.svg (60×62) vs build image media_168c3586fb5b950fc312c51ff110650d3bca814de.svg (60×62) at "here are a few technologies i`ve been wo". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.App]: source image css3-plain.svg (60×62) vs build image media_179f244aba3fcfe8bda75b82eda956b6d53cd5208.svg (60×62) at "here are a few technologies i`ve been wo". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.App]: source image javascript-plain.svg (60×62) vs build image media_1cd703e452ef2d95b6933cda8ff824b71fb3e3b9a.svg (60×62) at "here are a few technologies i`ve been wo". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.App]: source image react-original.svg (60×62) vs build image media_19d99ce3596a3ab4bf04fbc6e9d0174b5a99fcc14.svg (60×62) at "here are a few technologies i`ve been wo". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.App]: source image bootstrap-plain.svg (60×62) vs build image media_137c4d0b98c72144e4d0594bd33b9ce586a6f521d.svg (60×62) at "here are a few technologies i`ve been wo". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.App]: source image git-plain.svg (60×62) vs build image media_1e694f1e9321b3313d981b1ea2228f2621e8196d5.svg (60×62) at "here are a few technologies i`ve been wo". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.App]: source image figma-icon.svg (60×62) vs build image media_19f065d84a1c99c3b6d418d7f9f137594c98c97d6.svg (60×62) at "here are a few technologies i`ve been wo". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.App]: source image photoshop-plain.svg (60×62) vs build image media_1f807e0cced69b8d76b4cb55c9667482f9b1c90fd.svg (60×62) at "here are a few technologies i`ve been wo". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.App]: source image illustrator-plain.svg (60×62) vs build image media_103f22f2fafc484e60979c3efd551840dae8fe7ae.svg (60×62) at "here are a few technologies i`ve been wo". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON MOVED [.App]: source inline svg 0 0 16 16 / 2 shape(s) (42×42) at "button#2" is at "back to home page" in the build — same icon, paired by order. Same icon, different anchor — usually a text-less host (a <button> with no label anchors as button#n) or moved anchor text; confirm it sits on the right element, and give an unlabeled interactive host an aria-label.
+  🟡 ICON MOVED [.App]: source inline svg 0 0 16 16 / 2 shape(s) (42×42) at "button#2" is at "back to home page" in the build — same icon, paired by order. Same icon, different anchor — usually a text-less host (a <button> with no label anchors as button#n) or moved anchor text; confirm it sits on the right element, and give an unlabeled interactive host an aria-label.
+  🟡 EXTRA ICON [.App]: build image media_169fd679d592330fed38e6cf00d021da7b70a7535.png (35×54) at "my logo" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [.App]: build image media_1bb60b6912666998ef7200427cd0af83089378442.png (42×42) at "linkedin" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [.App]: build image media_1df8aea7449134ac1705f6e969e618585ab030cd4.png (42×42) at "linkedin" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [.App]: build image media_1950fb86d377ab9a5b82ebf09cb1eaa23760df497.png (42×42) at "facebook" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [.App]: build image media_1b2a51bef615a650e8d46871bdeca8db12e856039.png (42×42) at "facebook" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [.App]: build image media_1f36f957611a11b915483a738eb7f73e29ae153d0.png (42×42) at "instagram" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [.App]: build image media_17b7478009a06e0acb8292ecd979c691bc7500f2c.png (42×42) at "instagram" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [.App]: build image media_19e6e04e1ea5f06ce09b5a64762dd8d2f1afbacc3.png (42×42) at "twitter" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [.App]: build image media_1a78615a8a95a6b4858af25841c49adede8537137.png (42×42) at "twitter" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [.App]: build image media_1a75ef0718b65b423a4bc13b1f52119b8fd1a02d2.png (42×42) at "github" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [.App]: build image media_12bd5010aadb0af415b0712659487c893628429a9.png (42×42) at "github" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA [main]: build body "Hi, I'm" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "Gururaj Koni" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "I am a full-stack Web Developer" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "I am an AEM Full Stack Developer and Graphic Des" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "Here are a few technologies I`ve been working wi" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "all" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "languages" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "frameworks" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "tools" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "What I can do for you -" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "As a full stack developer, I handle both fronten" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "With extensive experience in Adobe Experience Ma" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "As a graphic designer, I specialize in crafting " has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "Tue Oct 13 2026" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "There is a particular kind of AEM work that is n" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "Read article" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "Sat Jun 27 2026" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "When people hear “migrate a React SPA to EDS usi" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "Read article" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "Fri Feb 06 2026" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "If you’ve ever built AEM components from a Figma" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "Read article" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "See more articles" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "View Project" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "I'm always excited to hear about new opportuniti" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [main]: build body "Get in touch" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA TITLE [main]: build <a> title="Contact me" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <abbr> title="AEM (Adobe Experience Manager)" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <abbr> title="Java" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <abbr> title="HTML 5" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <abbr> title="CSS 3" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <abbr> title="JavaScript" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <abbr> title="React JS" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <abbr> title="Bootstrap" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <abbr> title="Git" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <abbr> title="Figma" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <abbr> title="Photoshop" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [main]: build <abbr> title="Illustrator" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [main]: build <button> aria-label="Previous" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [main]: build <button> aria-label="Next" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA PLACEHOLDER [main]: build <input> placeholder="Name" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA PLACEHOLDER [main]: build <input> placeholder="Email" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA PLACEHOLDER [main]: build <textarea> placeholder="Your message" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 2 shape(s) (22×22) at "check out my work check out my work" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_1e383484ae3892719375e1bd1579362e30afc020a.webp (60×62) at "here are a few technologies i`ve been wo" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_187db3bf28347230ee98871532d7ab6726d8bee6a.svg (60×62) at "here are a few technologies i`ve been wo" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_168c3586fb5b950fc312c51ff110650d3bca814de.svg (60×62) at "here are a few technologies i`ve been wo" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_179f244aba3fcfe8bda75b82eda956b6d53cd5208.svg (60×62) at "here are a few technologies i`ve been wo" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_1cd703e452ef2d95b6933cda8ff824b71fb3e3b9a.svg (60×62) at "here are a few technologies i`ve been wo" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_19d99ce3596a3ab4bf04fbc6e9d0174b5a99fcc14.svg (60×62) at "here are a few technologies i`ve been wo" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_137c4d0b98c72144e4d0594bd33b9ce586a6f521d.svg (60×62) at "here are a few technologies i`ve been wo" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_1e694f1e9321b3313d981b1ea2228f2621e8196d5.svg (60×62) at "here are a few technologies i`ve been wo" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_19f065d84a1c99c3b6d418d7f9f137594c98c97d6.svg (60×62) at "here are a few technologies i`ve been wo" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_1f807e0cced69b8d76b4cb55c9667482f9b1c90fd.svg (60×62) at "here are a few technologies i`ve been wo" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build image media_103f22f2fafc484e60979c3efd551840dae8fe7ae.svg (60×62) at "here are a few technologies i`ve been wo" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "shopping website in java using jsp and s" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "acg aaa connect view project" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "chase doordash credit card view project" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "chase business premier view project" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "sab.com view project" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "meemic.com view project" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "shopping website in java using jsp and s" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "acg aaa connect view project" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "chase doordash credit card view project" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "chase business premier view project" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "sab.com view project" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "meemic.com view project" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "shopping website in java using jsp and s" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "acg aaa connect view project" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "chase doordash credit card view project" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [main]: build inline svg 0 0 24 24 / 3 shape(s) (20×20) at "chase business premier view project" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ARIA-LABEL [header]: build <div> aria-label="My logo" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <div> aria-label="Toggle dark / light theme" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <div> aria-label="Toggle dark / light theme" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ICON [header]: build image media_169fd679d592330fed38e6cf00d021da7b70a7535.png (35×54) at "my logo" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA TITLE [footer]: build <abbr> title="back to home page" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <button> aria-label="back to home page" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <a> aria-label="LinkedIn" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <a> aria-label="Facebook" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <a> aria-label="Instagram" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <a> aria-label="Twitter" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <a> aria-label="Github" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [footer]: build <abbr> title="Github" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [footer]: build <a> title="Github" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [footer]: build <abbr> title="Buy Me a Coffee" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA TITLE [footer]: build <a> title="Buy Me a Coffee" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ICON [footer]: build inline svg 0 0 16 16 / 2 shape(s) (42×42) at "back to home page" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build inline svg 0 0 16 16 / 2 shape(s) (42×42) at "back to home page" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1bb60b6912666998ef7200427cd0af83089378442.png (42×42) at "linkedin" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1df8aea7449134ac1705f6e969e618585ab030cd4.png (42×42) at "linkedin" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1950fb86d377ab9a5b82ebf09cb1eaa23760df497.png (42×42) at "facebook" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1b2a51bef615a650e8d46871bdeca8db12e856039.png (42×42) at "facebook" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1f36f957611a11b915483a738eb7f73e29ae153d0.png (42×42) at "instagram" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_17b7478009a06e0acb8292ecd979c691bc7500f2c.png (42×42) at "instagram" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_19e6e04e1ea5f06ce09b5a64762dd8d2f1afbacc3.png (42×42) at "twitter" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1a78615a8a95a6b4858af25841c49adede8537137.png (42×42) at "twitter" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_1a75ef0718b65b423a4bc13b1f52119b8fd1a02d2.png (42×42) at "github" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build image media_12bd5010aadb0af415b0712659487c893628429a9.png (42×42) at "github" has no source source. Build-only icon — confirm it is intended.
+  🟢 MISSING ARIA-LABEL [.App] accepted (stardust/replica/accepted.json): The source <iframe aria-label="Advertisement"> is the Google AdSense slot injected by the live ad script; stardust/martech-contract.json keeps AdSense (otherTags) disabled by contract (never enable a part), so the delivered page carries no ad iframe. Not authored content. Decided hands-off by the C-archetype agent (2026-11-12), owner may revisit with the martech decision.
+  🟢 MISSING ICON [.App] accepted (stardust/replica/accepted.json): Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit.
+  🟢 MISSING ICON [.App] accepted (stardust/replica/accepted.json): Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit.
+  🟢 MISSING ICON [.App] accepted (stardust/replica/accepted.json): Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit.
+  🟢 MISSING ICON [.App] accepted (stardust/replica/accepted.json): Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit.
+  🟢 MISSING ICON [.App] accepted (stardust/replica/accepted.json): Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit.
+  🟢 MISSING ICON [.App] accepted (stardust/replica/accepted.json): Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit.
+  🟢 MISSING ICON [.App] accepted (stardust/replica/accepted.json): Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit.
+  🟢 MISSING ICON [.App] accepted (stardust/replica/accepted.json): Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit.
+  🟢 MISSING ICON [.App] accepted (stardust/replica/accepted.json): Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit.
+  🟢 MISSING ICON [.App] accepted (stardust/replica/accepted.json): Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit.
+  🟢 MISSING ICON [.App] accepted (stardust/replica/accepted.json): Icon present and pixel-equivalent on the delivered page (footer crop-compare 99.95%/99.82%, chrome-parity within tolerance; every footer icon img 42x42 loaded on the preview). The probe pairs icons by anchor + file name: the source anchors the text-less social links by href and the logo by an unnamed button, the build anchors them by their accessible name (aria-label = the source img alt, header commit 49efe8d) and EDS renames every image to media_<hash>; the fixed z-index:-2 footer is covered by the page at signature time, so the pixel-signature pairing cannot rescue them. Look-neutral; decided hands-off by the C-archetype agent (2026-11-12), owner may revisit.

@@ -1,0 +1,445 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics detect",
+  "writtenAt": "2026-11-12T06:42:01.304Z",
+  "settleMs": 5000,
+  "width": 1440,
+  "urls": [
+   "https://gururajkoni.dev/"
+  ],
+  "reachSource": "stardust/current/pages"
+ },
+ "pages": {
+  "/": {
+   "url": "https://gururajkoni.dev/",
+   "status": 200,
+   "host": "gururajkoni.dev",
+   "title": "Gururaj Koni - Full Stack Developer & AEM Specialist | Portfolio",
+   "forms": [
+    {
+     "name": "_form_container_1iknq_40",
+     "action": "https://formspree.io/f/xrbzeljl",
+     "method": "post",
+     "role": "",
+     "inChrome": false,
+     "fields": 3,
+     "signature": [
+      "text:name",
+      "email:email",
+      "textarea:message"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "",
+     "href": null,
+     "marker": "_overlay_1ez18_60",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "",
+     "href": "https://www.linkedin.com/in/gururajkoni/",
+     "marker": "_overlay_1ez18_60",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "",
+     "href": "https://www.facebook.com/konigraphics69",
+     "marker": "_overlay_1ez18_60",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "",
+     "href": "https://www.instagram.com/koni_graphics/",
+     "marker": "_overlay_1ez18_60",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "",
+     "href": "https://twitter.com/gururajkon69?lang=en",
+     "marker": "_overlay_1ez18_60",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "",
+     "href": "https://github.com/gururajkoni04",
+     "marker": "_overlay_1ez18_60",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    }
+   ],
+   "dialogs": [],
+   "dialogCount": 0,
+   "media": [
+    {
+     "tag": "iframe",
+     "src": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7626461537334478&output=html&adk=1812271804&adf=3025194257&abgtt=6&lmt=1794465721&plat=3%3A16%2C4%3A16%2C9%3A32%2C16%3A8388608%2C17%3A32%2C",
+     "account": null,
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    },
+    {
+     "tag": "iframe",
+     "src": "https://www.google.com/recaptcha/api2/aframe",
+     "account": null,
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    },
+    {
+     "tag": "iframe",
+     "src": "https://googleads.g.doubleclick.net/pagead/html/r20261111/r20190131/zrt_lookup_fy2021.html",
+     "account": null,
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    }
+   ],
+   "iframes": [
+    {
+     "src": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7626461537334478&output=html&adk=1812271804&adf=3025194257&abgtt=6&lmt=1794465721&plat=3%3A16%2C4%3A16%2C9%3A32%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32%2C44%3A32&format=0x0&url=https%3A%2F%2Fgururajkoni.dev%2F&pra=5&aiof=14&asro=0&aimartd=4&aieuf=1&aicrs=1&uach=WyJMaW51eCIsIiIsIiIsIiIsIiIsbnVsbCwwLG51bGwsIiIsbnVsbCwwXQ..&dt=1794465721644&bpp=7&bdt=149&idt=180&shv=r20261111&mjsv=m202611090101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=7279003157228&frm=20&pv=2&u_tz=0&u_his=2&u_h=900&u_w=1440&u_ah=900&u_aw=1440&u_cd=24&u_sd=1&dmc=16&adx=-12245933&ady=-12245933&biw=1440&bih=900&scr_x=0&scr_y=0&eid=95404669%2C95408437%2C95408909%2C95409066%2C122882147%2C42533293%2C122882174%2C95340252%2C95340254&oid=2&pvsid=5298463893588658&tmod=563993264&uas=0&nvt=1&fsapi=1&fc=1920&brdim=10%2C10%2C10%2C10%2C1440%2C0%2C1448%2C985%2C1440%2C900&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&bz=1.01&pgls=CAk.&ifi=1&uci=a!1&fsb=1&dtd=240",
+     "title": "Advertisement",
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": "https://www.google.com/recaptcha/api2/aframe",
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": "https://googleads.g.doubleclick.net/pagead/html/r20261111/r20190131/zrt_lookup_fy2021.html",
+     "title": null,
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://www.sab.com/en/personal/",
+     "https://www.sab.com/en/personal/",
+     "https://www.linkedin.com/in/gururajkoni/"
+    ]
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "google_tag_manager",
+    "gtag"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 1,
+   "inlineFetch": false,
+   "mainText": 3113,
+   "domAddedAfterLoad": 0,
+   "hosts": {
+    "gururajkoni.dev": 53,
+    "pagead2.googlesyndication.com": 4,
+    "fonts.googleapis.com": 1,
+    "www.googletagmanager.com": 1,
+    "fonts.gstatic.com": 5,
+    "cdn.iconscout.com": 1,
+    "cdn.jsdelivr.net": 9,
+    "googleads.g.doubleclick.net": 2,
+    "www.vectorlogo.zone": 1,
+    "api.rss2json.com": 1,
+    "www.google-analytics.com": 1,
+    "cdn-images-1.medium.com": 6,
+    "ep1.adtrafficquality.google": 2,
+    "ep2.adtrafficquality.google": 3,
+    "www.google.com": 1
+   },
+   "thirdPartyHosts": [
+    "pagead2.googlesyndication.com",
+    "fonts.googleapis.com",
+    "www.googletagmanager.com",
+    "fonts.gstatic.com",
+    "cdn.iconscout.com",
+    "cdn.jsdelivr.net",
+    "googleads.g.doubleclick.net",
+    "www.vectorlogo.zone",
+    "api.rss2json.com",
+    "www.google-analytics.com",
+    "cdn-images-1.medium.com",
+    "ep1.adtrafficquality.google",
+    "ep2.adtrafficquality.google",
+    "www.google.com"
+   ],
+   "scripts": [
+    "https://gururajkoni.dev/assets/react-dd92498c.js",
+    "https://gururajkoni.dev/assets/react-icons-ab879153.js",
+    "https://gururajkoni.dev/assets/classnames-63df3330.js",
+    "https://gururajkoni.dev/assets/resize-observer-polyfill-95ba7467.js",
+    "https://gururajkoni.dev/assets/prop-types-3d281391.js",
+    "https://gururajkoni.dev/assets/react-responsive-e62e08b4.js",
+    "https://gururajkoni.dev/assets/lodash.debounce-59ca8c66.js",
+    "https://gururajkoni.dev/assets/debounce-65567e4c.js",
+    "https://gururajkoni.dev/assets/index-309750fa.js",
+    "https://gururajkoni.dev/assets/@babel-98964cd2.js",
+    "https://gururajkoni.dev/assets/react-slick-d6f7b50e.js",
+    "https://gururajkoni.dev/assets/scheduler-765c72db.js",
+    "https://gururajkoni.dev/assets/enquire.js-33edb58f.js",
+    "https://gururajkoni.dev/assets/zustand-ef5f5bcd.js",
+    "https://gururajkoni.dev/assets/react-use-measure-ea793fe5.js",
+    "https://gururajkoni.dev/assets/@react-three-6accf657.js",
+    "https://gururajkoni.dev/assets/framer-motion-d0b50fd4.js",
+    "https://gururajkoni.dev/assets/react-reconciler-74f06acf.js",
+    "https://gururajkoni.dev/assets/json2mq-d3ccca5e.js",
+    "https://gururajkoni.dev/assets/react-merge-refs-239dbb3c.js",
+    "https://gururajkoni.dev/assets/string-convert-c60507dd.js",
+    "https://gururajkoni.dev/assets/react-tilt-622999c9.js",
+    "https://gururajkoni.dev/assets/its-fine-db2fa387.js",
+    "https://gururajkoni.dev/assets/react-dom-72fee3f7.js",
+    "https://gururajkoni.dev/assets/maath-10ff438c.js",
+    "https://gururajkoni.dev/assets/three-fec893b4.js",
+    "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7626461537334478",
+    "https://www.googletagmanager.com/gtag/js?id=G-HNXBR706WR",
+    "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202611090101/show_ads_impl_fy2021.js?bust=122882174",
+    "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40gururajkoni&callback=mediumFeedCallback_1794465721787",
+    "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+    "https://pagead2.googlesyndication.com/bg/lDWCkr4GAWkeu4nSQg4O3JcE9Q5bgRy6GMCjj9CCseI.js"
+   ],
+   "firstPartyApi": [],
+   "thirdPartyXhr": [
+    "POST www.google-analytics.com/g/collect",
+    "GET ep1.adtrafficquality.google/getconfig/sodar"
+   ],
+   "postBodies": [
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-HNXBR706WR&gtm=45je6ba1v9230407562za208zd9230407562xf1&_p=1794465721509&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1455912109.1794465722&frm=0&ngs=1&pscdl=no",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 2449,
+   "mainEmptyAtLoad": false
+  }
+ },
+ "findings": [
+  {
+   "id": "a-unknown-third-party-host-ep1-adtrafficquality-google",
+   "class": "A",
+   "feature": "unknown third-party host ep1.adtrafficquality.google",
+   "hint": "inspect",
+   "evidence": [
+    "ep1.adtrafficquality.google"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "f-form-form-container-1iknq-40-third-party-formspree-io-3-fi",
+   "class": "F",
+   "feature": "form \"_form_container_1iknq_40\" → third-party formspree.io (3 fields)",
+   "signature": [
+    "text:name",
+    "email:email",
+    "textarea:message"
+   ],
+   "hint": "forms",
+   "evidence": [
+    "text:name,email:email,textarea:message"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-en-en-in",
+   "class": "I18N",
+   "feature": "locale variants en,en,in",
+   "hint": "locale",
+   "evidence": [
+    "https://www.sab.com/en/personal/",
+    "https://www.linkedin.com/in/gururajkoni/"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "m-modal-trigger-overlay-1ez18-60-target-outside-dom-at-captu",
+   "class": "M",
+   "feature": "modal trigger _overlay_1ez18_60 → target outside DOM at capture",
+   "hint": "modal",
+   "evidence": [
+    "https://www.linkedin.com/in/gururajkoni/",
+    "https://www.facebook.com/konigraphics69",
+    "https://www.instagram.com/koni_graphics/"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-marketing-ad-retargeting-pixel",
+   "class": "T",
+   "feature": "marketing: ad / retargeting pixel",
+   "role": "marketing: ad / retargeting pixel",
+   "hint": "tags",
+   "evidence": [
+    "pagead2.googlesyndication.com",
+    "googleads.g.doubleclick.net"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-tag-manager-google-tag-manager",
+   "class": "T",
+   "feature": "tag manager: Google Tag Manager",
+   "role": "tag manager: Google Tag Manager",
+   "hint": "tags",
+   "evidence": [
+    "www.googletagmanager.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-cdn-iconscout-com",
+   "class": "T",
+   "feature": "unknown third-party host cdn.iconscout.com",
+   "hint": "inspect",
+   "evidence": [
+    "cdn.iconscout.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-www-vectorlogo-zone",
+   "class": "T",
+   "feature": "unknown third-party host www.vectorlogo.zone",
+   "hint": "inspect",
+   "evidence": [
+    "www.vectorlogo.zone"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-api-rss2json-com",
+   "class": "T",
+   "feature": "unknown third-party host api.rss2json.com",
+   "hint": "inspect",
+   "evidence": [
+    "api.rss2json.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-analytics-google-analytics-ads",
+   "class": "T",
+   "feature": "analytics: Google Analytics / Ads",
+   "role": "analytics: Google Analytics / Ads",
+   "hint": "tags",
+   "evidence": [
+    "www.google-analytics.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-cdn-images-1-medium-com",
+   "class": "T",
+   "feature": "unknown third-party host cdn-images-1.medium.com",
+   "hint": "inspect",
+   "evidence": [
+    "cdn-images-1.medium.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-ep2-adtrafficquality-google",
+   "class": "T",
+   "feature": "unknown third-party host ep2.adtrafficquality.google",
+   "hint": "inspect",
+   "evidence": [
+    "ep2.adtrafficquality.google"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-www-google-com",
+   "class": "T",
+   "feature": "unknown third-party host www.google.com",
+   "hint": "inspect",
+   "evidence": [
+    "www.google.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  }
+ ],
+ "reach": {
+  "pagesWithEvidence": 1,
+  "of": 1,
+  "endpoints": {
+   "POST www.google-analytics.com/g/collect": 1,
+   "GET ep1.adtrafficquality.google/getconfig/sodar": 1
+  },
+  "searchFormPages": 0,
+  "formPages": 1,
+  "triggerPages": {}
+ }
+}

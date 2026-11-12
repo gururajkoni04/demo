@@ -1,0 +1,1311 @@
+[live-session] waiting to pace live navigations to gururajkoni.dev (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 969 ms
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/index-360/vdiff-pub2/
+
+build red flags (advisory): 
+  • BLANK RENDER: the build page is hidden/empty (main height 0px, text 0 chars). NOT a pass. The build render is hidden/empty — a load failure or an unsatisfied visibility gate. Fix before trusting any other result.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 7318,
+  "textLen": 2976,
+  "images": [
+   {
+    "src": "logo-e3524b36.png",
+    "natural": "1616x2498",
+    "rendered": "28x43",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dark-3fe9091c.png",
+    "natural": "402x144",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dark-3fe9091c.png",
+    "natural": "402x144",
+    "rendered": "70x25",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gk-face-d8668b3a.png",
+    "natural": "1964x2454",
+    "rendered": "227x227",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "free-adob-experience-cloud-4238620-3516493.png?f=webp&w=256",
+    "natural": "512x512",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "java-original.svg",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "html5-plain.svg",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "css3-plain.svg",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "javascript-plain.svg",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "react-original.svg",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bootstrap-plain.svg",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "git-plain.svg",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "figma-icon.svg",
+    "natural": "64x64",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "photoshop-plain.svg",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "illustrator-plain.svg",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "responsive-35cb8557.gif",
+    "natural": "0x0",
+    "rendered": "0x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "webDev-3329e0c2.gif",
+    "natural": "0x0",
+    "rendered": "0x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "galshir-vector-trophy-3925c899.gif",
+    "natural": "0x0",
+    "rendered": "112x112",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "1*8T7kKNdSPWYioIXbXMDc9A.jpeg",
+    "natural": "1400x788",
+    "rendered": "252x190",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "1*k6Hw7kTDQCAxoyA4pOzfkA.png",
+    "natural": "1983x793",
+    "rendered": "252x190",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "1*qKBstQveTY6_8wGoq3rzCw.gif",
+    "natural": "768x432",
+    "rendered": "252x190",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Chase-c3b41f06.png",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "SAB-0660ccc8.png",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "Meemic-b6c4876f.png",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "KoniStore-9b6b8acc.png",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "ACG-15ccf5bb.png",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "JPMC-85989c89.png",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "Chase-c3b41f06.png",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "SAB-0660ccc8.png",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "Meemic-b6c4876f.png",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "KoniStore-9b6b8acc.png",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "ACG-15ccf5bb.png",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "JPMC-85989c89.png",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "Chase-c3b41f06.png",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "contact-e9a8509a-e9a8509a.svg",
+    "natural": "0x0",
+    "rendered": "292x353",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "linkedin-c485396a.png",
+    "natural": "330x331",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "linkedin%20(1)-e61db1d1.png",
+    "natural": "512x512",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "facebook-52917ccc.png",
+    "natural": "348x348",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "facebook%20(1)-2b95e18b.png",
+    "natural": "512x512",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "instagram-090853cb.png",
+    "natural": "331x335",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "instagram%20(1)-88a6c759.png",
+    "natural": "512x512",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "twitter-5805b2d2.png",
+    "natural": "330x332",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "twitter%20(1)-d5d22e96.png",
+    "natural": "512x512",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "github-c9477c30.png",
+    "natural": "332x331",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "github%20(1)-a11c3607.png",
+    "natural": "512x512",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "About Me",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "28.8px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h1",
+    "text": "My Services",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "28.8px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "My Medium Blogs",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "28.8px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "One Prompt Instead of Ten Clicks",
+    "color": "rgb(255, 111, 60)",
+    "fontSize": "17.6px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "I Migrated a React SPA to AEM Ed",
+    "color": "rgb(255, 111, 60)",
+    "fontSize": "17.6px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "Figma to AEM components with MCP",
+    "color": "rgb(255, 111, 60)",
+    "fontSize": "17.6px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h1",
+    "text": "My Recent Works",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "28.8px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Chase Business Premier",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "Bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "SAB.com",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "Bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Meemic.com",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "Bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Shopping Website in Java Using J",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "Bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "ACG AAA Connect",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "Bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Chase DoorDash Credit Card",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "Bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Chase Business Premier",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "Bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "SAB.com",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "Bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Meemic.com",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "Bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Shopping Website in Java Using J",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "Bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "ACG AAA Connect",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "Bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Chase DoorDash Credit Card",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "Bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Chase Business Premier",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "Bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "Get in Touch!",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "28.8px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "Check out my work",
+    "color": "rgb(255, 87, 34)"
+   },
+   {
+    "text": "Check out my work",
+    "color": "rgb(255, 87, 34)"
+   },
+   {
+    "text": "Full Stack Web Developme",
+    "color": "rgb(223, 231, 243)"
+   },
+   {
+    "text": "AEM Development",
+    "color": "rgb(223, 231, 243)"
+   },
+   {
+    "text": "Graphic Design",
+    "color": "rgb(223, 231, 243)"
+   },
+   {
+    "text": "My Social Networks",
+    "color": "rgb(255, 255, 255)"
+   }
+  ],
+  "flushText": [
+   {
+    "tag": "p",
+    "text": "Full Stack Web Development",
+    "left": -25
+   },
+   {
+    "tag": "h2",
+    "text": "Chase Business Premier",
+    "left": -1063
+   },
+   {
+    "tag": "h2",
+    "text": "SAB.com",
+    "left": -779
+   },
+   {
+    "tag": "h2",
+    "text": "Meemic.com",
+    "left": -495
+   },
+   {
+    "tag": "h2",
+    "text": "Shopping Website in Java Usi",
+    "left": -211
+   }
+  ],
+  "contentBoxes": [
+   {
+    "sel": "_container_1uv9x_1",
+    "width": 360,
+    "left": 0
+   },
+   {
+    "sel": "_para_102lu_23",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "max-w-[90%]",
+    "width": 324,
+    "left": 18
+   },
+   {
+    "sel": "_card_overlay_hvhor_50",
+    "width": 288,
+    "left": -64
+   },
+   {
+    "sel": "_card_hvhor_31",
+    "width": 288,
+    "left": -64
+   },
+   {
+    "sel": "_card_overlay_hvhor_50",
+    "width": 288,
+    "left": -64
+   },
+   {
+    "sel": "_card_hvhor_31",
+    "width": 288,
+    "left": -64
+   },
+   {
+    "sel": "_card_overlay_hvhor_50",
+    "width": 288,
+    "left": -64
+   },
+   {
+    "sel": "_card_hvhor_31",
+    "width": 288,
+    "left": -64
+   },
+   {
+    "sel": "_card_wz6ud_48",
+    "width": 292,
+    "left": 34
+   },
+   {
+    "sel": "_card_wz6ud_48",
+    "width": 292,
+    "left": 34
+   },
+   {
+    "sel": "_card_wz6ud_48",
+    "width": 292,
+    "left": 34
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": true,
+  "mainHeight": 0,
+  "textLen": 0,
+  "images": [
+   {
+    "src": "media_169fd679d592330fed38e6cf00d021da7b70a7535.png?width=750&format=webply&optimize=medium",
+    "natural": "750x1159",
+    "rendered": "28x43",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1705589a10d349f3d4c074c4a6c8f3e469f436c6c.png?width=750&format=webply&optimize=medium",
+    "natural": "402x144",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1759a51c9eede96d2904ab09f28da844e6920c35a.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1705589a10d349f3d4c074c4a6c8f3e469f436c6c.png?width=750&format=webply&optimize=medium",
+    "natural": "402x144",
+    "rendered": "70x25",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1759a51c9eede96d2904ab09f28da844e6920c35a.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_19908008e253647915aae8e3abde05aee24de0f4f.png?width=750&format=webply&optimize=medium",
+    "natural": "750x937",
+    "rendered": "227x227",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1e383484ae3892719375e1bd1579362e30afc020a.webp?width=750&format=webply&optimize=medium",
+    "natural": "512x512",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_187db3bf28347230ee98871532d7ab6726d8bee6a.svg?width=750&format=webply&optimize=medium",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_168c3586fb5b950fc312c51ff110650d3bca814de.svg?width=750&format=webply&optimize=medium",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_179f244aba3fcfe8bda75b82eda956b6d53cd5208.svg?width=750&format=webply&optimize=medium",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1cd703e452ef2d95b6933cda8ff824b71fb3e3b9a.svg?width=750&format=webply&optimize=medium",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_19d99ce3596a3ab4bf04fbc6e9d0174b5a99fcc14.svg?width=750&format=webply&optimize=medium",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_137c4d0b98c72144e4d0594bd33b9ce586a6f521d.svg?width=750&format=webply&optimize=medium",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1e694f1e9321b3313d981b1ea2228f2621e8196d5.svg?width=750&format=webply&optimize=medium",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_19f065d84a1c99c3b6d418d7f9f137594c98c97d6.svg?width=750&format=webply&optimize=medium",
+    "natural": "64x64",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1f807e0cced69b8d76b4cb55c9667482f9b1c90fd.svg?width=750&format=webply&optimize=medium",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_103f22f2fafc484e60979c3efd551840dae8fe7ae.svg?width=750&format=webply&optimize=medium",
+    "natural": "150x150",
+    "rendered": "51x54",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1cb91f283e280f45d84bbb7a7052f0053b3469275.gif?width=750&format=gif&optimize=medium",
+    "natural": "0x0",
+    "rendered": "130x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_183993e4508823455c6bb8d5490a75ede12c1cdd6.gif?width=750&format=gif&optimize=medium",
+    "natural": "0x0",
+    "rendered": "203x130",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_161924efd3b05e184ccad2a1f9f042a708128ece2.gif?width=750&format=gif&optimize=medium",
+    "natural": "0x0",
+    "rendered": "112x112",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_13fb1425dc50bf836a4e5625006c2f895f3dfb963.jpg?width=750&format=jpg&optimize=medium",
+    "natural": "0x0",
+    "rendered": "252x190",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_13927172f47eb6895c07dbf4be9d3fc13a1f9bf21.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "252x190",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_1289131dc313366f05f63f5d0cd729cc8b49e5896.gif?width=750&format=gif&optimize=medium",
+    "natural": "0x0",
+    "rendered": "252x190",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_1c7e9b5b28f136b79c35c96c3d3f0e170842e6d54.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_1acd36cee8df1325340c34325f6cbc3d980b2c2e9.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_10861b527f508abb6454db0201dc89e49e5bccb14.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_1ddaf7324f5e1648c466db792f09ec94b5991212e.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_1d42cf3df16c9dc824cad08f433210a103ae49785.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_15e5ab06efd9f0fab066c43602299ecedcfb295d7.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_1c7e9b5b28f136b79c35c96c3d3f0e170842e6d54.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_1acd36cee8df1325340c34325f6cbc3d980b2c2e9.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_10861b527f508abb6454db0201dc89e49e5bccb14.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_1ddaf7324f5e1648c466db792f09ec94b5991212e.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_1d42cf3df16c9dc824cad08f433210a103ae49785.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_15e5ab06efd9f0fab066c43602299ecedcfb295d7.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_1c7e9b5b28f136b79c35c96c3d3f0e170842e6d54.png?width=750&format=png&optimize=medium",
+    "natural": "0x0",
+    "rendered": "264x198",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_10bd280f976012f4ce8adb2f58ecfe4d33c2f875f.svg?width=750&format=svg&optimize=medium",
+    "natural": "0x0",
+    "rendered": "292x353",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "media_1bb60b6912666998ef7200427cd0af83089378442.png?width=750&format=webply&optimize=medium",
+    "natural": "330x331",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1df8aea7449134ac1705f6e969e618585ab030cd4.png?width=750&format=webply&optimize=medium",
+    "natural": "512x512",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1950fb86d377ab9a5b82ebf09cb1eaa23760df497.png?width=750&format=webply&optimize=medium",
+    "natural": "348x348",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1b2a51bef615a650e8d46871bdeca8db12e856039.png?width=750&format=webply&optimize=medium",
+    "natural": "512x512",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1f36f957611a11b915483a738eb7f73e29ae153d0.png?width=750&format=webply&optimize=medium",
+    "natural": "331x335",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_17b7478009a06e0acb8292ecd979c691bc7500f2c.png?width=750&format=webply&optimize=medium",
+    "natural": "512x512",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_19e6e04e1ea5f06ce09b5a64762dd8d2f1afbacc3.png?width=750&format=webply&optimize=medium",
+    "natural": "330x332",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a78615a8a95a6b4858af25841c49adede8537137.png?width=750&format=webply&optimize=medium",
+    "natural": "512x512",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a75ef0718b65b423a4bc13b1f52119b8fd1a02d2.png?width=750&format=webply&optimize=medium",
+    "natural": "332x331",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_12bd5010aadb0af415b0712659487c893628429a9.png?width=750&format=webply&optimize=medium",
+    "natural": "512x512",
+    "rendered": "42x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "About Me",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "28.8px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "My Services",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "28.8px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "Full Stack Web Development",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "14.4px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "AEM Development",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "14.4px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "Graphic Design",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "14.4px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "My Medium Blogs",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "28.8px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "One Prompt Instead of Ten Clicks",
+    "color": "rgb(255, 111, 60)",
+    "fontSize": "17.6px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "I Migrated a React SPA to AEM Ed",
+    "color": "rgb(255, 111, 60)",
+    "fontSize": "17.6px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "Figma to AEM components with MCP",
+    "color": "rgb(255, 111, 60)",
+    "fontSize": "17.6px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "My Recent Works",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "28.8px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "SAB.com",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Meemic.com",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Shopping Website in Java Using J",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "ACG AAA Connect",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Chase DoorDash Credit Card",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Chase Business Premier",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "20.8px",
+    "family": "bungee",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Get in Touch!",
+    "color": "rgb(223, 231, 243)",
+    "fontSize": "28.8px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "Contact Me",
+    "color": "rgb(244, 81, 30)",
+    "fontSize": "19.2px",
+    "family": "San Francisco",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "Check out my work",
+    "color": "rgb(255, 87, 34)"
+   },
+   {
+    "text": "Check out my work",
+    "color": "rgb(255, 87, 34)"
+   },
+   {
+    "text": "My Social Networks",
+    "color": "rgb(255, 255, 255)"
+   }
+  ],
+  "flushText": [
+   {
+    "tag": "h3",
+    "text": "Full Stack Web Development",
+    "left": -25
+   },
+   {
+    "tag": "h3",
+    "text": "SAB.com",
+    "left": -779
+   },
+   {
+    "tag": "p",
+    "text": "View Project",
+    "left": -751
+   },
+   {
+    "tag": "h3",
+    "text": "Meemic.com",
+    "left": -495
+   },
+   {
+    "tag": "p",
+    "text": "View Project",
+    "left": -467
+   },
+   {
+    "tag": "h3",
+    "text": "Shopping Website in Java Usi",
+    "left": -211
+   },
+   {
+    "tag": "p",
+    "text": "View Project",
+    "left": -183
+   },
+   {
+    "tag": "h3",
+    "text": "Contact Me",
+    "left": -225
+   }
+  ],
+  "contentBoxes": [
+   {
+    "sel": "hero-box",
+    "width": 360,
+    "left": 0
+   },
+   {
+    "sel": "sec-title",
+    "width": 324,
+    "left": 18
+   },
+   {
+    "sel": "about-text",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "tech-title",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "sec-title",
+    "width": 324,
+    "left": 18
+   },
+   {
+    "sel": "services-subtitle",
+    "width": 324,
+    "left": 18
+   },
+   {
+    "sel": "services-text",
+    "width": 248,
+    "left": -44
+   },
+   {
+    "sel": "services-card",
+    "width": 288,
+    "left": -64
+   },
+   {
+    "sel": "services-text",
+    "width": 248,
+    "left": -44
+   },
+   {
+    "sel": "services-card",
+    "width": 288,
+    "left": -64
+   },
+   {
+    "sel": "services-text",
+    "width": 248,
+    "left": -44
+   },
+   {
+    "sel": "services-card",
+    "width": 288,
+    "left": -64
+   }
+  ]
+ }
+}

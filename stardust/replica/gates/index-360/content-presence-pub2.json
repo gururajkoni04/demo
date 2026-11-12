@@ -1,0 +1,3036 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-12T08:01:24.442Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://gururajkoni.dev/",
+  "at": "2026-11-12T08:01:00.478Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7538,
+  "root": null,
+  "items": [
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section > div._container_1uv9x_1 > p._intro_1uv9x_14",
+    "x": 50,
+    "y": 381,
+    "w": 310,
+    "h": 54,
+    "text": "Hi, I'm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section > div._container_1uv9x_1 > p._desc_1uv9x_31",
+    "x": 50,
+    "y": 440,
+    "w": 204,
+    "h": 18,
+    "text": "I am a full-stack Web Developer"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section > div._container_1uv9x_1 > button._btn_container_1uv9x_40",
+    "x": 50,
+    "y": 473,
+    "w": 210,
+    "h": 46,
+    "text": "check out my work"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._navbar_container_twmt9_1 > nav._navbar_twmt9_1 > button._logo_btn_twmt9_35",
+    "x": 15,
+    "y": 914,
+    "w": 40,
+    "h": 43,
+    "text": "my logo"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "nav._navbar_twmt9_1 > button._logo_btn_twmt9_35 > img._logo_twmt9_35",
+    "x": 15,
+    "y": 914,
+    "w": 28,
+    "h": 43,
+    "text": "my logo",
+    "file": "logo-e3524b36"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._navbar_container_twmt9_1 > nav._navbar_twmt9_1 > div._hamburger_twmt9_162",
+    "x": 290,
+    "y": 925,
+    "w": 40,
+    "h": 22,
+    "text": ""
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.relative.z-0 > section.max-w-[90%].mx-auto > h1._title_102lu_1",
+    "x": 18,
+    "y": 1010,
+    "w": 324,
+    "h": 59,
+    "level": 1,
+    "text": "about me"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._content_102lu_29 > div._para_102lu_23 > p._text_102lu_37",
+    "x": 36,
+    "y": 1129,
+    "w": 288,
+    "h": 218,
+    "text": "I am an AEM Full Stack Developer and Graphic Designer with a Master's in Compute"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._para_102lu_23 > p._text_102lu_37 > a._link_102lu_45",
+    "x": 103,
+    "y": 1326,
+    "w": 75,
+    "h": 20,
+    "text": "contact me",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._content_102lu_29 > div._img_container_102lu_67 > img._img_102lu_67",
+    "x": 67,
+    "y": 1410,
+    "w": 227,
+    "h": 227,
+    "text": "gururaj koni",
+    "file": "gk-face-d8668b3a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.relative.z-0 > section.max-w-[90%].mx-auto > p._title_1bjz1_1",
+    "x": 36,
+    "y": 1710,
+    "w": 288,
+    "h": 44,
+    "text": "Here are a few technologies I`ve been working with recently:"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section.max-w-[90%].mx-auto > div._btn_container_1bjz1_10 > button._btn_active_1bjz1_26",
+    "x": 36,
+    "y": 1804,
+    "w": 38,
+    "h": 29,
+    "text": "all"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section.max-w-[90%].mx-auto > div._btn_container_1bjz1_10 > button",
+    "x": 74,
+    "y": 1804,
+    "w": 94,
+    "h": 29,
+    "text": "languages"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section.max-w-[90%].mx-auto > div._btn_container_1bjz1_10 > button",
+    "x": 167,
+    "y": 1804,
+    "w": 101,
+    "h": 29,
+    "text": "frameworks"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section.max-w-[90%].mx-auto > div._btn_container_1bjz1_10 > button",
+    "x": 268,
+    "y": 1804,
+    "w": 56,
+    "h": 29,
+    "text": "tools"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section.max-w-[90%].mx-auto > div._container_hvhor_209 > h1._title_hvhor_1",
+    "x": 18,
+    "y": 2407,
+    "w": 324,
+    "h": 59,
+    "level": 1,
+    "text": "my services"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section.max-w-[90%].mx-auto > div._container_hvhor_209 > p._subtitle_hvhor_24",
+    "x": 18,
+    "y": 2491,
+    "w": 324,
+    "h": 22,
+    "text": "What I can do for you -"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._card_hvhor_31 > div._img_container_hvhor_81 > img._img_hvhor_81",
+    "x": 115,
+    "y": 2647,
+    "w": 130,
+    "h": 130,
+    "text": "full stack web development",
+    "file": "responsive-35cb8557"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._card_shadow_hvhor_46 > div._card_hvhor_31 > p._name_hvhor_95",
+    "x": 75,
+    "y": 2777,
+    "w": 209,
+    "h": 22,
+    "text": "Full Stack Web Development"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._card_hvhor_31 > div._img_container_hvhor_81 > img._img_hvhor_81",
+    "x": 78,
+    "y": 3007,
+    "w": 203,
+    "h": 130,
+    "text": "aem development",
+    "file": "webDev-3329e0c2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._card_shadow_hvhor_46 > div._card_hvhor_31 > p._name_hvhor_95",
+    "x": 116,
+    "y": 3137,
+    "w": 127,
+    "h": 22,
+    "text": "AEM Development"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._card_hvhor_31 > div._img_container_hvhor_81 > img._img_hvhor_81.w-28",
+    "x": 124,
+    "y": 3376,
+    "w": 112,
+    "h": 112,
+    "text": "graphic design",
+    "file": "galshir-vector-trophy-3925c899"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._card_shadow_hvhor_46 > div._card_hvhor_31 > p._name_hvhor_95",
+    "x": 125,
+    "y": 3497,
+    "w": 110,
+    "h": 22,
+    "text": "Graphic Design"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section.max-w-[90%].mx-auto > section > h2._title_wz6ud_4",
+    "x": 18,
+    "y": 3737,
+    "w": 324,
+    "h": 59,
+    "level": 2,
+    "text": "my medium blogs"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._carouselContainer_wz6ud_31 > div._blogGrid_wz6ud_39 > a._cardLink_wz6ud_116",
+    "x": 34,
+    "y": 3821,
+    "w": 292,
+    "h": 459,
+    "text": "one prompt instead of ten clicks: aem mcp for developers tue oct 13 2026 there i",
+    "href": "/one-prompt-instead-of-ten-clicks-aem-mcp-for-developers-cc38a7b87734"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a._cardLink_wz6ud_116 > article._card_wz6ud_48 > img._cardImage_wz6ud_67",
+    "x": 54,
+    "y": 3841,
+    "w": 252,
+    "h": 190,
+    "text": "one prompt instead of ten clicks: aem mcp for developers",
+    "file": "1*8T7kKNdSPWYioIXbXMDc9A"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a._cardLink_wz6ud_116 > article._card_wz6ud_48 > h3._cardTitle_wz6ud_76",
+    "x": 54,
+    "y": 4046,
+    "w": 252,
+    "h": 53,
+    "level": 3,
+    "text": "one prompt instead of ten clicks: aem mcp for developers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._carouselContainer_wz6ud_31 > div._blogGrid_wz6ud_39 > a._cardLink_wz6ud_116",
+    "x": 34,
+    "y": 4304,
+    "w": 292,
+    "h": 459,
+    "text": "i migrated a react spa to aem edge delivery services in minutes. here’s what tha",
+    "href": "/i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant-d0af80edaa95"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a._cardLink_wz6ud_116 > article._card_wz6ud_48 > img._cardImage_wz6ud_67",
+    "x": 54,
+    "y": 4324,
+    "w": 252,
+    "h": 190,
+    "text": "i migrated a react spa to aem edge delivery services in minu",
+    "file": "1*k6Hw7kTDQCAxoyA4pOzfkA"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a._cardLink_wz6ud_116 > article._card_wz6ud_48 > h3._cardTitle_wz6ud_76",
+    "x": 54,
+    "y": 4529,
+    "w": 252,
+    "h": 53,
+    "level": 3,
+    "text": "i migrated a react spa to aem edge delivery services in minutes. here’s what that actually meant."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._carouselContainer_wz6ud_31 > div._blogGrid_wz6ud_39 > a._cardLink_wz6ud_116",
+    "x": 34,
+    "y": 4787,
+    "w": 292,
+    "h": 459,
+    "text": "figma to aem components with mcp fri feb 06 2026 if you’ve ever built aem compon",
+    "href": "/figma-to-aem-components-with-mcp-78c780868459"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a._cardLink_wz6ud_116 > article._card_wz6ud_48 > img._cardImage_wz6ud_67",
+    "x": 54,
+    "y": 4807,
+    "w": 252,
+    "h": 190,
+    "text": "figma to aem components with mcp",
+    "file": "1*qKBstQveTY6_8wGoq3rzCw"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a._cardLink_wz6ud_116 > article._card_wz6ud_48 > h3._cardTitle_wz6ud_76",
+    "x": 54,
+    "y": 5012,
+    "w": 252,
+    "h": 53,
+    "level": 3,
+    "text": "figma to aem components with mcp"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section > div._carouselContainer_wz6ud_31 > button._viewMoreButton_wz6ud_131",
+    "x": 100,
+    "y": 5276,
+    "w": 159,
+    "h": 45,
+    "text": "see more articles"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section > div._carouselContainer_wz6ud_31 > button._viewMoreButton_wz6ud_131",
+    "x": 100,
+    "y": 5276,
+    "w": 159,
+    "h": 45,
+    "label": "trigger",
+    "value": "see more articles",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section.max-w-[90%].mx-auto > div.relative > h1._title_1jk4x_1",
+    "x": 18,
+    "y": 5477,
+    "w": 324,
+    "h": 59,
+    "level": 1,
+    "text": "my recent works"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._slide_wrapper_1jk4x_35 > div._card_1jk4x_39 > a._project_link_1jk4x_55",
+    "x": -236,
+    "y": 5626,
+    "w": 264,
+    "h": 198,
+    "text": "sab.com",
+    "href": "/en/personal/"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a._project_link_1jk4x_55 > div._img_container_1jk4x_64 > img._img_1jk4x_64",
+    "x": -236,
+    "y": 5626,
+    "w": 264,
+    "h": 198,
+    "text": "sab.com",
+    "file": "SAB-0660ccc8"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._slide_wrapper_1jk4x_35 > div._card_1jk4x_39 > a._project_link_1jk4x_55",
+    "x": 48,
+    "y": 5626,
+    "w": 264,
+    "h": 198,
+    "text": "meemic.com",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a._project_link_1jk4x_55 > div._img_container_1jk4x_64 > img._img_1jk4x_64",
+    "x": 48,
+    "y": 5626,
+    "w": 264,
+    "h": 198,
+    "text": "meemic.com",
+    "file": "Meemic-b6c4876f"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._slide_wrapper_1jk4x_35 > div._card_1jk4x_39 > a._project_link_1jk4x_55",
+    "x": 332,
+    "y": 5626,
+    "w": 264,
+    "h": 198,
+    "text": "shopping website in java using jsp and servlet",
+    "href": "/gururajkoni04/Shopping_Website_in_Java_Using_JSP_and_Servlet"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a._project_link_1jk4x_55 > div._img_container_1jk4x_64 > img._img_1jk4x_64",
+    "x": 332,
+    "y": 5626,
+    "w": 264,
+    "h": 198,
+    "text": "shopping website in java using jsp and servlet",
+    "file": "KoniStore-9b6b8acc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.contact.mb-80 > section.max-w-[90%].mx-auto > h1._title_1iknq_1",
+    "x": 18,
+    "y": 6060,
+    "w": 324,
+    "h": 59,
+    "level": 1,
+    "text": "get in touch!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.contact.mb-80 > section.max-w-[90%].mx-auto > p._subtitle_1iknq_23",
+    "x": 18,
+    "y": 6179,
+    "w": 324,
+    "h": 86,
+    "text": "I'm always excited to hear about new opportunities and collaborations. Don't hes"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "form._form_container_1iknq_40 > div._form_1iknq_40 > h4._form_title_1iknq_60",
+    "x": 66,
+    "y": 6368,
+    "w": 96,
+    "h": 29,
+    "level": 4,
+    "text": "contact me"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "form._form_container_1iknq_40 > div._form_1iknq_40 > button._btn_container_1iknq_94",
+    "x": 178,
+    "y": 6618,
+    "w": 115,
+    "h": 46,
+    "text": "get in touch"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._container_1iknq_30 > div._img_container_1iknq_150 > img._img_1iknq_150",
+    "x": 34,
+    "y": 6775,
+    "w": 292,
+    "h": 353,
+    "text": "contact",
+    "file": "contact-e9a8509a-e9a8509a"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._up_icon_container_1ez18_11 > abbr > button._overlay_1ez18_60._up_overlay_1ez18_65",
+    "x": 159,
+    "y": 605,
+    "w": 42,
+    "h": 42,
+    "text": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section#_footer_1ez18_1 > p._title_1ez18_26 > span._text_1ez18_31",
+    "x": 91,
+    "y": 671,
+    "w": 178,
+    "h": 20,
+    "text": "My Social Networks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section#_footer_1ez18_1 > div._icon_container_1ez18_53 > a._overlay_1ez18_60",
+    "x": 45,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "linkedin",
+    "href": "/in/gururajkoni/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._icon_container_1ez18_53 > a._overlay_1ez18_60 > img._icon_1ez18_53",
+    "x": 45,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "linkedin",
+    "file": "linkedin%20(1)-e61db1d1"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section#_footer_1ez18_1 > div._icon_container_1ez18_53 > a._overlay_1ez18_60",
+    "x": 102,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "facebook",
+    "href": "/konigraphics69"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._icon_container_1ez18_53 > a._overlay_1ez18_60 > img._icon_1ez18_53",
+    "x": 102,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "facebook",
+    "file": "facebook%20(1)-2b95e18b"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section#_footer_1ez18_1 > div._icon_container_1ez18_53 > a._overlay_1ez18_60",
+    "x": 159,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "instagram",
+    "href": "/koni_graphics/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._icon_container_1ez18_53 > a._overlay_1ez18_60 > img._icon_1ez18_53",
+    "x": 159,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "instagram",
+    "file": "instagram%20(1)-88a6c759"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section#_footer_1ez18_1 > div._icon_container_1ez18_53 > a._overlay_1ez18_60",
+    "x": 216,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "twitter",
+    "href": "/gururajkon69"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._icon_container_1ez18_53 > a._overlay_1ez18_60 > img._icon_1ez18_53",
+    "x": 216,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "twitter",
+    "file": "twitter%20(1)-d5d22e96"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section#_footer_1ez18_1 > div._icon_container_1ez18_53 > a._overlay_1ez18_60",
+    "x": 273,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "github",
+    "href": "/gururajkoni04"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div._icon_container_1ez18_53 > a._overlay_1ez18_60 > img._icon_1ez18_53",
+    "x": 273,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "github",
+    "file": "github%20(1)-a11c3607"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section#_footer_1ez18_1 > abbr._p_1ez18_122 > a._a_1ez18_131",
+    "x": 71,
+    "y": 800,
+    "w": 219,
+    "h": 17,
+    "text": "❤️ crafted with care © gururaj koni",
+    "href": "/gururajkoni04"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "section#_footer_1ez18_1 > abbr._p_1ez18_122 > a._a_1ez18_131",
+    "x": 121,
+    "y": 828,
+    "w": 117,
+    "h": 17,
+    "text": "☕ buy me a coffee",
+    "href": "/gururajkoni"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 2,
+    "offPage": 10,
+    "textNodes": 45,
+    "controls": 34,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div._card_1jk4x_39",
+     "path": "div > div._slide_wrapper_1jk4x_35 > div._card_1jk4x_39 > a._project_link_1jk4x_55",
+     "text": "sab.comview project",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "h3._cardTitle_wz6ud_76",
+     "path": "div._blogGrid_wz6ud_39 > a._cardLink_wz6ud_116 > article._card_wz6ud_48 > h3._cardTitle_wz6ud_76",
+     "text": "i migrated a react spa to aem edge delivery services in minu",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--1bfbbf98--aemcoder.aem.page/",
+  "at": "2026-11-12T08:01:24.318Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7538,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.navbar-box > nav#nav > div.navbar-logo-btn",
+    "x": 15,
+    "y": 914,
+    "w": 40,
+    "h": 43,
+    "text": "my logo"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.navbar-logo-btn > picture > img",
+    "x": 15,
+    "y": 914,
+    "w": 28,
+    "h": 43,
+    "text": "my logo",
+    "file": "media_169fd679d592330fed38e6cf00d021da7b"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.navbar-box > nav#nav > div.navbar-hamburger",
+    "x": 290,
+    "y": 925,
+    "w": 40,
+    "h": 22,
+    "text": ""
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.navbar-box > nav#nav > div.navbar-hamburger",
+    "x": 290,
+    "y": 925,
+    "w": 40,
+    "h": 22,
+    "label": "trigger",
+    "value": "",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.hero-box > div.hero-intro > p",
+    "x": 50,
+    "y": 381,
+    "w": 215,
+    "h": 54,
+    "text": "Hi, I'm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.hero-box > div.hero-desc > p",
+    "x": 50,
+    "y": 440,
+    "w": 204,
+    "h": 18,
+    "text": "I am a full-stack Web Developer"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.hero-section.is-inview > div.hero-box > div.hero-btn",
+    "x": 50,
+    "y": 473,
+    "w": 210,
+    "h": 46,
+    "text": "check out my work"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.about.block > div.sec-title.about-title > h1#about-me",
+    "x": 18,
+    "y": 1018,
+    "w": 324,
+    "h": 43,
+    "level": 1,
+    "text": "about me"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.about-para > div.about-text > p",
+    "x": 36,
+    "y": 1129,
+    "w": 288,
+    "h": 218,
+    "text": "I am an AEM Full Stack Developer and Graphic Designer with a Master's in Compute"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.about-text > p > a",
+    "x": 103,
+    "y": 1326,
+    "w": 75,
+    "h": 20,
+    "text": "contact me",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.about-img-container > picture > img",
+    "x": 67,
+    "y": 1410,
+    "w": 227,
+    "h": 227,
+    "text": "gururaj koni",
+    "file": "media_19908008e253647915aae8e3abde05aee2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tech.block > div.tech-title > p",
+    "x": 36,
+    "y": 1710,
+    "w": 288,
+    "h": 44,
+    "text": "Here are a few technologies I`ve been working with recently:"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tech-filters > ul > li",
+    "x": 36,
+    "y": 1804,
+    "w": 38,
+    "h": 29,
+    "text": "all"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tech-filters > ul > li",
+    "x": 74,
+    "y": 1804,
+    "w": 94,
+    "h": 29,
+    "text": "languages"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tech-filters > ul > li",
+    "x": 167,
+    "y": 1804,
+    "w": 101,
+    "h": 29,
+    "text": "frameworks"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tech-filters > ul > li",
+    "x": 268,
+    "y": 1804,
+    "w": 56,
+    "h": 29,
+    "text": "tools"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.services-box > div.sec-title.services-title > h2#my-services",
+    "x": 18,
+    "y": 2415,
+    "w": 324,
+    "h": 43,
+    "level": 2,
+    "text": "my services"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.services-box > div.services-subtitle > p",
+    "x": 18,
+    "y": 2491,
+    "w": 324,
+    "h": 22,
+    "text": "What I can do for you -"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.services-img-container > picture > img",
+    "x": 115,
+    "y": 2647,
+    "w": 130,
+    "h": 130,
+    "text": "full stack web development",
+    "file": "media_1cb91f283e280f45d84bbb7a7052f0053b"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.services-card > div.services-name > h3#full-stack-web-development",
+    "x": 75,
+    "y": 2777,
+    "w": 209,
+    "h": 22,
+    "level": 3,
+    "text": "full stack web development"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.services-img-container > picture > img",
+    "x": 78,
+    "y": 3007,
+    "w": 203,
+    "h": 130,
+    "text": "aem development",
+    "file": "media_183993e4508823455c6bb8d5490a75ede1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.services-card > div.services-name > h3#aem-development",
+    "x": 116,
+    "y": 3137,
+    "w": 127,
+    "h": 22,
+    "level": 3,
+    "text": "aem development"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.services-img-container.services-img-small > picture > img",
+    "x": 124,
+    "y": 3376,
+    "w": 112,
+    "h": 112,
+    "text": "graphic design",
+    "file": "media_161924efd3b05e184ccad2a1f9f042a708"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.services-card > div.services-name > h3#graphic-design",
+    "x": 125,
+    "y": 3497,
+    "w": 110,
+    "h": 22,
+    "level": 3,
+    "text": "graphic design"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.blogs-inner > div.sec-title.blogs-title > h2#my-medium-blogs",
+    "x": 18,
+    "y": 3745,
+    "w": 324,
+    "h": 43,
+    "level": 2,
+    "text": "my medium blogs"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.blogs-box > div.blogs-grid > a.blogs-link",
+    "x": 34,
+    "y": 3821,
+    "w": 292,
+    "h": 459,
+    "text": "one prompt instead of ten clicks: aem mcp for developers tue oct 13 2026 there i",
+    "href": "/one-prompt-instead-of-ten-clicks-aem-mcp-for-developers-cc38a7b87734"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.blogs-img > picture > img",
+    "x": 54,
+    "y": 3841,
+    "w": 252,
+    "h": 190,
+    "text": "one prompt instead of ten clicks: aem mcp for developers",
+    "file": "media_13fb1425dc50bf836a4e5625006c2f895f"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.blogs-card > div.blogs-card-title > h3#one-prompt-instead-of-ten-clicks-aem-mcp-for-developers",
+    "x": 54,
+    "y": 4046,
+    "w": 252,
+    "h": 53,
+    "level": 3,
+    "text": "one prompt instead of ten clicks: aem mcp for developers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.blogs-box > div.blogs-grid > a.blogs-link",
+    "x": 34,
+    "y": 4304,
+    "w": 292,
+    "h": 459,
+    "text": "i migrated a react spa to aem edge delivery services in minutes. here’s what tha",
+    "href": "/i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant-d0af80edaa95"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.blogs-img > picture > img",
+    "x": 54,
+    "y": 4324,
+    "w": 252,
+    "h": 190,
+    "text": "i migrated a react spa to aem edge delivery services in minu",
+    "file": "media_13927172f47eb6895c07dbf4be9d3fc13a"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.blogs-card > div.blogs-card-title > h3#i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant",
+    "x": 54,
+    "y": 4529,
+    "w": 252,
+    "h": 53,
+    "level": 3,
+    "text": "i migrated a react spa to aem edge delivery services in minutes. here’s what that actually meant."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.blogs-box > div.blogs-grid > a.blogs-link",
+    "x": 34,
+    "y": 4787,
+    "w": 292,
+    "h": 459,
+    "text": "figma to aem components with mcp fri feb 06 2026 if you’ve ever built aem compon",
+    "href": "/figma-to-aem-components-with-mcp-78c780868459"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.blogs-img > picture > img",
+    "x": 54,
+    "y": 4807,
+    "w": 252,
+    "h": 190,
+    "text": "figma to aem components with mcp",
+    "file": "media_1289131dc313366f05f63f5d0cd729cc8b"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.blogs-card > div.blogs-card-title > h3#figma-to-aem-components-with-mcp",
+    "x": 54,
+    "y": 5012,
+    "w": 252,
+    "h": 53,
+    "level": 3,
+    "text": "figma to aem components with mcp"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.blogs-inner > div.blogs-box > div.blogs-more",
+    "x": 100,
+    "y": 5276,
+    "w": 159,
+    "h": 45,
+    "text": "see more articles"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.blogs-inner > div.blogs-box > div.blogs-more",
+    "x": 100,
+    "y": 5276,
+    "w": 159,
+    "h": 45,
+    "label": "trigger",
+    "value": "see more articles",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.works-inner > div.sec-title.works-title > h2#my-recent-works",
+    "x": 18,
+    "y": 5485,
+    "w": 324,
+    "h": 43,
+    "level": 2,
+    "text": "my recent works"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.works-slide > div.works-card > a.works-link",
+    "x": -236,
+    "y": 5626,
+    "w": 264,
+    "h": 198,
+    "text": "sab.com",
+    "href": "/en/personal/"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.works-img-container > picture > img",
+    "x": -236,
+    "y": 5626,
+    "w": 264,
+    "h": 198,
+    "text": "sab.com",
+    "file": "media_1acd36cee8df1325340c34325f6cbc3d98"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.works-slide.slick-active > div.works-card > a.works-link",
+    "x": 48,
+    "y": 5626,
+    "w": 264,
+    "h": 198,
+    "text": "meemic.com",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.works-img-container > picture > img",
+    "x": 48,
+    "y": 5626,
+    "w": 264,
+    "h": 198,
+    "text": "meemic.com",
+    "file": "media_10861b527f508abb6454db0201dc89e49e"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.works-slide > div.works-card > a.works-link",
+    "x": 332,
+    "y": 5626,
+    "w": 264,
+    "h": 198,
+    "text": "shopping website in java using jsp and servlet",
+    "href": "/gururajkoni04/Shopping_Website_in_Java_Using_JSP_and_Servlet"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.works-img-container > picture > img",
+    "x": 332,
+    "y": 5626,
+    "w": 264,
+    "h": 198,
+    "text": "shopping website in java using jsp and servlet",
+    "file": "media_1ddaf7324f5e1648c466db792f09ec94b5"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.sec.contact-section > div.sec-title.contact-title > h2#get-in-touch",
+    "x": 18,
+    "y": 6068,
+    "w": 324,
+    "h": 43,
+    "level": 2,
+    "text": "get in touch!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.sec.contact-section > div.contact-subtitle > p",
+    "x": 18,
+    "y": 6179,
+    "w": 324,
+    "h": 86,
+    "text": "I'm always excited to hear about new opportunities and collaborations. Don't hes"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form > div.contact-form-title > h3#contact-me",
+    "x": 66,
+    "y": 6368,
+    "w": 96,
+    "h": 29,
+    "level": 3,
+    "text": "contact me"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form.contact-form-container > div.contact-form > button.contact-btn",
+    "x": 178,
+    "y": 6618,
+    "w": 115,
+    "h": 46,
+    "text": "get in touch"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-img-container > picture > img",
+    "x": 34,
+    "y": 6775,
+    "w": 292,
+    "h": 353,
+    "text": "contact",
+    "file": "media_10bd280f976012f4ce8adb2f58ecfe4d33"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-up > abbr > button.footer-overlay.footer-up-btn",
+    "x": 159,
+    "y": 605,
+    "w": 42,
+    "h": 42,
+    "text": "back to home page"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-title > p",
+    "x": 91,
+    "y": 671,
+    "w": 178,
+    "h": 20,
+    "text": "My Social Networks"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-icons > a.footer-overlay",
+    "x": 45,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "linkedin",
+    "href": "/in/gururajkoni/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "span.footer-icon > picture > img",
+    "x": 45,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "linkedin",
+    "file": "media_1df8aea7449134ac1705f6e969e618585a"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-icons > a.footer-overlay",
+    "x": 102,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "facebook",
+    "href": "/konigraphics69"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "span.footer-icon > picture > img",
+    "x": 102,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "facebook",
+    "file": "media_1b2a51bef615a650e8d46871bdeca8db12"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-icons > a.footer-overlay",
+    "x": 159,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "instagram",
+    "href": "/koni_graphics/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "span.footer-icon > picture > img",
+    "x": 159,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "instagram",
+    "file": "media_17b7478009a06e0acb8292ecd979c691bc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-icons > a.footer-overlay",
+    "x": 216,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "twitter",
+    "href": "/gururajkon69"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "span.footer-icon > picture > img",
+    "x": 216,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "twitter",
+    "file": "media_1a78615a8a95a6b4858af25841c49adede"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-icons > a.footer-overlay",
+    "x": 273,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "github",
+    "href": "/gururajkoni04"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "span.footer-icon > picture > img",
+    "x": 273,
+    "y": 723,
+    "w": 42,
+    "h": 42,
+    "text": "github",
+    "file": "media_12bd5010aadb0af415b0712659487c8936"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "abbr.footer-line.footer-line-first > p > a",
+    "x": 71,
+    "y": 800,
+    "w": 219,
+    "h": 17,
+    "text": "❤️ crafted with care © gururaj koni",
+    "href": "/gururajkoni04"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "abbr.footer-line > p > a",
+    "x": 121,
+    "y": 828,
+    "w": 117,
+    "h": 17,
+    "text": "☕ buy me a coffee",
+    "href": "/gururajkoni"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 2,
+    "offPage": 3,
+    "textNodes": 42,
+    "controls": 27,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.works-card",
+     "path": "div.works-track.is-animating > div.works-slide > div.works-card > a.works-link",
+     "text": "sab.comview project",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "h3#i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant",
+     "path": "a.blogs-link > article.blogs-card > div.blogs-card-title > h3#i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant",
+     "text": "i migrated a react spa to aem edge delivery services in minu",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 2,
+     "path": "a.blogs-link > article.blogs-card > div.blogs-card-title > h3#i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant",
+     "text": "i migrated a react spa to aem edge delivery services in minu",
+     "clipper": "h3#i-migrated-a-react-spa-to-aem-edge-delivery-services-in-minutes-heres-what-that-actually-meant",
+     "rect": {
+      "l": 54,
+      "t": 4531,
+      "r": 291,
+      "b": 4553,
+      "w": 237,
+      "h": 22
+     },
+     "clip": {
+      "l": 54,
+      "t": 4529,
+      "r": 306,
+      "b": 4582,
+      "w": 252,
+      "h": 53
+     },
+     "lines": 4
+    },
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "path": "div.works-track.is-animating > div.works-slide > div.works-card > a.works-link",
+     "text": "sab.comview project",
+     "clipper": "div.works-card",
+     "rect": {
+      "l": -236,
+      "t": 5626,
+      "r": 28,
+      "b": 5824,
+      "w": 264,
+      "h": 198
+     },
+     "clip": {
+      "l": -236,
+      "t": 5626,
+      "r": 28,
+      "b": 5824,
+      "w": 264,
+      "h": 198
+     }
+    },
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "path": "div.works-track.is-animating > div.works-slide > div.works-card > a.works-link",
+     "text": "shopping website in java using jsp and servletview project",
+     "clipper": "div.works-card",
+     "rect": {
+      "l": 332,
+      "t": 5626,
+      "r": 596,
+      "b": 5824,
+      "w": 264,
+      "h": 198
+     },
+     "clip": {
+      "l": 332,
+      "t": 5626,
+      "r": 596,
+      "b": 5824,
+      "w": 264,
+      "h": 198
+     }
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 7,
+    "button": 4,
+    "text": 3,
+    "image": 6
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING LINK",
+    "MISSING LINK",
+    "MISSING LINK",
+    "MISSING LINK",
+    "MISSING LINK",
+    "MISSING LINK",
+    "MISSING LINK",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "COUNT IMAGES"
+   ]
+  },
+  {
+   "index": 1,
+   "heading": "about me",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 4,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 4,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "my services",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 4,
+    "image": 3
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 3,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "my medium blogs",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "one prompt instead of ten clicks: aem mcp for developers",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "i migrated a react spa to aem edge delivery services in minutes. here’s what that actually meant.",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "figma to aem components with mcp",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 1,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "my recent works",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 2,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 2
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "get in touch!",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 1,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🔴",
+   "kind": "MISSING LINK",
+   "msg": "\"linkedin\" → /in/gururajkoni/ in band \"(top)\" (origin y 723) not on the served page",
+   "band": 0,
+   "n": 1,
+   "text": "linkedin",
+   "href": "/in/gururajkoni/"
+  },
+  {
+   "sev": "🔴",
+   "kind": "MISSING LINK",
+   "msg": "\"facebook\" → /konigraphics69 in band \"(top)\" (origin y 723) not on the served page",
+   "band": 0,
+   "n": 1,
+   "text": "facebook",
+   "href": "/konigraphics69"
+  },
+  {
+   "sev": "🔴",
+   "kind": "MISSING LINK",
+   "msg": "\"instagram\" → /koni_graphics/ in band \"(top)\" (origin y 723) not on the served page",
+   "band": 0,
+   "n": 1,
+   "text": "instagram",
+   "href": "/koni_graphics/"
+  },
+  {
+   "sev": "🔴",
+   "kind": "MISSING LINK",
+   "msg": "\"twitter\" → /gururajkon69 in band \"(top)\" (origin y 723) not on the served page",
+   "band": 0,
+   "n": 1,
+   "text": "twitter",
+   "href": "/gururajkon69"
+  },
+  {
+   "sev": "🔴",
+   "kind": "MISSING LINK",
+   "msg": "\"github\" → /gururajkoni04 in band \"(top)\" (origin y 723) not on the served page",
+   "band": 0,
+   "n": 1,
+   "text": "github",
+   "href": "/gururajkoni04"
+  },
+  {
+   "sev": "🔴",
+   "kind": "MISSING LINK",
+   "msg": "\"❤️ crafted with care © gururaj koni\" → /gururajkoni04 in band \"(top)\" (origin y 800) not on the served page",
+   "band": 0,
+   "n": 1,
+   "text": "❤️ crafted with care © gururaj koni",
+   "href": "/gururajkoni04"
+  },
+  {
+   "sev": "🔴",
+   "kind": "MISSING LINK",
+   "msg": "\"☕ buy me a coffee\" → /gururajkoni in band \"(top)\" (origin y 828) not on the served page",
+   "band": 0,
+   "n": 1,
+   "text": "☕ buy me a coffee",
+   "href": "/gururajkoni"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"check out my work\" in band \"(top)\" (origin y 473) not on the served page",
+   "band": 0,
+   "n": 1,
+   "text": "check out my work"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"my logo\" in band \"(top)\" (origin y 914) not on the served page",
+   "band": 0,
+   "n": 1,
+   "text": "my logo"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"full stack web development\" (y 2777) has no origin heading",
+   "text": "full stack web development"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"aem development\" (y 3137) has no origin heading",
+   "text": "aem development"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"graphic design\" (y 3497) has no origin heading",
+   "text": "graphic design"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"contact me\" (y 6368) has no origin heading",
+   "text": "contact me"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"(top)\": 6 origin → 0 served visible",
+   "band": 0,
+   "origin": 6,
+   "eds": 0,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 4,
+  "missingLinks": 7,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 2,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 14,
+  "structural": 7,
+  "missing": 7,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 50,
+    "y": 386,
+    "w": 45,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 406,
+    "w": 215,
+    "h": 31
+   },
+   {
+    "x": 50,
+    "y": 440,
+    "w": 204,
+    "h": 17
+   },
+   {
+    "x": 65,
+    "y": 485,
+    "w": 158,
+    "h": 20
+   },
+   {
+    "x": 120,
+    "y": 1021,
+    "w": 120,
+    "h": 37
+   },
+   {
+    "x": 36,
+    "y": 1130,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1152,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1174,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1195,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1217,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1239,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1261,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1282,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1304,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1326,
+    "w": 67,
+    "h": 18
+   },
+   {
+    "x": 103,
+    "y": 1326,
+    "w": 75,
+    "h": 18
+   },
+   {
+    "x": 184,
+    "y": 1326,
+    "w": 93,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1711,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1733,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 47,
+    "y": 1810,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 85,
+    "y": 1810,
+    "w": 72,
+    "h": 17
+   },
+   {
+    "x": 178,
+    "y": 1810,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 279,
+    "y": 1810,
+    "w": 34,
+    "h": 17
+   },
+   {
+    "x": 105,
+    "y": 2418,
+    "w": 151,
+    "h": 37
+   },
+   {
+    "x": 97,
+    "y": 2491,
+    "w": 165,
+    "h": 20
+   },
+   {
+    "x": 75,
+    "y": 2778,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 116,
+    "y": 3138,
+    "w": 127,
+    "h": 18
+   },
+   {
+    "x": 125,
+    "y": 3498,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 68,
+    "y": 3748,
+    "w": 223,
+    "h": 37
+   },
+   {
+    "x": 54,
+    "y": 4048,
+    "w": 206,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 4075,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 4108,
+    "w": 108,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 4137,
+    "w": 251,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4157,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4177,
+    "w": 213,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4197,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 118,
+    "y": 4197,
+    "w": 14,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4240,
+    "w": 75,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 4531,
+    "w": 237,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 4558,
+    "w": 192,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 4591,
+    "w": 107,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 4620,
+    "w": 235,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4640,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4660,
+    "w": 237,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4680,
+    "w": 58,
+    "h": 20
+   },
+   {
+    "x": 112,
+    "y": 4680,
+    "w": 14,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4723,
+    "w": 75,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 5014,
+    "w": 241,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 5041,
+    "w": 35,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 5074,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 5103,
+    "w": 240,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 5123,
+    "w": 219,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 5143,
+    "w": 218,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 5163,
+    "w": 123,
+    "h": 20
+   },
+   {
+    "x": 177,
+    "y": 5163,
+    "w": 14,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 5206,
+    "w": 75,
+    "h": 18
+   },
+   {
+    "x": 121,
+    "y": 5288,
+    "w": 117,
+    "h": 20
+   },
+   {
+    "x": 71,
+    "y": 5488,
+    "w": 218,
+    "h": 37
+   },
+   {
+    "x": 97,
+    "y": 6071,
+    "w": 167,
+    "h": 37
+   },
+   {
+    "x": 47,
+    "y": 6179,
+    "w": 267,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 6201,
+    "w": 279,
+    "h": 20
+   },
+   {
+    "x": 51,
+    "y": 6223,
+    "w": 259,
+    "h": 20
+   },
+   {
+    "x": 118,
+    "y": 6244,
+    "w": 123,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 6370,
+    "w": 96,
+    "h": 24
+   },
+   {
+    "x": 196,
+    "y": 6631,
+    "w": 79,
+    "h": 18
+   },
+   {
+    "x": 98,
+    "y": 671,
+    "w": 164,
+    "h": 20
+   },
+   {
+    "x": 71,
+    "y": 800,
+    "w": 127,
+    "h": 15
+   },
+   {
+    "x": 198,
+    "y": 797,
+    "w": 12,
+    "h": 20
+   },
+   {
+    "x": 213,
+    "y": 800,
+    "w": 77,
+    "h": 15
+   },
+   {
+    "x": 121,
+    "y": 828,
+    "w": 117,
+    "h": 15
+   }
+  ],
+  "eds": [
+   {
+    "x": 50,
+    "y": 386,
+    "w": 45,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 406,
+    "w": 215,
+    "h": 31
+   },
+   {
+    "x": 50,
+    "y": 440,
+    "w": 204,
+    "h": 17
+   },
+   {
+    "x": 65,
+    "y": 485,
+    "w": 158,
+    "h": 20
+   },
+   {
+    "x": 120,
+    "y": 1021,
+    "w": 120,
+    "h": 37
+   },
+   {
+    "x": 36,
+    "y": 1130,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1152,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1174,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1195,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1217,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1239,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1261,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1282,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1304,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1326,
+    "w": 67,
+    "h": 18
+   },
+   {
+    "x": 103,
+    "y": 1326,
+    "w": 75,
+    "h": 18
+   },
+   {
+    "x": 177,
+    "y": 1326,
+    "w": 100,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1711,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 36,
+    "y": 1733,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 47,
+    "y": 1810,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 85,
+    "y": 1810,
+    "w": 72,
+    "h": 17
+   },
+   {
+    "x": 178,
+    "y": 1810,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 279,
+    "y": 1810,
+    "w": 34,
+    "h": 17
+   },
+   {
+    "x": 105,
+    "y": 2418,
+    "w": 151,
+    "h": 37
+   },
+   {
+    "x": 97,
+    "y": 2491,
+    "w": 165,
+    "h": 20
+   },
+   {
+    "x": 75,
+    "y": 2778,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 116,
+    "y": 3138,
+    "w": 127,
+    "h": 18
+   },
+   {
+    "x": 125,
+    "y": 3498,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 68,
+    "y": 3748,
+    "w": 223,
+    "h": 37
+   },
+   {
+    "x": 54,
+    "y": 4048,
+    "w": 206,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 4075,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 4108,
+    "w": 108,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 4137,
+    "w": 251,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4157,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4177,
+    "w": 213,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4197,
+    "w": 77,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4240,
+    "w": 75,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 4531,
+    "w": 237,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 4558,
+    "w": 192,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 4591,
+    "w": 107,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 4620,
+    "w": 235,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4640,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4660,
+    "w": 237,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4680,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 4723,
+    "w": 75,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 5014,
+    "w": 241,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 5041,
+    "w": 35,
+    "h": 22
+   },
+   {
+    "x": 54,
+    "y": 5074,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 5103,
+    "w": 240,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 5123,
+    "w": 219,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 5143,
+    "w": 218,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 5163,
+    "w": 137,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 5206,
+    "w": 75,
+    "h": 18
+   },
+   {
+    "x": 121,
+    "y": 5288,
+    "w": 117,
+    "h": 20
+   },
+   {
+    "x": 71,
+    "y": 5488,
+    "w": 218,
+    "h": 37
+   },
+   {
+    "x": 97,
+    "y": 6071,
+    "w": 167,
+    "h": 37
+   },
+   {
+    "x": 47,
+    "y": 6179,
+    "w": 267,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 6201,
+    "w": 279,
+    "h": 20
+   },
+   {
+    "x": 51,
+    "y": 6223,
+    "w": 259,
+    "h": 20
+   },
+   {
+    "x": 118,
+    "y": 6244,
+    "w": 123,
+    "h": 20
+   },
+   {
+    "x": 66,
+    "y": 6370,
+    "w": 96,
+    "h": 24
+   },
+   {
+    "x": 196,
+    "y": 6631,
+    "w": 79,
+    "h": 18
+   },
+   {
+    "x": 98,
+    "y": 671,
+    "w": 164,
+    "h": 20
+   },
+   {
+    "x": 71,
+    "y": 800,
+    "w": 127,
+    "h": 15
+   },
+   {
+    "x": 198,
+    "y": 797,
+    "w": 12,
+    "h": 20
+   },
+   {
+    "x": 210,
+    "y": 800,
+    "w": 80,
+    "h": 15
+   },
+   {
+    "x": 121,
+    "y": 828,
+    "w": 117,
+    "h": 15
+   }
+  ]
+ }
+}

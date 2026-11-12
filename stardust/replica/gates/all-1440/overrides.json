@@ -1,0 +1,6 @@
+{
+  "index": {
+    "verdict": "PASS (documented override)",
+    "reason": "HIDDEN 2 = the two centre-mode side slides of the works carousel, clipped by the slider viewport at the same x on the origin (react-slick centerMode) and the build; the region is declared session-variable in presence.json (3 s autoplay on both sides). Pixel, height, clip and MISSING criteria all pass; removing the clipping would be a design change outside the empty inconsistency register. Recorded hands-off at C-final gate-all, 2026-11-12."
+  }
+}

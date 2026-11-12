@@ -1,0 +1,34 @@
+[live-session] waiting to pace live navigations to gururajkoni.dev (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+content-presence @ 1440px (chrome) — origin https://gururajkoni.dev/ (docH 5352, 52 items, HTTP 200) vs served https://main--1bfbbf98--aemcoder.aem.page/ (docH 5352, 50 items, HTTP 200)
+scope: whole page (one side has no <main> / --main root) (header/footer left to the chrome crop gate; --chrome to include)
+| band | heading | links O/E (+hidden) | buttons O/E (+hidden) | text O/E | images O/E | findings |
+|---|---|---|---|---|---|---|
+| 0 | (top) | 12/0 | 4/0 | 3/0 | 7/0 | MISSING LINK, MISSING BUTTON, COUNT IMAGES |
+| 1 | my medium blogs | 3/3 | 0/0 | 0/0 | 3/3 | - |
+| 2 | one prompt instead of ten clicks: aem mc | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 3 | i migrated a react spa to aem edge deliv | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 4 | figma to aem components with mcp | 3/2 (+1) | 3/3 (+1) | 0/0 | 3/3 | HIDDEN LINK, MISSING LINK, EXTRA LINK, COUNT IMAGES |
+  🔴 MISSING LINK: "about" → / in band "(top)" (origin y 934) not on the served page
+  🔴 MISSING LINK: "service" → / in band "(top)" (origin y 934) not on the served page
+  🔴 MISSING LINK: "work" → / in band "(top)" (origin y 934) not on the served page
+  🔴 MISSING LINK: "contact" → / in band "(top)" (origin y 934) not on the served page
+  🔴 MISSING LINK: "blogs" → / in band "(top)" (origin y 934) not on the served page
+  🔴 MISSING LINK: "linkedin" → /in/gururajkoni/ in band "(top)" (origin y 725) not on the served page
+  🔴 MISSING LINK: "facebook" → /konigraphics69 in band "(top)" (origin y 725) not on the served page
+  🔴 MISSING LINK: "instagram" → /koni_graphics/ in band "(top)" (origin y 725) not on the served page
+  🔴 MISSING LINK: "twitter" → /gururajkon69 in band "(top)" (origin y 725) not on the served page
+  🔴 MISSING LINK: "github" → /gururajkoni04 in band "(top)" (origin y 725) not on the served page
+  🔴 MISSING LINK: "❤️ crafted with care © gururaj koni" → /gururajkoni04 in band "(top)" (origin y 802) not on the served page
+  🔴 MISSING LINK: "☕ buy me a coffee" → /gururajkoni in band "(top)" (origin y 830) not on the served page
+  🔴 HIDDEN LINK: "shopping website in java using jsp and servlet" in band "figma to aem components with mcp" — in the served DOM but clipped away (div.works-slide > div.works-card > a.works-link)
+  🔴 MISSING LINK: "acg aaa connect" → /connect in band "figma to aem components with mcp" (origin y 3730) not on the served page
+  🟠 MISSING BUTTON: "check out my work" in band "(top)" (origin y 468) not on the served page
+  🟠 MISSING BUTTON: "my logo" in band "(top)" (origin y 918) not on the served page
+  🟠 MISSING BUTTON: "dark theme" in band "(top)" (origin y 929) not on the served page
+  🟡 COUNT IMAGES: band "(top)": 7 origin → 0 served visible
+  🟡 EXTRA LINK: "sab.com" served in band "figma to aem components with mcp", no origin link or button
+  🟡 COUNT IMAGES: band "figma to aem components with mcp": 3 origin → 3 served visible (+3 clipped away)
+Content: MISSING 13 (headings 0, links 13) / HIDDEN 1 (headings 0, links 1) / control-state 0 / buttons missing 3 hidden 0 / moved 0 extra 1 / count deltas 2
+Findings: 20 (14 structural 🔴)
+Clipped (served side): 0 — origin side 0
+json → stardust/replica/gates/index-1440/content-presence-pub1.json

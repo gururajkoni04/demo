@@ -1,0 +1,56 @@
+{
+  "types": {
+    "landing": {
+      "archetype": "index",
+      "prototype": "stardust/prototypes/index-proposed.html",
+      "contentRoot": ".App",
+      "regime": "prototype",
+      "iterations": { "1440": 3, "360": 3 },
+      "gates": {
+        "1440": { "pixelPct": 2.79, "heightDelta": 0, "contentDiff": "0 looks-same 🔴 / 0 nothing-lost 🟡 (20 owner-accepted carousel-clone + chrome REGION entries, 10 auto)", "visualDiff": "1 advisory — CONTENT GAP (live react-slick clones carry 10 extra headings; justified)", "clip": 0, "overflow": "scrollWidth 1440 = viewport", "chromeCrops": { "header": "100.00% (vacuous: late-fixed nav is hidden by stitch-shot on both sides)", "footer": "99.99%" }, "chromeParity": "quiet with --region nav/footer", "gateAll": "2.97% Δh 0 PASS", "evidence": "stardust/replica/gates/index-1440/verdict-confirm2.json" },
+        "360": { "pixelPct": 2.72, "heightDelta": 0, "contentDiff": "0 looks-same 🔴 / 0 nothing-lost 🟡 (14 owner-accepted, 10 auto)", "visualDiff": "3 advisory — CONTENT GAP (slick clones, justified); FLUSH-LEFT x2 on build = services card mid from-left reveal + carousel mid-autoplay (transient, live has the same behaviours)", "clip": 0, "overflow": "scrollWidth 360 = viewport", "chromeCrops": { "header": "100.00% (vacuous, see 1440)", "footer": "100.00%" }, "chromeParity": "quiet with --region nav/footer", "gateAll": "2.89% Δh 0 PASS", "evidence": "stardust/replica/gates/index-360/verdict-confirm2.json" }
+      },
+      "capProbe": "PASS (2560, 0 of 5 rows failed; stardust/replica/gates/index-2560/cap-iter.json)",
+      "residuals": [
+        { "id": "index-star-field", "band": "0–900 (hero)", "cause": "randomized-decorative", "detail": "three.js star field regenerated per load; prototype renders the static --dark-blue canvas. Permanent residual (class-level).", "permanent": true },
+        { "id": "index-reveal-capture-state", "band": "360: 2000–2500 (18.2%, tech hexagons); 1440: about text/image, tech hexagons, services cards 2–3", "cause": "capture-state", "detail": "framer-motion whileInView (once:false >=768) leaves elements mid-entrance in the live stitched capture; prototype static spec is the revealed state (reveal implemented in index.js, stitch-shot forces end state on the build)." },
+        { "id": "index-carousel-position", "band": "1440: ~3680–4100", "cause": "nondeterministic-live", "detail": "react-slick autoplay (3 s) means the live capture shows whatever slide was current; prototype starts at slide 0 (SAB.com)." },
+        { "id": "index-medium-feed", "band": "blogs", "cause": "live-data", "detail": "Medium cards come from rss2json at runtime; captured 3 posts frozen. 'See more articles' toggles more posts on live (feed has >3); prototype keeps the button (aria-expanded=false) without extra posts — delivery wires the feed (dynamic-features row)." },
+        { "id": "index-carousel-clones", "cause": "granularity (rule-backed)", "detail": "live slick clones duplicate 10 headings + svgs; prototype clones are presentational (image only). Accepted in stardust/replica/accepted.json — hands-off agent decision, owner may revisit." },
+        { "id": "index-chrome-region", "cause": "instrument configuration", "detail": "live has no <header>/<footer>; gate.sh cannot pass --region, default chrome-parity REGION deltas accepted; explicit-region parity quiet at both widths." },
+        { "id": "index-aem-icon-name", "cause": "asset rename", "detail": "iconscout AEM icon served as webp under a .png?f=webp URL; harvested as free-adob-experience-cloud-4238620-3516493.webp (content-diff ICON DIFF advisory 🟡)." }
+      ],
+      "motion": {
+        "observed": [
+          "nav: class 'fixed' added past pageYOffset 780 (headerTimeline/classMutations)",
+          "carousel: autoplay 3 s, 0.5 s track transition, slick-active/center/current state classes; prev/next arrows",
+          "tech filter: active-class swap + list re-render",
+          "entrance reveal (framer whileInView): opacity/transform mid-flight on services cards, tech hexagons, hero button",
+          "hover: services card scale 1.05 + rotate 2deg; blog card translateY(-8px) + shadow; tech hexagon background -> --navy; nav link colour; logo button scale 1.12 + --dark-blue; theme button scale 1.1; 'See more articles' fill; about portrait frame (outline/background-size 0.4 s); contact button border/colour (0.2 s transitions)"
+        ],
+        "implemented": [
+          "nav fixed class at 780 (index.js, live class name 'fixed')",
+          "carousel autoplay 3000 ms + pauseOnHover, 500 ms slide, arrows (removed <=480 like react-slick arrows:false), loop clones image-only",
+          "tech filter re-render with replayed staggered rise (i x 0.15 s)",
+          "reveal: IntersectionObserver 0.25 per section (replay >=768, once <768), tech hexagons any-intersection replay; variants lifted (drop y-50 1.25 s, fade 1 s, from-left x-100, form/image x+-100%, rise y100 0.5 s, delays from source)",
+          "hover CSS for every observed family; hamburger/mobile menu; theme toggle; scroll-to-top; hero CTA scroll one viewport"
+        ],
+        "dead": [
+          "works card hover (translateY/scale/overlay) — no hover diff on live in two observations; not implemented",
+          "hero button / footer social overlay — not measurable (element hidden by replaying reveal or footer under page); source CSS kept, flagged inconclusive"
+        ],
+        "evidence": ["stardust/replica/motion/index.json", "stardust/replica/motion/index-hover2.json", "stardust/replica/motion/index-build.json", "stardust/replica/motion/index-compare.json"],
+        "compare": "20 parity, 3 missing (border-top/bottom-width event count, _btn_active class name), 4 timing advisories (framer JS vs CSS transitions)"
+      },
+      "captureState": [
+        { "element": "hero star field", "freeze": "static solid canvas", "restoreAtDelivery": "three.js rotating random star field (or an equivalent canvas) behind the hero" },
+        { "element": "works carousel", "freeze": "stitch-shot clears timers; slide 0 at rest", "restoreAtDelivery": "react-slick autoplay every 3 s, 500 ms slide, pauseOnHover, centre mode >1400 (3) / 769–1400 (2), 1 slide <=768, arrows hidden <=480" },
+        { "element": "entrance reveals", "freeze": "stitch-shot forces end state", "restoreAtDelivery": "whileInView reveals (replay on re-entry >=768, once below)" },
+        { "element": "footer back-to-top icon", "freeze": "animation frozen", "restoreAtDelivery": "floating 2.5 s ease-in-out infinite (translateY 0→7px)" }
+      ],
+      "portations": [],
+      "media": "stardust/current/assets/media/ (39 files incl. slick.woff), served copy stardust/prototypes/media/",
+      "fonts": "Google Fonts @import identical to source (Bungee, Poppins, Montserrat Alternates, …); base stack Calibre,Inter,… kept verbatim (no webfont on either side); slick icon font self-hosted (media/slick.woff)"
+    }
+  }
+}
